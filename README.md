@@ -8,6 +8,7 @@ Conjuntos de dados **fictícios** para treinar Python, Power BI e IA. Use à von
 | [`dados/vendas_sujo.csv`](dados/vendas_sujo.csv) | 525 | Limpeza de dados no Power Query ou no pandas |
 | [`dados/campanhas_marketing.csv`](dados/campanhas_marketing.csv) | 2.190 | Métricas de marketing: CTR, CPC, CPA e ROAS |
 | [`dados/comentarios.csv`](dados/comentarios.csv) | 300 | Classificação de texto e análise de sentimento |
+| [`bd-vendas-lojas/BD.xlsx`](bd-vendas-lojas) | 3.000 vendas | Modelo estrela completo para modelagem e DAX no Power BI |
 
 ## Desafio: limpe o `vendas_sujo.csv`
 
