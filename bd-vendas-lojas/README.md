@@ -22,12 +22,12 @@ Base **fictícia** em modelo estrela, para praticar modelagem e DAX no Power BI.
 
 | Indicador | Valor |
 |---|---:|
-| Faturamento total | R$ 4.656.688,50 |
-| Lucro | R$ 2.000.953,50 |
+| Faturamento total | R$ 4.667.351,30 |
+| Lucro | R$ 2.004.411,30 |
 | Pedidos | 3.000 |
-| Ticket médio | R$ 1.552,23 |
-| Faturamento 2019 | R$ 2.166.630 |
-| Faturamento 2020 | R$ 2.490.058 |
+| Ticket médio | R$ 1.555,78 |
+| Faturamento 2019 | R$ 2.237.360 |
+| Faturamento 2020 | R$ 2.429.992 |
 
 Se a sua medida de faturamento (`valor_unitario × quantidade`) der outro valor, revise o cálculo ou os relacionamentos.
 
