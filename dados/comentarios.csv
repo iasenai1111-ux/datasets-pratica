@@ -1,0 +1,301 @@
+id,comentario,sentimento,tema
+1,Não tenho do que reclamar do preço.,positivo,preço
+2,"Parabéns, o site está ótimo.",positivo,site
+3,O preço é igual ao da outra loja.,neutro,preço
+4,Ainda estou avaliando o preço.,neutro,preço
+5,"Nunca mais compro, a qualidade do produto é ruim demais.",negativo,qualidade
+6,"O preço foi horrível, não recomendo.",negativo,preço
+7,"O atendimento foi normal, nada de mais.",neutro,atendimento
+8,Não gostei do preço.,negativo,preço
+9,O atendimento mudou este mês?,neutro,atendimento
+10,"Nunca mais compro, a entrega é ruim demais.",negativo,entrega
+11,"Adorei o atendimento, superou o que eu esperava.",positivo,atendimento
+12,Esperava mais do site.,negativo,site
+13,"O preço foi normal, nada de mais.",neutro,preço
+14,"A qualidade do produto foi excelente, recomendo.",positivo,qualidade
+15,Onde encontro detalhes sobre o atendimento?,neutro,atendimento
+16,Ainda estou avaliando o preço.,neutro,preço
+17,Nota 10 para o site!,positivo,site
+18,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+19,"Adorei o site, superou o que eu esperava.",positivo,site
+20,"Achei que ia ser ruim, mas a entrega foi show.",positivo,entrega
+21,Esperava mais do preço.,negativo,preço
+22,"Voltarei a comprar, o preço valeu a pena.",positivo,preço
+23,"Péssimo, a qualidade do produto me decepcionou.",negativo,qualidade
+24,"O preço foi excelente, recomendo.",positivo,preço
+25,Onde encontro detalhes sobre o site?,neutro,site
+26,A entrega resolveu meu problema rapidinho.,positivo,entrega
+27,"O site foi excelente, recomendo.",positivo,site
+28,Esperava mais do preço.,negativo,preço
+29,O atendimento mudou este mês?,neutro,atendimento
+30,"Péssimo, o preço me decepcionou.",negativo,preço
+31,"Adorei o site, superou o que eu esperava.",positivo,site
+32,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+33,A entrega resolveu meu problema rapidinho.,positivo,entrega
+34,"O preço foi excelente, recomendo.",positivo,preço
+35,Onde encontro detalhes sobre o preço?,neutro,preço
+36,"Parabéns, a entrega está ótimo.",positivo,entrega
+37,"Achei que ia ser ruim, mas a entrega foi show.",positivo,entrega
+38,"Adorei a qualidade do produto, superou o que eu esperava.",positivo,qualidade
+39,Esperava mais da entrega.,negativo,entrega
+40,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+41,Que decepção com a qualidade do produto.,negativo,qualidade
+42,Não tenho do que reclamar do preço.,positivo,preço
+43,Vi que a qualidade do produto foi atualizado.,neutro,qualidade
+44,Tive problema com o preço e ninguém resolveu.,negativo,preço
+45,"Voltarei a comprar, a entrega valeu a pena.",positivo,entrega
+46,"O atendimento foi excelente, recomendo.",positivo,atendimento
+47,"Voltarei a comprar, o preço valeu a pena.",positivo,preço
+48,"Nunca mais compro, o atendimento é ruim demais.",negativo,atendimento
+49,Não gostei da qualidade do produto.,negativo,qualidade
+50,"Parabéns, o preço está ótimo.",positivo,preço
+51,Vi que a qualidade do produto foi atualizado.,neutro,qualidade
+52,Que decepção com o preço.,negativo,preço
+53,Ainda estou avaliando o site.,neutro,site
+54,O preço é igual ao da outra loja.,neutro,preço
+55,Alguém sabe como funciona o site?,neutro,site
+56,Que decepção com a qualidade do produto.,negativo,qualidade
+57,"Muito bom, o preço me surpreendeu.",positivo,preço
+58,Gostei bastante da qualidade do produto.,positivo,qualidade
+59,O atendimento deixou muito a desejar.,negativo,atendimento
+60,"Parabéns, a entrega está ótimo.",positivo,entrega
+61,"Péssimo, a qualidade do produto me decepcionou.",negativo,qualidade
+62,A entrega deixou muito a desejar.,negativo,entrega
+63,Esperava mais do atendimento.,negativo,atendimento
+64,A entrega não é nada bom.,negativo,entrega
+65,Alguém sabe como funciona a entrega?,neutro,entrega
+66,"Achei que ia ser ruim, mas o atendimento foi show.",positivo,atendimento
+67,Vi que a entrega foi atualizado.,neutro,entrega
+68,"Parabéns, a entrega está ótimo.",positivo,entrega
+69,Vi que a qualidade do produto foi atualizado.,neutro,qualidade
+70,"O atendimento foi excelente, recomendo.",positivo,atendimento
+71,Qual o prazo para o preço?,neutro,preço
+72,Ainda estou avaliando o site.,neutro,site
+73,"Muito bom, a entrega me surpreendeu.",positivo,entrega
+74,O site deixou muito a desejar.,negativo,site
+75,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+76,Não tenho do que reclamar da qualidade do produto.,positivo,qualidade
+77,Gostei bastante do preço.,positivo,preço
+78,"A entrega foi horrível, não recomendo.",negativo,entrega
+79,Não gostei do site.,negativo,site
+80,"Nunca mais compro, o preço é ruim demais.",negativo,preço
+81,"Recebi hoje, depois comento sobre a entrega.",neutro,entrega
+82,Ainda estou avaliando a entrega.,neutro,entrega
+83,Tive problema com o site e ninguém resolveu.,negativo,site
+84,Gostei bastante da entrega.,positivo,entrega
+85,"O atendimento foi normal, nada de mais.",neutro,atendimento
+86,"Recebi hoje, depois comento sobre o atendimento.",neutro,atendimento
+87,"O preço foi excelente, recomendo.",positivo,preço
+88,O atendimento mudou este mês?,neutro,atendimento
+89,Alguém sabe como funciona a qualidade do produto?,neutro,qualidade
+90,"Muito bom, a qualidade do produto me surpreendeu.",positivo,qualidade
+91,"Achei que ia ser ruim, mas o site foi show.",positivo,site
+92,"A entrega foi excelente, recomendo.",positivo,entrega
+93,"Já foi ótimo, hoje o site está uma bagunça.",negativo,site
+94,"Voltarei a comprar, a qualidade do produto valeu a pena.",positivo,qualidade
+95,Não tenho do que reclamar da entrega.,positivo,entrega
+96,Não gostei do site.,negativo,site
+97,"Já foi ótimo, hoje a entrega está uma bagunça.",negativo,entrega
+98,"Voltarei a comprar, o atendimento valeu a pena.",positivo,atendimento
+99,Que decepção com a entrega.,negativo,entrega
+100,A entrega é igual ao da outra loja.,neutro,entrega
+101,"O atendimento foi normal, nada de mais.",neutro,atendimento
+102,"O preço foi normal, nada de mais.",neutro,preço
+103,Alguém sabe como funciona o preço?,neutro,preço
+104,"O preço foi horrível, não recomendo.",negativo,preço
+105,O atendimento deixou muito a desejar.,negativo,atendimento
+106,Onde encontro detalhes sobre o preço?,neutro,preço
+107,Não tenho do que reclamar do preço.,positivo,preço
+108,"Nunca mais compro, a entrega é ruim demais.",negativo,entrega
+109,"Muito bom, o site me surpreendeu.",positivo,site
+110,Nota 10 para o preço!,positivo,preço
+111,"Nunca mais compro, o site é ruim demais.",negativo,site
+112,Alguém sabe como funciona o site?,neutro,site
+113,Onde encontro detalhes sobre o site?,neutro,site
+114,Qual o prazo para o site?,neutro,site
+115,Não tenho do que reclamar do atendimento.,positivo,atendimento
+116,Não gostei da entrega.,negativo,entrega
+117,Nota 10 para a entrega!,positivo,entrega
+118,O preço não é nada bom.,negativo,preço
+119,O atendimento mudou este mês?,neutro,atendimento
+120,"Adorei a entrega, superou o que eu esperava.",positivo,entrega
+121,"Muito bom, a qualidade do produto me surpreendeu.",positivo,qualidade
+122,"Parabéns, o site está ótimo.",positivo,site
+123,Esperava mais do site.,negativo,site
+124,"Adorei o atendimento, superou o que eu esperava.",positivo,atendimento
+125,"O atendimento foi normal, nada de mais.",neutro,atendimento
+126,Gostei bastante da entrega.,positivo,entrega
+127,"O preço foi normal, nada de mais.",neutro,preço
+128,Queria mais informações sobre a entrega.,neutro,entrega
+129,"O preço foi excelente, recomendo.",positivo,preço
+130,Qual o prazo para a entrega?,neutro,entrega
+131,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço
+132,"O site foi horrível, não recomendo.",negativo,site
+133,Que decepção com a entrega.,negativo,entrega
+134,Não gostei da entrega.,negativo,entrega
+135,O site deixou muito a desejar.,negativo,site
+136,"O atendimento foi horrível, não recomendo.",negativo,atendimento
+137,Nota 10 para a entrega!,positivo,entrega
+138,"Adorei a entrega, superou o que eu esperava.",positivo,entrega
+139,"Nunca mais compro, o preço é ruim demais.",negativo,preço
+140,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade
+141,"O atendimento foi excelente, recomendo.",positivo,atendimento
+142,O preço mudou este mês?,neutro,preço
+143,Vi que o preço foi atualizado.,neutro,preço
+144,Que decepção com o atendimento.,negativo,atendimento
+145,Não tenho do que reclamar da qualidade do produto.,positivo,qualidade
+146,"Voltarei a comprar, o preço valeu a pena.",positivo,preço
+147,A qualidade do produto é igual ao da outra loja.,neutro,qualidade
+148,"Voltarei a comprar, a entrega valeu a pena.",positivo,entrega
+149,"Péssimo, o atendimento me decepcionou.",negativo,atendimento
+150,O preço mudou este mês?,neutro,preço
+151,Alguém sabe como funciona o atendimento?,neutro,atendimento
+152,A entrega resolveu meu problema rapidinho.,positivo,entrega
+153,"A entrega foi excelente, recomendo.",positivo,entrega
+154,Não tenho do que reclamar do atendimento.,positivo,atendimento
+155,O site resolveu meu problema rapidinho.,positivo,site
+156,Tive problema com o preço e ninguém resolveu.,negativo,preço
+157,"Muito bom, o preço me surpreendeu.",positivo,preço
+158,O preço é igual ao da outra loja.,neutro,preço
+159,A qualidade do produto é igual ao da outra loja.,neutro,qualidade
+160,"Recebi hoje, depois comento sobre o preço.",neutro,preço
+161,"Já foi ótimo, hoje o atendimento está uma bagunça.",negativo,atendimento
+162,"A entrega foi excelente, recomendo.",positivo,entrega
+163,"Nunca mais compro, o atendimento é ruim demais.",negativo,atendimento
+164,Tive problema com a entrega e ninguém resolveu.,negativo,entrega
+165,Não gostei da entrega.,negativo,entrega
+166,"Parabéns, o atendimento está ótimo.",positivo,atendimento
+167,O preço não é nada bom.,negativo,preço
+168,"O preço foi normal, nada de mais.",neutro,preço
+169,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço
+170,O preço resolveu meu problema rapidinho.,positivo,preço
+171,Gostei bastante da qualidade do produto.,positivo,qualidade
+172,Ainda estou avaliando o site.,neutro,site
+173,"Voltarei a comprar, a qualidade do produto valeu a pena.",positivo,qualidade
+174,"Muito bom, o preço me surpreendeu.",positivo,preço
+175,"Nunca mais compro, a qualidade do produto é ruim demais.",negativo,qualidade
+176,A qualidade do produto deixou muito a desejar.,negativo,qualidade
+177,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+178,Alguém sabe como funciona o preço?,neutro,preço
+179,"A qualidade do produto foi normal, nada de mais.",neutro,qualidade
+180,"Voltarei a comprar, a qualidade do produto valeu a pena.",positivo,qualidade
+181,A entrega resolveu meu problema rapidinho.,positivo,entrega
+182,Onde encontro detalhes sobre a entrega?,neutro,entrega
+183,Esperava mais do site.,negativo,site
+184,"Voltarei a comprar, o site valeu a pena.",positivo,site
+185,"Adorei o site, superou o que eu esperava.",positivo,site
+186,Que decepção com o site.,negativo,site
+187,"A entrega foi horrível, não recomendo.",negativo,entrega
+188,O site resolveu meu problema rapidinho.,positivo,site
+189,"Já foi ótimo, hoje a qualidade do produto está uma bagunça.",negativo,qualidade
+190,"A qualidade do produto foi excelente, recomendo.",positivo,qualidade
+191,Gostei bastante da entrega.,positivo,entrega
+192,"Voltarei a comprar, o site valeu a pena.",positivo,site
+193,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço
+194,O preço não é nada bom.,negativo,preço
+195,"Adorei a entrega, superou o que eu esperava.",positivo,entrega
+196,Nota 10 para o site!,positivo,site
+197,O site deixou muito a desejar.,negativo,site
+198,"Achei que ia ser ruim, mas o atendimento foi show.",positivo,atendimento
+199,"O atendimento foi excelente, recomendo.",positivo,atendimento
+200,"Parabéns, o preço está ótimo.",positivo,preço
+201,A qualidade do produto não é nada bom.,negativo,qualidade
+202,O site não é nada bom.,negativo,site
+203,"Adorei a qualidade do produto, superou o que eu esperava.",positivo,qualidade
+204,Queria mais informações sobre o atendimento.,neutro,atendimento
+205,Gostei bastante do site.,positivo,site
+206,"O atendimento foi horrível, não recomendo.",negativo,atendimento
+207,"A entrega foi normal, nada de mais.",neutro,entrega
+208,Queria mais informações sobre o site.,neutro,site
+209,O preço deixou muito a desejar.,negativo,preço
+210,Ainda estou avaliando o site.,neutro,site
+211,O atendimento é igual ao da outra loja.,neutro,atendimento
+212,Que decepção com o atendimento.,negativo,atendimento
+213,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade
+214,A entrega mudou este mês?,neutro,entrega
+215,"A qualidade do produto foi excelente, recomendo.",positivo,qualidade
+216,"Muito bom, o preço me surpreendeu.",positivo,preço
+217,Alguém sabe como funciona a entrega?,neutro,entrega
+218,"Recebi hoje, depois comento sobre o preço.",neutro,preço
+219,Gostei bastante da qualidade do produto.,positivo,qualidade
+220,Que decepção com a qualidade do produto.,negativo,qualidade
+221,Tive problema com o site e ninguém resolveu.,negativo,site
+222,Não tenho do que reclamar do preço.,positivo,preço
+223,"A qualidade do produto foi excelente, recomendo.",positivo,qualidade
+224,A qualidade do produto mudou este mês?,neutro,qualidade
+225,"Muito bom, o preço me surpreendeu.",positivo,preço
+226,Gostei bastante da entrega.,positivo,entrega
+227,O site deixou muito a desejar.,negativo,site
+228,"Péssimo, a entrega me decepcionou.",negativo,entrega
+229,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade
+230,O atendimento é igual ao da outra loja.,neutro,atendimento
+231,Gostei bastante do preço.,positivo,preço
+232,Onde encontro detalhes sobre a entrega?,neutro,entrega
+233,"Nunca mais compro, a qualidade do produto é ruim demais.",negativo,qualidade
+234,"O site foi excelente, recomendo.",positivo,site
+235,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+236,Gostei bastante do atendimento.,positivo,atendimento
+237,Tive problema com o atendimento e ninguém resolveu.,negativo,atendimento
+238,Que decepção com o preço.,negativo,preço
+239,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço
+240,Não gostei do preço.,negativo,preço
+241,O atendimento resolveu meu problema rapidinho.,positivo,atendimento
+242,O atendimento não é nada bom.,negativo,atendimento
+243,Ainda estou avaliando a qualidade do produto.,neutro,qualidade
+244,Onde encontro detalhes sobre a qualidade do produto?,neutro,qualidade
+245,Alguém sabe como funciona a entrega?,neutro,entrega
+246,Não tenho do que reclamar do site.,positivo,site
+247,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço
+248,"Voltarei a comprar, a qualidade do produto valeu a pena.",positivo,qualidade
+249,Onde encontro detalhes sobre o preço?,neutro,preço
+250,"O atendimento foi horrível, não recomendo.",negativo,atendimento
+251,O atendimento não é nada bom.,negativo,atendimento
+252,"Muito bom, o preço me surpreendeu.",positivo,preço
+253,A qualidade do produto mudou este mês?,neutro,qualidade
+254,A entrega não é nada bom.,negativo,entrega
+255,Vi que o site foi atualizado.,neutro,site
+256,"Adorei a entrega, superou o que eu esperava.",positivo,entrega
+257,"Muito bom, o site me surpreendeu.",positivo,site
+258,"O site foi normal, nada de mais.",neutro,site
+259,Não tenho do que reclamar do preço.,positivo,preço
+260,"Adorei o atendimento, superou o que eu esperava.",positivo,atendimento
+261,"Péssimo, a qualidade do produto me decepcionou.",negativo,qualidade
+262,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço
+263,A entrega é igual ao da outra loja.,neutro,entrega
+264,"Péssimo, a qualidade do produto me decepcionou.",negativo,qualidade
+265,Ainda estou avaliando o atendimento.,neutro,atendimento
+266,"Parabéns, a entrega está ótimo.",positivo,entrega
+267,"Péssimo, a entrega me decepcionou.",negativo,entrega
+268,"Parabéns, o atendimento está ótimo.",positivo,atendimento
+269,"Péssimo, a entrega me decepcionou.",negativo,entrega
+270,"A qualidade do produto foi horrível, não recomendo.",negativo,qualidade
+271,Que decepção com o site.,negativo,site
+272,O preço não é nada bom.,negativo,preço
+273,"Péssimo, o atendimento me decepcionou.",negativo,atendimento
+274,Não gostei do atendimento.,negativo,atendimento
+275,Nota 10 para o site!,positivo,site
+276,Não gostei da entrega.,negativo,entrega
+277,"Já foi ótimo, hoje a entrega está uma bagunça.",negativo,entrega
+278,Tive problema com o atendimento e ninguém resolveu.,negativo,atendimento
+279,Nota 10 para o preço!,positivo,preço
+280,Gostei bastante da entrega.,positivo,entrega
+281,A qualidade do produto resolveu meu problema rapidinho.,positivo,qualidade
+282,"Recebi hoje, depois comento sobre o preço.",neutro,preço
+283,Não tenho do que reclamar da entrega.,positivo,entrega
+284,Onde encontro detalhes sobre o preço?,neutro,preço
+285,Que decepção com a qualidade do produto.,negativo,qualidade
+286,Qual o prazo para o site?,neutro,site
+287,Que decepção com o atendimento.,negativo,atendimento
+288,"Muito bom, o preço me surpreendeu.",positivo,preço
+289,"Nunca mais compro, o preço é ruim demais.",negativo,preço
+290,Alguém sabe como funciona o atendimento?,neutro,atendimento
+291,"Parabéns, a qualidade do produto está ótimo.",positivo,qualidade
+292,Gostei bastante da entrega.,positivo,entrega
+293,"Já foi ótimo, hoje a qualidade do produto está uma bagunça.",negativo,qualidade
+294,"Muito bom, a entrega me surpreendeu.",positivo,entrega
+295,Queria mais informações sobre a qualidade do produto.,neutro,qualidade
+296,Tive problema com o site e ninguém resolveu.,negativo,site
+297,Alguém sabe como funciona o site?,neutro,site
+298,"Recebi hoje, depois comento sobre o site.",neutro,site
+299,Gostei bastante da entrega.,positivo,entrega
+300,Que decepção com o atendimento.,negativo,atendimento

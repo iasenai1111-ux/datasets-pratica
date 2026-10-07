@@ -1,0 +1,2001 @@
+id_pedido,data,produto,categoria,regiao,vendedor,quantidade,preco_unitario,desconto_pct,total
+10001,2025-01-01,Monitor 24,Informática,Sudeste,Diego,5,890,0,4450.0
+10002,2025-01-01,Fone bluetooth,Áudio,Sul,Carla,4,260,5,988.0
+10003,2025-01-01,Teclado mecânico,Informática,Nordeste,Bruno,4,310,15,1054.0
+10004,2025-01-01,Suporte para notebook,Acessórios,Centro-Oeste,Hugo,1,120,0,120.0
+10005,2025-01-01,Suporte para notebook,Acessórios,Nordeste,Carla,5,120,0,600.0
+10006,2025-01-02,Fone bluetooth,Áudio,Nordeste,Hugo,2,260,0,520.0
+10007,2025-01-02,Cadeira ergonômica,Móveis,Sul,Elisa,4,1150,0,4600.0
+10008,2025-01-02,Cadeira ergonômica,Móveis,Sudeste,Elisa,4,1150,5,4370.0
+10009,2025-01-02,Mouse sem fio,Informática,Centro-Oeste,Diego,5,85,0,425.0
+10010,2025-01-02,Teclado mecânico,Informática,Centro-Oeste,Elisa,4,310,0,1240.0
+10011,2025-01-02,Teclado mecânico,Informática,Sul,Hugo,3,310,0,930.0
+10012,2025-01-02,Teclado mecânico,Informática,Sudeste,Elisa,3,310,5,883.5
+10013,2025-01-02,Monitor 24,Informática,Norte,Elisa,5,890,0,4450.0
+10014,2025-01-02,Fone bluetooth,Áudio,Centro-Oeste,Ana,2,260,0,520.0
+10015,2025-01-02,Mesa de escritório,Móveis,Sudeste,Bruno,1,740,0,740.0
+10016,2025-01-02,Mouse sem fio,Informática,Centro-Oeste,Bruno,4,85,5,323.0
+10017,2025-01-03,Webcam HD,Acessórios,Sudeste,Bruno,3,190,5,541.5
+10018,2025-01-03,Mouse sem fio,Informática,Norte,Fábio,3,85,10,229.5
+10019,2025-01-03,Suporte para notebook,Acessórios,Sudeste,Hugo,1,120,5,114.0
+10020,2025-01-03,Cadeira ergonômica,Móveis,Sudeste,Diego,2,1150,5,2185.0
+10021,2025-01-03,Caixa de som,Áudio,Sul,Hugo,4,420,0,1680.0
+10022,2025-01-03,Caixa de som,Áudio,Centro-Oeste,Elisa,4,420,0,1680.0
+10023,2025-01-04,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,0,1480.0
+10024,2025-01-04,Mesa de escritório,Móveis,Sul,Diego,1,740,0,740.0
+10025,2025-01-04,Suporte para notebook,Acessórios,Nordeste,Diego,1,120,0,120.0
+10026,2025-01-04,Notebook 14,Informática,Sul,Elisa,5,3200,5,15200.0
+10027,2025-01-04,Notebook 14,Informática,Sudeste,Carla,3,3200,0,9600.0
+10028,2025-01-04,Mouse sem fio,Informática,Nordeste,Hugo,4,85,10,306.0
+10029,2025-01-05,Webcam HD,Acessórios,Sudeste,Carla,3,190,10,513.0
+10030,2025-01-05,Caixa de som,Áudio,Norte,Fábio,3,420,0,1260.0
+10031,2025-01-05,Notebook 14,Informática,Sudeste,Hugo,2,3200,5,6080.0
+10032,2025-01-06,Fone bluetooth,Áudio,Sudeste,Fábio,2,260,0,520.0
+10033,2025-01-06,Mouse sem fio,Informática,Sudeste,Gabi,1,85,5,80.75
+10034,2025-01-06,Notebook 14,Informática,Norte,Fábio,1,3200,0,3200.0
+10035,2025-01-06,Teclado mecânico,Informática,Sudeste,Fábio,1,310,15,263.5
+10036,2025-01-06,Mouse sem fio,Informática,Sudeste,Elisa,2,85,5,161.5
+10037,2025-01-07,Caixa de som,Áudio,Sudeste,Gabi,1,420,0,420.0
+10038,2025-01-07,Mesa de escritório,Móveis,Sudeste,Bruno,3,740,10,1998.0
+10039,2025-01-07,Monitor 24,Informática,Sul,Fábio,2,890,0,1780.0
+10040,2025-01-07,Mouse sem fio,Informática,Sudeste,Elisa,3,85,0,255.0
+10041,2025-01-07,Notebook 14,Informática,Sudeste,Diego,1,3200,0,3200.0
+10042,2025-01-07,Cadeira ergonômica,Móveis,Centro-Oeste,Fábio,1,1150,0,1150.0
+10043,2025-01-08,Suporte para notebook,Acessórios,Sudeste,Gabi,1,120,10,108.0
+10044,2025-01-08,Mouse sem fio,Informática,Centro-Oeste,Bruno,5,85,0,425.0
+10045,2025-01-08,Webcam HD,Acessórios,Nordeste,Diego,2,190,15,323.0
+10046,2025-01-08,Cadeira ergonômica,Móveis,Sul,Gabi,3,1150,5,3277.5
+10047,2025-01-09,Suporte para notebook,Acessórios,Sul,Elisa,5,120,5,570.0
+10048,2025-01-09,Caixa de som,Áudio,Sudeste,Fábio,5,420,5,1995.0
+10049,2025-01-09,Mouse sem fio,Informática,Sudeste,Diego,2,85,5,161.5
+10050,2025-01-09,Cadeira ergonômica,Móveis,Sul,Bruno,2,1150,15,1955.0
+10051,2025-01-09,Mouse sem fio,Informática,Norte,Hugo,5,85,0,425.0
+10052,2025-01-09,Monitor 24,Informática,Sul,Ana,3,890,0,2670.0
+10053,2025-01-09,Mesa de escritório,Móveis,Sudeste,Diego,5,740,5,3515.0
+10054,2025-01-10,Caixa de som,Áudio,Nordeste,Elisa,2,420,0,840.0
+10055,2025-01-10,Cadeira ergonômica,Móveis,Nordeste,Elisa,1,1150,0,1150.0
+10056,2025-01-10,Notebook 14,Informática,Nordeste,Hugo,3,3200,15,8160.0
+10057,2025-01-10,Mouse sem fio,Informática,Sul,Hugo,4,85,0,340.0
+10058,2025-01-11,Suporte para notebook,Acessórios,Sudeste,Carla,4,120,0,480.0
+10059,2025-01-11,Webcam HD,Acessórios,Sudeste,Diego,1,190,5,180.5
+10060,2025-01-11,Monitor 24,Informática,Centro-Oeste,Elisa,1,890,10,801.0
+10061,2025-01-11,Mouse sem fio,Informática,Nordeste,Carla,4,85,5,323.0
+10062,2025-01-11,Suporte para notebook,Acessórios,Sul,Ana,1,120,0,120.0
+10063,2025-01-12,Teclado mecânico,Informática,Nordeste,Diego,1,310,5,294.5
+10064,2025-01-12,Notebook 14,Informática,Nordeste,Elisa,4,3200,15,10880.0
+10065,2025-01-12,Mouse sem fio,Informática,Sudeste,Hugo,4,85,0,340.0
+10066,2025-01-12,Notebook 14,Informática,Nordeste,Hugo,2,3200,0,6400.0
+10067,2025-01-12,Teclado mecânico,Informática,Nordeste,Bruno,1,310,0,310.0
+10068,2025-01-13,Teclado mecânico,Informática,Sul,Diego,5,310,0,1550.0
+10069,2025-01-13,Mouse sem fio,Informática,Sudeste,Hugo,5,85,10,382.5
+10070,2025-01-13,Mouse sem fio,Informática,Sudeste,Fábio,2,85,0,170.0
+10071,2025-01-14,Mouse sem fio,Informática,Sudeste,Diego,3,85,5,242.25
+10072,2025-01-14,Caixa de som,Áudio,Sudeste,Carla,1,420,5,399.0
+10073,2025-01-14,Fone bluetooth,Áudio,Sudeste,Carla,3,260,0,780.0
+10074,2025-01-14,Mouse sem fio,Informática,Sul,Fábio,3,85,0,255.0
+10075,2025-01-14,Cadeira ergonômica,Móveis,Sudeste,Bruno,3,1150,0,3450.0
+10076,2025-01-14,Suporte para notebook,Acessórios,Sudeste,Ana,5,120,0,600.0
+10077,2025-01-14,Fone bluetooth,Áudio,Sudeste,Gabi,5,260,5,1235.0
+10078,2025-01-15,Notebook 14,Informática,Sudeste,Elisa,1,3200,10,2880.0
+10079,2025-01-15,Teclado mecânico,Informática,Sudeste,Elisa,4,310,5,1178.0
+10080,2025-01-15,Notebook 14,Informática,Sul,Carla,5,3200,0,16000.0
+10081,2025-01-16,Cadeira ergonômica,Móveis,Sudeste,Hugo,3,1150,0,3450.0
+10082,2025-01-16,Monitor 24,Informática,Nordeste,Ana,5,890,0,4450.0
+10083,2025-01-16,Monitor 24,Informática,Sul,Fábio,2,890,0,1780.0
+10084,2025-01-16,Mouse sem fio,Informática,Sudeste,Diego,1,85,0,85.0
+10085,2025-01-16,Notebook 14,Informática,Sudeste,Fábio,2,3200,0,6400.0
+10086,2025-01-16,Webcam HD,Acessórios,Norte,Gabi,1,190,0,190.0
+10087,2025-01-16,Mesa de escritório,Móveis,Sudeste,Ana,1,740,0,740.0
+10088,2025-01-16,Fone bluetooth,Áudio,Sudeste,Carla,4,260,5,988.0
+10089,2025-01-17,Webcam HD,Acessórios,Sudeste,Bruno,1,190,5,180.5
+10090,2025-01-17,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,0,1480.0
+10091,2025-01-17,Caixa de som,Áudio,Centro-Oeste,Elisa,1,420,15,357.0
+10092,2025-01-17,Suporte para notebook,Acessórios,Sudeste,Fábio,4,120,10,432.0
+10093,2025-01-17,Teclado mecânico,Informática,Norte,Carla,4,310,0,1240.0
+10094,2025-01-18,Cadeira ergonômica,Móveis,Nordeste,Diego,4,1150,15,3910.0
+10095,2025-01-18,Notebook 14,Informática,Sudeste,Carla,1,3200,10,2880.0
+10096,2025-01-18,Teclado mecânico,Informática,Sul,Hugo,4,310,0,1240.0
+10097,2025-01-18,Monitor 24,Informática,Centro-Oeste,Hugo,4,890,5,3382.0
+10098,2025-01-18,Webcam HD,Acessórios,Sudeste,Diego,3,190,0,570.0
+10099,2025-01-18,Suporte para notebook,Acessórios,Sudeste,Ana,2,120,5,228.0
+10100,2025-01-18,Suporte para notebook,Acessórios,Sudeste,Fábio,1,120,0,120.0
+10101,2025-01-19,Cadeira ergonômica,Móveis,Sudeste,Gabi,3,1150,0,3450.0
+10102,2025-01-19,Notebook 14,Informática,Sudeste,Hugo,5,3200,15,13600.0
+10103,2025-01-19,Fone bluetooth,Áudio,Sudeste,Ana,3,260,0,780.0
+10104,2025-01-19,Cadeira ergonômica,Móveis,Sudeste,Fábio,4,1150,0,4600.0
+10105,2025-01-19,Monitor 24,Informática,Sudeste,Bruno,1,890,0,890.0
+10106,2025-01-19,Mouse sem fio,Informática,Sudeste,Diego,4,85,5,323.0
+10107,2025-01-19,Fone bluetooth,Áudio,Sudeste,Bruno,2,260,10,468.0
+10108,2025-01-19,Suporte para notebook,Acessórios,Sudeste,Fábio,4,120,15,408.0
+10109,2025-01-20,Fone bluetooth,Áudio,Sudeste,Elisa,3,260,0,780.0
+10110,2025-01-20,Suporte para notebook,Acessórios,Sudeste,Fábio,1,120,0,120.0
+10111,2025-01-20,Fone bluetooth,Áudio,Sul,Carla,3,260,15,663.0
+10112,2025-01-20,Monitor 24,Informática,Sudeste,Gabi,5,890,10,4005.0
+10113,2025-01-21,Mesa de escritório,Móveis,Sul,Carla,5,740,15,3145.0
+10114,2025-01-21,Monitor 24,Informática,Sudeste,Gabi,3,890,15,2269.5
+10115,2025-01-21,Caixa de som,Áudio,Sul,Bruno,5,420,0,2100.0
+10116,2025-01-21,Suporte para notebook,Acessórios,Sudeste,Fábio,2,120,0,240.0
+10117,2025-01-21,Caixa de som,Áudio,Sudeste,Elisa,1,420,0,420.0
+10118,2025-01-21,Fone bluetooth,Áudio,Sudeste,Hugo,3,260,0,780.0
+10119,2025-01-21,Suporte para notebook,Acessórios,Sul,Hugo,5,120,0,600.0
+10120,2025-01-22,Notebook 14,Informática,Nordeste,Ana,1,3200,5,3040.0
+10121,2025-01-22,Caixa de som,Áudio,Sul,Fábio,4,420,0,1680.0
+10122,2025-01-22,Webcam HD,Acessórios,Sudeste,Ana,5,190,5,902.5
+10123,2025-01-23,Mouse sem fio,Informática,Sudeste,Fábio,4,85,0,340.0
+10124,2025-01-23,Fone bluetooth,Áudio,Centro-Oeste,Ana,5,260,0,1300.0
+10125,2025-01-23,Mouse sem fio,Informática,Norte,Hugo,5,85,5,403.75
+10126,2025-01-23,Notebook 14,Informática,Nordeste,Gabi,1,3200,10,2880.0
+10127,2025-01-23,Webcam HD,Acessórios,Norte,Hugo,1,190,5,180.5
+10128,2025-01-24,Webcam HD,Acessórios,Nordeste,Carla,2,190,0,380.0
+10129,2025-01-24,Monitor 24,Informática,Centro-Oeste,Bruno,2,890,5,1691.0
+10130,2025-01-24,Webcam HD,Acessórios,Nordeste,Diego,3,190,10,513.0
+10131,2025-01-25,Mesa de escritório,Móveis,Sudeste,Hugo,3,740,5,2109.0
+10132,2025-01-25,Teclado mecânico,Informática,Norte,Diego,3,310,0,930.0
+10133,2025-01-25,Suporte para notebook,Acessórios,Norte,Elisa,1,120,0,120.0
+10134,2025-01-25,Webcam HD,Acessórios,Nordeste,Fábio,2,190,15,323.0
+10135,2025-01-25,Notebook 14,Informática,Norte,Gabi,3,3200,0,9600.0
+10136,2025-01-25,Caixa de som,Áudio,Sudeste,Hugo,5,420,10,1890.0
+10137,2025-01-26,Caixa de som,Áudio,Nordeste,Fábio,4,420,5,1596.0
+10138,2025-01-27,Mouse sem fio,Informática,Nordeste,Elisa,1,85,15,72.25
+10139,2025-01-27,Caixa de som,Áudio,Norte,Ana,4,420,10,1512.0
+10140,2025-01-27,Fone bluetooth,Áudio,Sudeste,Bruno,1,260,10,234.0
+10141,2025-01-27,Fone bluetooth,Áudio,Sul,Fábio,4,260,5,988.0
+10142,2025-01-28,Mouse sem fio,Informática,Sudeste,Carla,2,85,10,153.0
+10143,2025-01-28,Mesa de escritório,Móveis,Sudeste,Hugo,3,740,10,1998.0
+10144,2025-01-28,Monitor 24,Informática,Sudeste,Gabi,2,890,0,1780.0
+10145,2025-01-28,Teclado mecânico,Informática,Sul,Hugo,2,310,15,527.0
+10146,2025-01-28,Caixa de som,Áudio,Sul,Hugo,1,420,0,420.0
+10147,2025-01-29,Caixa de som,Áudio,Nordeste,Hugo,1,420,5,399.0
+10148,2025-01-29,Mouse sem fio,Informática,Sudeste,Hugo,4,85,5,323.0
+10149,2025-01-29,Fone bluetooth,Áudio,Sul,Hugo,1,260,15,221.0
+10150,2025-01-29,Monitor 24,Informática,Sudeste,Diego,3,890,0,2670.0
+10151,2025-01-29,Cadeira ergonômica,Móveis,Sudeste,Elisa,3,1150,0,3450.0
+10152,2025-01-30,Webcam HD,Acessórios,Sul,Carla,1,190,10,171.0
+10153,2025-01-30,Caixa de som,Áudio,Sul,Bruno,3,420,0,1260.0
+10154,2025-01-30,Caixa de som,Áudio,Sudeste,Carla,4,420,0,1680.0
+10155,2025-01-31,Mouse sem fio,Informática,Nordeste,Carla,4,85,0,340.0
+10156,2025-01-31,Mouse sem fio,Informática,Centro-Oeste,Ana,3,85,0,255.0
+10157,2025-01-31,Teclado mecânico,Informática,Centro-Oeste,Ana,1,310,0,310.0
+10158,2025-01-31,Webcam HD,Acessórios,Nordeste,Elisa,5,190,10,855.0
+10159,2025-01-31,Suporte para notebook,Acessórios,Sudeste,Fábio,5,120,0,600.0
+10160,2025-01-31,Suporte para notebook,Acessórios,Sudeste,Hugo,5,120,0,600.0
+10161,2025-01-31,Webcam HD,Acessórios,Sudeste,Hugo,3,190,0,570.0
+10162,2025-01-31,Fone bluetooth,Áudio,Nordeste,Gabi,5,260,0,1300.0
+10163,2025-02-01,Webcam HD,Acessórios,Nordeste,Elisa,4,190,0,760.0
+10164,2025-02-01,Mesa de escritório,Móveis,Centro-Oeste,Diego,2,740,10,1332.0
+10165,2025-02-01,Cadeira ergonômica,Móveis,Sul,Diego,4,1150,5,4370.0
+10166,2025-02-01,Notebook 14,Informática,Sudeste,Diego,1,3200,0,3200.0
+10167,2025-02-02,Suporte para notebook,Acessórios,Centro-Oeste,Diego,4,120,0,480.0
+10168,2025-02-02,Monitor 24,Informática,Sudeste,Fábio,4,890,0,3560.0
+10169,2025-02-02,Caixa de som,Áudio,Sul,Carla,2,420,0,840.0
+10170,2025-02-02,Caixa de som,Áudio,Sudeste,Hugo,3,420,0,1260.0
+10171,2025-02-02,Webcam HD,Acessórios,Centro-Oeste,Fábio,2,190,0,380.0
+10172,2025-02-02,Mesa de escritório,Móveis,Norte,Bruno,5,740,15,3145.0
+10173,2025-02-02,Fone bluetooth,Áudio,Nordeste,Gabi,3,260,0,780.0
+10174,2025-02-02,Notebook 14,Informática,Sudeste,Hugo,5,3200,0,16000.0
+10175,2025-02-02,Notebook 14,Informática,Centro-Oeste,Carla,1,3200,5,3040.0
+10176,2025-02-03,Notebook 14,Informática,Sul,Bruno,2,3200,10,5760.0
+10177,2025-02-03,Notebook 14,Informática,Sudeste,Fábio,5,3200,0,16000.0
+10178,2025-02-03,Webcam HD,Acessórios,Nordeste,Fábio,2,190,5,361.0
+10179,2025-02-03,Fone bluetooth,Áudio,Norte,Fábio,5,260,0,1300.0
+10180,2025-02-03,Mesa de escritório,Móveis,Norte,Fábio,5,740,5,3515.0
+10181,2025-02-03,Monitor 24,Informática,Sul,Elisa,5,890,0,4450.0
+10182,2025-02-04,Suporte para notebook,Acessórios,Sudeste,Bruno,3,120,0,360.0
+10183,2025-02-04,Cadeira ergonômica,Móveis,Sudeste,Elisa,3,1150,0,3450.0
+10184,2025-02-04,Monitor 24,Informática,Sudeste,Bruno,4,890,10,3204.0
+10185,2025-02-04,Cadeira ergonômica,Móveis,Nordeste,Gabi,4,1150,10,4140.0
+10186,2025-02-04,Notebook 14,Informática,Sudeste,Ana,1,3200,5,3040.0
+10187,2025-02-04,Fone bluetooth,Áudio,Nordeste,Elisa,1,260,10,234.0
+10188,2025-02-04,Mouse sem fio,Informática,Sul,Ana,4,85,0,340.0
+10189,2025-02-04,Mouse sem fio,Informática,Sudeste,Diego,3,85,0,255.0
+10190,2025-02-04,Suporte para notebook,Acessórios,Centro-Oeste,Elisa,4,120,0,480.0
+10191,2025-02-04,Mouse sem fio,Informática,Centro-Oeste,Gabi,2,85,5,161.5
+10192,2025-02-05,Cadeira ergonômica,Móveis,Nordeste,Diego,3,1150,0,3450.0
+10193,2025-02-05,Caixa de som,Áudio,Sudeste,Fábio,3,420,0,1260.0
+10194,2025-02-05,Suporte para notebook,Acessórios,Norte,Hugo,3,120,5,342.0
+10195,2025-02-06,Notebook 14,Informática,Sudeste,Carla,5,3200,10,14400.0
+10196,2025-02-06,Mesa de escritório,Móveis,Nordeste,Diego,1,740,0,740.0
+10197,2025-02-06,Monitor 24,Informática,Sudeste,Elisa,4,890,15,3026.0
+10198,2025-02-06,Notebook 14,Informática,Sudeste,Bruno,5,3200,15,13600.0
+10199,2025-02-06,Mouse sem fio,Informática,Sudeste,Hugo,3,85,5,242.25
+10200,2025-02-07,Mesa de escritório,Móveis,Norte,Elisa,4,740,15,2516.0
+10201,2025-02-07,Fone bluetooth,Áudio,Sul,Elisa,5,260,0,1300.0
+10202,2025-02-07,Mouse sem fio,Informática,Sudeste,Carla,2,85,5,161.5
+10203,2025-02-07,Fone bluetooth,Áudio,Nordeste,Gabi,5,260,0,1300.0
+10204,2025-02-07,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,5,1150,0,5750.0
+10205,2025-02-07,Mouse sem fio,Informática,Nordeste,Gabi,2,85,0,170.0
+10206,2025-02-08,Cadeira ergonômica,Móveis,Sul,Fábio,4,1150,0,4600.0
+10207,2025-02-08,Fone bluetooth,Áudio,Nordeste,Fábio,4,260,0,1040.0
+10208,2025-02-08,Cadeira ergonômica,Móveis,Nordeste,Gabi,2,1150,0,2300.0
+10209,2025-02-08,Webcam HD,Acessórios,Sul,Hugo,2,190,0,380.0
+10210,2025-02-08,Teclado mecânico,Informática,Sudeste,Carla,4,310,5,1178.0
+10211,2025-02-08,Monitor 24,Informática,Sudeste,Hugo,3,890,10,2403.0
+10212,2025-02-08,Notebook 14,Informática,Sudeste,Hugo,1,3200,15,2720.0
+10213,2025-02-08,Webcam HD,Acessórios,Centro-Oeste,Diego,3,190,0,570.0
+10214,2025-02-08,Notebook 14,Informática,Sul,Carla,2,3200,5,6080.0
+10215,2025-02-09,Mouse sem fio,Informática,Norte,Fábio,3,85,0,255.0
+10216,2025-02-09,Mesa de escritório,Móveis,Nordeste,Fábio,5,740,0,3700.0
+10217,2025-02-09,Mesa de escritório,Móveis,Centro-Oeste,Elisa,1,740,5,703.0
+10218,2025-02-09,Notebook 14,Informática,Sudeste,Elisa,5,3200,0,16000.0
+10219,2025-02-09,Cadeira ergonômica,Móveis,Sul,Ana,4,1150,15,3910.0
+10220,2025-02-10,Mouse sem fio,Informática,Sul,Bruno,2,85,10,153.0
+10221,2025-02-10,Cadeira ergonômica,Móveis,Sudeste,Elisa,2,1150,0,2300.0
+10222,2025-02-10,Teclado mecânico,Informática,Sul,Bruno,4,310,10,1116.0
+10223,2025-02-10,Mesa de escritório,Móveis,Sul,Carla,3,740,0,2220.0
+10224,2025-02-10,Notebook 14,Informática,Sudeste,Ana,4,3200,0,12800.0
+10225,2025-02-10,Caixa de som,Áudio,Nordeste,Carla,4,420,0,1680.0
+10226,2025-02-10,Monitor 24,Informática,Nordeste,Carla,1,890,15,756.5
+10227,2025-02-11,Webcam HD,Acessórios,Sudeste,Gabi,3,190,0,570.0
+10228,2025-02-11,Webcam HD,Acessórios,Nordeste,Bruno,5,190,0,950.0
+10229,2025-02-11,Fone bluetooth,Áudio,Sudeste,Carla,1,260,15,221.0
+10230,2025-02-11,Notebook 14,Informática,Sudeste,Carla,4,3200,0,12800.0
+10231,2025-02-11,Teclado mecânico,Informática,Nordeste,Bruno,3,310,0,930.0
+10232,2025-02-11,Caixa de som,Áudio,Sudeste,Gabi,1,420,0,420.0
+10233,2025-02-12,Caixa de som,Áudio,Nordeste,Hugo,3,420,10,1134.0
+10234,2025-02-12,Caixa de som,Áudio,Sudeste,Carla,3,420,5,1197.0
+10235,2025-02-12,Cadeira ergonômica,Móveis,Sudeste,Gabi,5,1150,5,5462.5
+10236,2025-02-12,Fone bluetooth,Áudio,Nordeste,Fábio,1,260,0,260.0
+10237,2025-02-13,Mesa de escritório,Móveis,Sudeste,Diego,3,740,15,1887.0
+10238,2025-02-13,Caixa de som,Áudio,Sudeste,Gabi,2,420,10,756.0
+10239,2025-02-13,Monitor 24,Informática,Sudeste,Elisa,1,890,0,890.0
+10240,2025-02-13,Mouse sem fio,Informática,Sudeste,Fábio,5,85,10,382.5
+10241,2025-02-13,Suporte para notebook,Acessórios,Sul,Fábio,3,120,0,360.0
+10242,2025-02-13,Notebook 14,Informática,Sudeste,Diego,3,3200,10,8640.0
+10243,2025-02-13,Webcam HD,Acessórios,Sudeste,Gabi,1,190,0,190.0
+10244,2025-02-13,Caixa de som,Áudio,Centro-Oeste,Carla,3,420,0,1260.0
+10245,2025-02-13,Webcam HD,Acessórios,Sul,Hugo,3,190,0,570.0
+10246,2025-02-13,Caixa de som,Áudio,Sudeste,Fábio,2,420,0,840.0
+10247,2025-02-13,Webcam HD,Acessórios,Sul,Fábio,5,190,0,950.0
+10248,2025-02-14,Caixa de som,Áudio,Nordeste,Ana,3,420,5,1197.0
+10249,2025-02-14,Webcam HD,Acessórios,Sudeste,Gabi,2,190,0,380.0
+10250,2025-02-14,Webcam HD,Acessórios,Nordeste,Elisa,1,190,10,171.0
+10251,2025-02-14,Cadeira ergonômica,Móveis,Sudeste,Diego,2,1150,5,2185.0
+10252,2025-02-14,Teclado mecânico,Informática,Sul,Diego,1,310,0,310.0
+10253,2025-02-14,Fone bluetooth,Áudio,Sudeste,Fábio,2,260,0,520.0
+10254,2025-02-15,Suporte para notebook,Acessórios,Norte,Diego,4,120,10,432.0
+10255,2025-02-15,Mouse sem fio,Informática,Centro-Oeste,Bruno,2,85,0,170.0
+10256,2025-02-15,Mesa de escritório,Móveis,Norte,Ana,1,740,0,740.0
+10257,2025-02-15,Suporte para notebook,Acessórios,Sudeste,Diego,4,120,5,456.0
+10258,2025-02-15,Teclado mecânico,Informática,Sudeste,Gabi,5,310,0,1550.0
+10259,2025-02-15,Fone bluetooth,Áudio,Sudeste,Gabi,3,260,10,702.0
+10260,2025-02-16,Monitor 24,Informática,Nordeste,Bruno,3,890,0,2670.0
+10261,2025-02-16,Webcam HD,Acessórios,Sudeste,Diego,3,190,10,513.0
+10262,2025-02-16,Caixa de som,Áudio,Sudeste,Gabi,4,420,10,1512.0
+10263,2025-02-16,Notebook 14,Informática,Sudeste,Hugo,4,3200,0,12800.0
+10264,2025-02-16,Suporte para notebook,Acessórios,Sudeste,Carla,2,120,0,240.0
+10265,2025-02-16,Caixa de som,Áudio,Sudeste,Bruno,4,420,10,1512.0
+10266,2025-02-16,Cadeira ergonômica,Móveis,Sudeste,Ana,1,1150,0,1150.0
+10267,2025-02-17,Monitor 24,Informática,Sudeste,Fábio,2,890,15,1513.0
+10268,2025-02-17,Monitor 24,Informática,Centro-Oeste,Carla,5,890,0,4450.0
+10269,2025-02-17,Notebook 14,Informática,Nordeste,Fábio,3,3200,0,9600.0
+10270,2025-02-17,Mouse sem fio,Informática,Sul,Fábio,1,85,0,85.0
+10271,2025-02-17,Webcam HD,Acessórios,Sudeste,Ana,4,190,0,760.0
+10272,2025-02-18,Suporte para notebook,Acessórios,Sul,Gabi,2,120,10,216.0
+10273,2025-02-18,Fone bluetooth,Áudio,Norte,Diego,3,260,0,780.0
+10274,2025-02-18,Notebook 14,Informática,Sudeste,Carla,2,3200,10,5760.0
+10275,2025-02-18,Fone bluetooth,Áudio,Sul,Bruno,1,260,15,221.0
+10276,2025-02-18,Cadeira ergonômica,Móveis,Nordeste,Ana,2,1150,5,2185.0
+10277,2025-02-18,Suporte para notebook,Acessórios,Sudeste,Diego,3,120,5,342.0
+10278,2025-02-18,Mesa de escritório,Móveis,Sul,Diego,3,740,0,2220.0
+10279,2025-02-19,Mouse sem fio,Informática,Sudeste,Fábio,1,85,0,85.0
+10280,2025-02-19,Fone bluetooth,Áudio,Nordeste,Diego,4,260,15,884.0
+10281,2025-02-19,Mesa de escritório,Móveis,Nordeste,Fábio,4,740,0,2960.0
+10282,2025-02-19,Webcam HD,Acessórios,Sul,Ana,4,190,0,760.0
+10283,2025-02-19,Monitor 24,Informática,Centro-Oeste,Bruno,4,890,0,3560.0
+10284,2025-02-20,Notebook 14,Informática,Sudeste,Elisa,5,3200,10,14400.0
+10285,2025-02-20,Fone bluetooth,Áudio,Sul,Fábio,3,260,0,780.0
+10286,2025-02-20,Mouse sem fio,Informática,Centro-Oeste,Bruno,2,85,10,153.0
+10287,2025-02-20,Suporte para notebook,Acessórios,Centro-Oeste,Fábio,2,120,0,240.0
+10288,2025-02-20,Caixa de som,Áudio,Sul,Fábio,4,420,0,1680.0
+10289,2025-02-21,Teclado mecânico,Informática,Sudeste,Fábio,4,310,5,1178.0
+10290,2025-02-21,Caixa de som,Áudio,Nordeste,Ana,3,420,0,1260.0
+10291,2025-02-21,Notebook 14,Informática,Sudeste,Diego,3,3200,0,9600.0
+10292,2025-02-21,Suporte para notebook,Acessórios,Centro-Oeste,Fábio,2,120,0,240.0
+10293,2025-02-21,Mesa de escritório,Móveis,Sudeste,Diego,4,740,0,2960.0
+10294,2025-02-21,Teclado mecânico,Informática,Nordeste,Hugo,5,310,5,1472.5
+10295,2025-02-21,Cadeira ergonômica,Móveis,Centro-Oeste,Carla,3,1150,0,3450.0
+10296,2025-02-21,Notebook 14,Informática,Sul,Bruno,4,3200,0,12800.0
+10297,2025-02-21,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,2,1150,10,2070.0
+10298,2025-02-21,Teclado mecânico,Informática,Sudeste,Fábio,5,310,0,1550.0
+10299,2025-02-22,Monitor 24,Informática,Sudeste,Fábio,3,890,0,2670.0
+10300,2025-02-22,Caixa de som,Áudio,Sudeste,Elisa,3,420,0,1260.0
+10301,2025-02-22,Suporte para notebook,Acessórios,Centro-Oeste,Gabi,5,120,0,600.0
+10302,2025-02-22,Mesa de escritório,Móveis,Centro-Oeste,Elisa,1,740,15,629.0
+10303,2025-02-22,Fone bluetooth,Áudio,Sudeste,Fábio,4,260,5,988.0
+10304,2025-02-22,Fone bluetooth,Áudio,Nordeste,Gabi,1,260,5,247.0
+10305,2025-02-22,Fone bluetooth,Áudio,Sul,Diego,2,260,15,442.0
+10306,2025-02-22,Mesa de escritório,Móveis,Nordeste,Diego,1,740,0,740.0
+10307,2025-02-23,Monitor 24,Informática,Sudeste,Carla,4,890,10,3204.0
+10308,2025-02-23,Mouse sem fio,Informática,Sul,Ana,1,85,5,80.75
+10309,2025-02-23,Notebook 14,Informática,Sul,Hugo,4,3200,0,12800.0
+10310,2025-02-23,Notebook 14,Informática,Nordeste,Bruno,4,3200,0,12800.0
+10311,2025-02-23,Notebook 14,Informática,Sul,Bruno,5,3200,5,15200.0
+10312,2025-02-24,Mouse sem fio,Informática,Sudeste,Elisa,5,85,0,425.0
+10313,2025-02-24,Cadeira ergonômica,Móveis,Nordeste,Fábio,1,1150,0,1150.0
+10314,2025-02-24,Webcam HD,Acessórios,Sul,Hugo,2,190,0,380.0
+10315,2025-02-24,Suporte para notebook,Acessórios,Sudeste,Fábio,5,120,0,600.0
+10316,2025-02-24,Monitor 24,Informática,Sudeste,Gabi,5,890,0,4450.0
+10317,2025-02-24,Cadeira ergonômica,Móveis,Sudeste,Bruno,1,1150,10,1035.0
+10318,2025-02-24,Caixa de som,Áudio,Sudeste,Hugo,3,420,5,1197.0
+10319,2025-02-25,Teclado mecânico,Informática,Norte,Ana,3,310,0,930.0
+10320,2025-02-25,Caixa de som,Áudio,Sul,Elisa,2,420,0,840.0
+10321,2025-02-25,Fone bluetooth,Áudio,Sudeste,Carla,4,260,0,1040.0
+10322,2025-02-25,Cadeira ergonômica,Móveis,Sul,Hugo,1,1150,0,1150.0
+10323,2025-02-25,Webcam HD,Acessórios,Sudeste,Carla,5,190,0,950.0
+10324,2025-02-25,Teclado mecânico,Informática,Nordeste,Ana,3,310,5,883.5
+10325,2025-02-26,Suporte para notebook,Acessórios,Nordeste,Diego,4,120,0,480.0
+10326,2025-02-26,Notebook 14,Informática,Sudeste,Carla,5,3200,10,14400.0
+10327,2025-02-26,Suporte para notebook,Acessórios,Sul,Gabi,5,120,0,600.0
+10328,2025-02-26,Webcam HD,Acessórios,Norte,Gabi,3,190,15,484.5
+10329,2025-02-26,Notebook 14,Informática,Sudeste,Fábio,4,3200,0,12800.0
+10330,2025-02-26,Caixa de som,Áudio,Sul,Diego,3,420,5,1197.0
+10331,2025-02-26,Suporte para notebook,Acessórios,Nordeste,Carla,4,120,5,456.0
+10332,2025-02-26,Monitor 24,Informática,Nordeste,Carla,1,890,0,890.0
+10333,2025-02-26,Caixa de som,Áudio,Nordeste,Gabi,3,420,0,1260.0
+10334,2025-02-27,Webcam HD,Acessórios,Sudeste,Bruno,1,190,0,190.0
+10335,2025-02-27,Suporte para notebook,Acessórios,Sudeste,Elisa,4,120,5,456.0
+10336,2025-02-27,Caixa de som,Áudio,Sudeste,Hugo,5,420,15,1785.0
+10337,2025-02-27,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+10338,2025-02-27,Notebook 14,Informática,Sudeste,Fábio,3,3200,15,8160.0
+10339,2025-02-28,Monitor 24,Informática,Sudeste,Bruno,5,890,0,4450.0
+10340,2025-02-28,Suporte para notebook,Acessórios,Centro-Oeste,Hugo,1,120,10,108.0
+10341,2025-02-28,Suporte para notebook,Acessórios,Centro-Oeste,Ana,4,120,0,480.0
+10342,2025-02-28,Monitor 24,Informática,Nordeste,Elisa,2,890,5,1691.0
+10343,2025-02-28,Monitor 24,Informática,Nordeste,Ana,5,890,0,4450.0
+10344,2025-02-28,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,5,1150,0,5750.0
+10345,2025-03-01,Caixa de som,Áudio,Centro-Oeste,Gabi,4,420,0,1680.0
+10346,2025-03-01,Cadeira ergonômica,Móveis,Nordeste,Ana,3,1150,15,2932.5
+10347,2025-03-01,Webcam HD,Acessórios,Sudeste,Diego,5,190,10,855.0
+10348,2025-03-01,Webcam HD,Acessórios,Sudeste,Carla,2,190,0,380.0
+10349,2025-03-01,Monitor 24,Informática,Nordeste,Carla,2,890,0,1780.0
+10350,2025-03-02,Teclado mecânico,Informática,Norte,Diego,5,310,10,1395.0
+10351,2025-03-02,Teclado mecânico,Informática,Sudeste,Hugo,3,310,0,930.0
+10352,2025-03-02,Webcam HD,Acessórios,Nordeste,Elisa,1,190,15,161.5
+10353,2025-03-02,Mesa de escritório,Móveis,Sudeste,Elisa,2,740,0,1480.0
+10354,2025-03-02,Mesa de escritório,Móveis,Centro-Oeste,Hugo,2,740,0,1480.0
+10355,2025-03-02,Monitor 24,Informática,Nordeste,Diego,3,890,5,2536.5
+10356,2025-03-02,Mouse sem fio,Informática,Sudeste,Hugo,5,85,0,425.0
+10357,2025-03-02,Monitor 24,Informática,Centro-Oeste,Diego,2,890,0,1780.0
+10358,2025-03-02,Mesa de escritório,Móveis,Sudeste,Gabi,1,740,5,703.0
+10359,2025-03-02,Teclado mecânico,Informática,Sudeste,Diego,3,310,5,883.5
+10360,2025-03-02,Webcam HD,Acessórios,Sul,Bruno,2,190,15,323.0
+10361,2025-03-02,Webcam HD,Acessórios,Sul,Carla,1,190,0,190.0
+10362,2025-03-03,Mesa de escritório,Móveis,Sudeste,Fábio,4,740,0,2960.0
+10363,2025-03-03,Teclado mecânico,Informática,Sudeste,Hugo,3,310,15,790.5
+10364,2025-03-04,Suporte para notebook,Acessórios,Norte,Fábio,2,120,0,240.0
+10365,2025-03-04,Fone bluetooth,Áudio,Sul,Gabi,4,260,5,988.0
+10366,2025-03-04,Webcam HD,Acessórios,Nordeste,Ana,4,190,0,760.0
+10367,2025-03-04,Teclado mecânico,Informática,Norte,Gabi,3,310,5,883.5
+10368,2025-03-05,Mesa de escritório,Móveis,Nordeste,Hugo,4,740,0,2960.0
+10369,2025-03-05,Teclado mecânico,Informática,Sudeste,Carla,5,310,0,1550.0
+10370,2025-03-05,Notebook 14,Informática,Sudeste,Elisa,3,3200,0,9600.0
+10371,2025-03-05,Monitor 24,Informática,Sudeste,Diego,5,890,0,4450.0
+10372,2025-03-05,Suporte para notebook,Acessórios,Sudeste,Fábio,1,120,10,108.0
+10373,2025-03-05,Cadeira ergonômica,Móveis,Nordeste,Elisa,5,1150,10,5175.0
+10374,2025-03-06,Monitor 24,Informática,Norte,Elisa,3,890,5,2536.5
+10375,2025-03-06,Mouse sem fio,Informática,Nordeste,Hugo,2,85,0,170.0
+10376,2025-03-06,Suporte para notebook,Acessórios,Nordeste,Gabi,1,120,0,120.0
+10377,2025-03-06,Cadeira ergonômica,Móveis,Centro-Oeste,Hugo,3,1150,0,3450.0
+10378,2025-03-06,Monitor 24,Informática,Centro-Oeste,Gabi,5,890,0,4450.0
+10379,2025-03-06,Mesa de escritório,Móveis,Nordeste,Diego,4,740,0,2960.0
+10380,2025-03-07,Mesa de escritório,Móveis,Sul,Elisa,3,740,10,1998.0
+10381,2025-03-07,Teclado mecânico,Informática,Sudeste,Fábio,4,310,0,1240.0
+10382,2025-03-07,Cadeira ergonômica,Móveis,Sudeste,Elisa,1,1150,0,1150.0
+10383,2025-03-07,Mouse sem fio,Informática,Nordeste,Elisa,5,85,5,403.75
+10384,2025-03-07,Teclado mecânico,Informática,Sudeste,Bruno,5,310,0,1550.0
+10385,2025-03-08,Cadeira ergonômica,Móveis,Sul,Carla,2,1150,15,1955.0
+10386,2025-03-08,Monitor 24,Informática,Nordeste,Ana,2,890,0,1780.0
+10387,2025-03-08,Notebook 14,Informática,Sul,Gabi,1,3200,10,2880.0
+10388,2025-03-08,Fone bluetooth,Áudio,Sudeste,Bruno,5,260,0,1300.0
+10389,2025-03-08,Notebook 14,Informática,Sul,Fábio,4,3200,15,10880.0
+10390,2025-03-08,Notebook 14,Informática,Nordeste,Hugo,2,3200,5,6080.0
+10391,2025-03-08,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+10392,2025-03-08,Notebook 14,Informática,Sudeste,Carla,3,3200,5,9120.0
+10393,2025-03-09,Suporte para notebook,Acessórios,Centro-Oeste,Ana,5,120,5,570.0
+10394,2025-03-09,Caixa de som,Áudio,Sul,Bruno,1,420,5,399.0
+10395,2025-03-09,Notebook 14,Informática,Nordeste,Hugo,3,3200,10,8640.0
+10396,2025-03-09,Mesa de escritório,Móveis,Sudeste,Elisa,3,740,0,2220.0
+10397,2025-03-10,Teclado mecânico,Informática,Sudeste,Hugo,4,310,15,1054.0
+10398,2025-03-10,Caixa de som,Áudio,Centro-Oeste,Diego,3,420,0,1260.0
+10399,2025-03-10,Mesa de escritório,Móveis,Sul,Hugo,4,740,0,2960.0
+10400,2025-03-10,Suporte para notebook,Acessórios,Sudeste,Fábio,2,120,0,240.0
+10401,2025-03-10,Teclado mecânico,Informática,Sudeste,Ana,4,310,0,1240.0
+10402,2025-03-11,Webcam HD,Acessórios,Sudeste,Gabi,2,190,0,380.0
+10403,2025-03-11,Teclado mecânico,Informática,Sudeste,Fábio,3,310,15,790.5
+10404,2025-03-11,Fone bluetooth,Áudio,Sul,Diego,1,260,0,260.0
+10405,2025-03-11,Mouse sem fio,Informática,Sudeste,Carla,3,85,10,229.5
+10406,2025-03-12,Notebook 14,Informática,Nordeste,Gabi,5,3200,5,15200.0
+10407,2025-03-12,Monitor 24,Informática,Sul,Elisa,3,890,10,2403.0
+10408,2025-03-12,Teclado mecânico,Informática,Sudeste,Fábio,2,310,0,620.0
+10409,2025-03-12,Notebook 14,Informática,Norte,Hugo,4,3200,0,12800.0
+10410,2025-03-13,Teclado mecânico,Informática,Sudeste,Bruno,4,310,0,1240.0
+10411,2025-03-13,Monitor 24,Informática,Sudeste,Hugo,4,890,0,3560.0
+10412,2025-03-13,Mouse sem fio,Informática,Sudeste,Hugo,5,85,15,361.25
+10413,2025-03-13,Monitor 24,Informática,Nordeste,Gabi,3,890,5,2536.5
+10414,2025-03-13,Suporte para notebook,Acessórios,Sudeste,Diego,4,120,15,408.0
+10415,2025-03-14,Webcam HD,Acessórios,Sudeste,Ana,1,190,5,180.5
+10416,2025-03-14,Suporte para notebook,Acessórios,Nordeste,Fábio,5,120,5,570.0
+10417,2025-03-14,Fone bluetooth,Áudio,Sudeste,Hugo,2,260,0,520.0
+10418,2025-03-14,Mouse sem fio,Informática,Norte,Elisa,3,85,5,242.25
+10419,2025-03-14,Mesa de escritório,Móveis,Nordeste,Diego,5,740,0,3700.0
+10420,2025-03-15,Webcam HD,Acessórios,Sul,Ana,2,190,10,342.0
+10421,2025-03-15,Cadeira ergonômica,Móveis,Sudeste,Gabi,4,1150,0,4600.0
+10422,2025-03-15,Monitor 24,Informática,Nordeste,Diego,1,890,5,845.5
+10423,2025-03-15,Caixa de som,Áudio,Sudeste,Carla,5,420,10,1890.0
+10424,2025-03-15,Suporte para notebook,Acessórios,Sul,Elisa,1,120,5,114.0
+10425,2025-03-15,Cadeira ergonômica,Móveis,Sudeste,Hugo,4,1150,10,4140.0
+10426,2025-03-15,Suporte para notebook,Acessórios,Nordeste,Carla,5,120,5,570.0
+10427,2025-03-15,Teclado mecânico,Informática,Nordeste,Elisa,5,310,5,1472.5
+10428,2025-03-15,Notebook 14,Informática,Sul,Fábio,5,3200,0,16000.0
+10429,2025-03-16,Webcam HD,Acessórios,Sul,Fábio,1,190,0,190.0
+10430,2025-03-17,Webcam HD,Acessórios,Sudeste,Fábio,4,190,0,760.0
+10431,2025-03-17,Mesa de escritório,Móveis,Sudeste,Elisa,4,740,5,2812.0
+10432,2025-03-17,Mouse sem fio,Informática,Sudeste,Bruno,3,85,0,255.0
+10433,2025-03-18,Cadeira ergonômica,Móveis,Norte,Fábio,5,1150,5,5462.5
+10434,2025-03-18,Cadeira ergonômica,Móveis,Norte,Ana,4,1150,0,4600.0
+10435,2025-03-18,Teclado mecânico,Informática,Sudeste,Elisa,3,310,10,837.0
+10436,2025-03-18,Cadeira ergonômica,Móveis,Sudeste,Gabi,2,1150,0,2300.0
+10437,2025-03-19,Notebook 14,Informática,Sul,Carla,5,3200,15,13600.0
+10438,2025-03-19,Webcam HD,Acessórios,Nordeste,Ana,1,190,5,180.5
+10439,2025-03-20,Monitor 24,Informática,Nordeste,Bruno,3,890,10,2403.0
+10440,2025-03-20,Caixa de som,Áudio,Nordeste,Diego,5,420,10,1890.0
+10441,2025-03-20,Webcam HD,Acessórios,Sul,Diego,2,190,0,380.0
+10442,2025-03-21,Notebook 14,Informática,Sul,Fábio,1,3200,0,3200.0
+10443,2025-03-21,Webcam HD,Acessórios,Sudeste,Elisa,1,190,5,180.5
+10444,2025-03-22,Suporte para notebook,Acessórios,Sul,Diego,5,120,0,600.0
+10445,2025-03-23,Mouse sem fio,Informática,Sudeste,Diego,1,85,0,85.0
+10446,2025-03-23,Suporte para notebook,Acessórios,Sul,Gabi,3,120,0,360.0
+10447,2025-03-23,Suporte para notebook,Acessórios,Nordeste,Ana,2,120,5,228.0
+10448,2025-03-24,Mouse sem fio,Informática,Sul,Elisa,2,85,0,170.0
+10449,2025-03-24,Cadeira ergonômica,Móveis,Nordeste,Ana,1,1150,0,1150.0
+10450,2025-03-24,Cadeira ergonômica,Móveis,Sudeste,Diego,5,1150,0,5750.0
+10451,2025-03-25,Monitor 24,Informática,Sudeste,Bruno,4,890,0,3560.0
+10452,2025-03-25,Mesa de escritório,Móveis,Nordeste,Elisa,4,740,0,2960.0
+10453,2025-03-25,Webcam HD,Acessórios,Sudeste,Gabi,1,190,5,180.5
+10454,2025-03-25,Notebook 14,Informática,Norte,Gabi,1,3200,10,2880.0
+10455,2025-03-26,Mesa de escritório,Móveis,Sul,Carla,2,740,15,1258.0
+10456,2025-03-26,Monitor 24,Informática,Sudeste,Diego,2,890,10,1602.0
+10457,2025-03-26,Cadeira ergonômica,Móveis,Norte,Carla,1,1150,0,1150.0
+10458,2025-03-26,Webcam HD,Acessórios,Norte,Gabi,1,190,0,190.0
+10459,2025-03-26,Notebook 14,Informática,Sudeste,Fábio,5,3200,5,15200.0
+10460,2025-03-26,Cadeira ergonômica,Móveis,Sudeste,Diego,2,1150,10,2070.0
+10461,2025-03-26,Caixa de som,Áudio,Sudeste,Fábio,5,420,5,1995.0
+10462,2025-03-27,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,0,5750.0
+10463,2025-03-27,Monitor 24,Informática,Sul,Ana,1,890,0,890.0
+10464,2025-03-27,Suporte para notebook,Acessórios,Norte,Bruno,3,120,0,360.0
+10465,2025-03-27,Teclado mecânico,Informática,Nordeste,Fábio,3,310,10,837.0
+10466,2025-03-27,Cadeira ergonômica,Móveis,Sul,Bruno,3,1150,5,3277.5
+10467,2025-03-27,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,5,988.0
+10468,2025-03-27,Teclado mecânico,Informática,Sul,Ana,2,310,0,620.0
+10469,2025-03-28,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,5,5462.5
+10470,2025-03-28,Monitor 24,Informática,Sudeste,Carla,5,890,10,4005.0
+10471,2025-03-28,Mouse sem fio,Informática,Sudeste,Ana,2,85,10,153.0
+10472,2025-03-28,Mouse sem fio,Informática,Nordeste,Gabi,4,85,5,323.0
+10473,2025-03-28,Mesa de escritório,Móveis,Sudeste,Fábio,2,740,5,1406.0
+10474,2025-03-28,Fone bluetooth,Áudio,Sudeste,Diego,4,260,0,1040.0
+10475,2025-03-29,Monitor 24,Informática,Sudeste,Fábio,4,890,10,3204.0
+10476,2025-03-29,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,0,600.0
+10477,2025-03-29,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,5,3515.0
+10478,2025-03-29,Mesa de escritório,Móveis,Nordeste,Bruno,2,740,0,1480.0
+10479,2025-03-29,Cadeira ergonômica,Móveis,Sudeste,Bruno,1,1150,5,1092.5
+10480,2025-03-29,Notebook 14,Informática,Sudeste,Bruno,5,3200,0,16000.0
+10481,2025-03-29,Caixa de som,Áudio,Sul,Hugo,3,420,0,1260.0
+10482,2025-03-29,Caixa de som,Áudio,Sul,Gabi,3,420,5,1197.0
+10483,2025-03-30,Webcam HD,Acessórios,Sul,Carla,4,190,5,722.0
+10484,2025-03-30,Mesa de escritório,Móveis,Norte,Diego,3,740,15,1887.0
+10485,2025-03-30,Monitor 24,Informática,Norte,Fábio,5,890,0,4450.0
+10486,2025-03-30,Cadeira ergonômica,Móveis,Sul,Gabi,3,1150,0,3450.0
+10487,2025-03-30,Suporte para notebook,Acessórios,Centro-Oeste,Hugo,5,120,0,600.0
+10488,2025-03-30,Mesa de escritório,Móveis,Sul,Fábio,5,740,0,3700.0
+10489,2025-03-30,Fone bluetooth,Áudio,Sul,Bruno,2,260,10,468.0
+10490,2025-03-31,Mesa de escritório,Móveis,Sudeste,Diego,3,740,10,1998.0
+10491,2025-03-31,Suporte para notebook,Acessórios,Nordeste,Gabi,2,120,15,204.0
+10492,2025-03-31,Webcam HD,Acessórios,Sudeste,Diego,4,190,5,722.0
+10493,2025-03-31,Mesa de escritório,Móveis,Nordeste,Bruno,4,740,0,2960.0
+10494,2025-03-31,Monitor 24,Informática,Sudeste,Gabi,4,890,5,3382.0
+10495,2025-03-31,Teclado mecânico,Informática,Sul,Hugo,2,310,0,620.0
+10496,2025-03-31,Notebook 14,Informática,Nordeste,Gabi,1,3200,0,3200.0
+10497,2025-03-31,Teclado mecânico,Informática,Sudeste,Ana,3,310,5,883.5
+10498,2025-03-31,Suporte para notebook,Acessórios,Sudeste,Ana,3,120,0,360.0
+10499,2025-03-31,Suporte para notebook,Acessórios,Sudeste,Hugo,2,120,0,240.0
+10500,2025-03-31,Caixa de som,Áudio,Nordeste,Bruno,3,420,0,1260.0
+10501,2025-04-01,Cadeira ergonômica,Móveis,Sudeste,Carla,1,1150,0,1150.0
+10502,2025-04-01,Fone bluetooth,Áudio,Norte,Elisa,5,260,0,1300.0
+10503,2025-04-01,Notebook 14,Informática,Sul,Fábio,3,3200,5,9120.0
+10504,2025-04-01,Teclado mecânico,Informática,Centro-Oeste,Fábio,4,310,5,1178.0
+10505,2025-04-01,Cadeira ergonômica,Móveis,Centro-Oeste,Fábio,5,1150,0,5750.0
+10506,2025-04-02,Suporte para notebook,Acessórios,Sudeste,Gabi,5,120,0,600.0
+10507,2025-04-02,Fone bluetooth,Áudio,Sudeste,Bruno,2,260,0,520.0
+10508,2025-04-02,Mouse sem fio,Informática,Sudeste,Hugo,5,85,10,382.5
+10509,2025-04-02,Teclado mecânico,Informática,Sul,Gabi,5,310,0,1550.0
+10510,2025-04-03,Notebook 14,Informática,Sudeste,Carla,1,3200,10,2880.0
+10511,2025-04-03,Webcam HD,Acessórios,Sudeste,Fábio,2,190,5,361.0
+10512,2025-04-03,Webcam HD,Acessórios,Sudeste,Fábio,1,190,0,190.0
+10513,2025-04-03,Mouse sem fio,Informática,Sul,Carla,5,85,0,425.0
+10514,2025-04-03,Cadeira ergonômica,Móveis,Sudeste,Hugo,4,1150,5,4370.0
+10515,2025-04-03,Teclado mecânico,Informática,Sudeste,Fábio,1,310,0,310.0
+10516,2025-04-03,Monitor 24,Informática,Sudeste,Hugo,4,890,0,3560.0
+10517,2025-04-03,Monitor 24,Informática,Sudeste,Fábio,2,890,0,1780.0
+10518,2025-04-04,Teclado mecânico,Informática,Sudeste,Hugo,5,310,5,1472.5
+10519,2025-04-04,Mouse sem fio,Informática,Sul,Elisa,1,85,5,80.75
+10520,2025-04-04,Fone bluetooth,Áudio,Sudeste,Carla,2,260,5,494.0
+10521,2025-04-05,Notebook 14,Informática,Sudeste,Carla,1,3200,0,3200.0
+10522,2025-04-05,Teclado mecânico,Informática,Sudeste,Bruno,5,310,15,1317.5
+10523,2025-04-06,Fone bluetooth,Áudio,Norte,Fábio,2,260,0,520.0
+10524,2025-04-06,Teclado mecânico,Informática,Nordeste,Gabi,5,310,5,1472.5
+10525,2025-04-06,Fone bluetooth,Áudio,Sul,Bruno,1,260,5,247.0
+10526,2025-04-06,Fone bluetooth,Áudio,Nordeste,Diego,3,260,0,780.0
+10527,2025-04-07,Teclado mecânico,Informática,Sudeste,Carla,4,310,0,1240.0
+10528,2025-04-07,Webcam HD,Acessórios,Sudeste,Gabi,2,190,0,380.0
+10529,2025-04-07,Mouse sem fio,Informática,Centro-Oeste,Ana,4,85,0,340.0
+10530,2025-04-07,Teclado mecânico,Informática,Centro-Oeste,Gabi,4,310,0,1240.0
+10531,2025-04-07,Suporte para notebook,Acessórios,Nordeste,Bruno,5,120,0,600.0
+10532,2025-04-08,Notebook 14,Informática,Centro-Oeste,Hugo,1,3200,10,2880.0
+10533,2025-04-08,Cadeira ergonômica,Móveis,Sudeste,Carla,2,1150,10,2070.0
+10534,2025-04-08,Caixa de som,Áudio,Sul,Elisa,1,420,5,399.0
+10535,2025-04-08,Monitor 24,Informática,Nordeste,Carla,5,890,15,3782.5
+10536,2025-04-08,Mesa de escritório,Móveis,Sudeste,Hugo,5,740,15,3145.0
+10537,2025-04-08,Caixa de som,Áudio,Norte,Diego,4,420,5,1596.0
+10538,2025-04-09,Suporte para notebook,Acessórios,Nordeste,Ana,5,120,0,600.0
+10539,2025-04-09,Mouse sem fio,Informática,Sudeste,Ana,5,85,5,403.75
+10540,2025-04-09,Monitor 24,Informática,Sudeste,Bruno,2,890,0,1780.0
+10541,2025-04-09,Cadeira ergonômica,Móveis,Sul,Ana,3,1150,5,3277.5
+10542,2025-04-09,Monitor 24,Informática,Sudeste,Diego,3,890,0,2670.0
+10543,2025-04-09,Cadeira ergonômica,Móveis,Sudeste,Hugo,2,1150,15,1955.0
+10544,2025-04-10,Fone bluetooth,Áudio,Sul,Elisa,3,260,0,780.0
+10545,2025-04-10,Monitor 24,Informática,Sudeste,Fábio,2,890,0,1780.0
+10546,2025-04-11,Suporte para notebook,Acessórios,Nordeste,Diego,3,120,0,360.0
+10547,2025-04-11,Caixa de som,Áudio,Sul,Fábio,4,420,10,1512.0
+10548,2025-04-11,Notebook 14,Informática,Sudeste,Bruno,2,3200,10,5760.0
+10549,2025-04-11,Mouse sem fio,Informática,Sul,Fábio,3,85,0,255.0
+10550,2025-04-11,Mouse sem fio,Informática,Sul,Bruno,3,85,15,216.75
+10551,2025-04-12,Suporte para notebook,Acessórios,Sudeste,Bruno,5,120,0,600.0
+10552,2025-04-12,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+10553,2025-04-12,Mesa de escritório,Móveis,Centro-Oeste,Diego,4,740,10,2664.0
+10554,2025-04-12,Suporte para notebook,Acessórios,Sul,Carla,5,120,0,600.0
+10555,2025-04-12,Fone bluetooth,Áudio,Sudeste,Bruno,1,260,0,260.0
+10556,2025-04-12,Teclado mecânico,Informática,Sul,Carla,3,310,0,930.0
+10557,2025-04-13,Cadeira ergonômica,Móveis,Centro-Oeste,Gabi,2,1150,10,2070.0
+10558,2025-04-13,Caixa de som,Áudio,Centro-Oeste,Ana,2,420,0,840.0
+10559,2025-04-13,Caixa de som,Áudio,Sudeste,Elisa,2,420,0,840.0
+10560,2025-04-13,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,15,3145.0
+10561,2025-04-13,Notebook 14,Informática,Sudeste,Hugo,2,3200,0,6400.0
+10562,2025-04-13,Teclado mecânico,Informática,Sudeste,Hugo,2,310,5,589.0
+10563,2025-04-13,Monitor 24,Informática,Sudeste,Diego,2,890,5,1691.0
+10564,2025-04-14,Caixa de som,Áudio,Nordeste,Hugo,1,420,5,399.0
+10565,2025-04-14,Cadeira ergonômica,Móveis,Sudeste,Carla,3,1150,0,3450.0
+10566,2025-04-14,Notebook 14,Informática,Sul,Ana,3,3200,10,8640.0
+10567,2025-04-14,Caixa de som,Áudio,Centro-Oeste,Diego,3,420,0,1260.0
+10568,2025-04-14,Cadeira ergonômica,Móveis,Sudeste,Bruno,3,1150,0,3450.0
+10569,2025-04-14,Mouse sem fio,Informática,Sudeste,Diego,2,85,0,170.0
+10570,2025-04-14,Suporte para notebook,Acessórios,Sudeste,Hugo,2,120,0,240.0
+10571,2025-04-14,Teclado mecânico,Informática,Sudeste,Ana,4,310,0,1240.0
+10572,2025-04-15,Mouse sem fio,Informática,Sul,Bruno,3,85,10,229.5
+10573,2025-04-15,Mouse sem fio,Informática,Sudeste,Hugo,4,85,0,340.0
+10574,2025-04-16,Webcam HD,Acessórios,Sul,Carla,4,190,15,646.0
+10575,2025-04-16,Fone bluetooth,Áudio,Sul,Fábio,2,260,10,468.0
+10576,2025-04-16,Caixa de som,Áudio,Centro-Oeste,Ana,1,420,5,399.0
+10577,2025-04-16,Cadeira ergonômica,Móveis,Nordeste,Carla,5,1150,5,5462.5
+10578,2025-04-16,Cadeira ergonômica,Móveis,Centro-Oeste,Carla,3,1150,10,3105.0
+10579,2025-04-16,Caixa de som,Áudio,Nordeste,Elisa,2,420,0,840.0
+10580,2025-04-16,Mouse sem fio,Informática,Sudeste,Hugo,2,85,0,170.0
+10581,2025-04-16,Caixa de som,Áudio,Sudeste,Carla,5,420,0,2100.0
+10582,2025-04-17,Notebook 14,Informática,Nordeste,Elisa,2,3200,15,5440.0
+10583,2025-04-17,Monitor 24,Informática,Sudeste,Hugo,4,890,15,3026.0
+10584,2025-04-17,Suporte para notebook,Acessórios,Nordeste,Gabi,2,120,0,240.0
+10585,2025-04-18,Mesa de escritório,Móveis,Nordeste,Fábio,3,740,0,2220.0
+10586,2025-04-18,Monitor 24,Informática,Nordeste,Carla,5,890,0,4450.0
+10587,2025-04-18,Mesa de escritório,Móveis,Nordeste,Fábio,4,740,0,2960.0
+10588,2025-04-18,Webcam HD,Acessórios,Centro-Oeste,Bruno,1,190,0,190.0
+10589,2025-04-18,Cadeira ergonômica,Móveis,Nordeste,Gabi,4,1150,0,4600.0
+10590,2025-04-18,Suporte para notebook,Acessórios,Sul,Gabi,2,120,5,228.0
+10591,2025-04-19,Webcam HD,Acessórios,Nordeste,Diego,4,190,0,760.0
+10592,2025-04-19,Caixa de som,Áudio,Sudeste,Gabi,3,420,5,1197.0
+10593,2025-04-19,Notebook 14,Informática,Centro-Oeste,Gabi,4,3200,0,12800.0
+10594,2025-04-19,Caixa de som,Áudio,Nordeste,Hugo,5,420,5,1995.0
+10595,2025-04-19,Webcam HD,Acessórios,Sudeste,Fábio,5,190,0,950.0
+10596,2025-04-19,Fone bluetooth,Áudio,Sudeste,Gabi,5,260,0,1300.0
+10597,2025-04-19,Teclado mecânico,Informática,Sudeste,Fábio,4,310,10,1116.0
+10598,2025-04-20,Monitor 24,Informática,Sul,Hugo,4,890,15,3026.0
+10599,2025-04-20,Fone bluetooth,Áudio,Sul,Elisa,2,260,10,468.0
+10600,2025-04-20,Mouse sem fio,Informática,Sul,Hugo,1,85,0,85.0
+10601,2025-04-20,Notebook 14,Informática,Sul,Gabi,5,3200,0,16000.0
+10602,2025-04-20,Caixa de som,Áudio,Sudeste,Carla,2,420,10,756.0
+10603,2025-04-20,Notebook 14,Informática,Sudeste,Bruno,1,3200,15,2720.0
+10604,2025-04-20,Caixa de som,Áudio,Nordeste,Gabi,1,420,10,378.0
+10605,2025-04-20,Webcam HD,Acessórios,Sudeste,Ana,4,190,0,760.0
+10606,2025-04-21,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,15,4887.5
+10607,2025-04-21,Fone bluetooth,Áudio,Sul,Fábio,2,260,0,520.0
+10608,2025-04-21,Mesa de escritório,Móveis,Norte,Bruno,5,740,5,3515.0
+10609,2025-04-21,Cadeira ergonômica,Móveis,Sul,Gabi,4,1150,5,4370.0
+10610,2025-04-21,Monitor 24,Informática,Sul,Diego,4,890,5,3382.0
+10611,2025-04-21,Fone bluetooth,Áudio,Nordeste,Carla,4,260,0,1040.0
+10612,2025-04-21,Mesa de escritório,Móveis,Sul,Bruno,3,740,0,2220.0
+10613,2025-04-21,Teclado mecânico,Informática,Sul,Ana,4,310,0,1240.0
+10614,2025-04-22,Teclado mecânico,Informática,Sudeste,Diego,1,310,0,310.0
+10615,2025-04-22,Notebook 14,Informática,Sudeste,Hugo,3,3200,10,8640.0
+10616,2025-04-22,Mesa de escritório,Móveis,Nordeste,Fábio,1,740,15,629.0
+10617,2025-04-22,Mesa de escritório,Móveis,Sudeste,Hugo,5,740,5,3515.0
+10618,2025-04-22,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,0,1040.0
+10619,2025-04-22,Caixa de som,Áudio,Nordeste,Bruno,2,420,0,840.0
+10620,2025-04-23,Cadeira ergonômica,Móveis,Sudeste,Elisa,3,1150,10,3105.0
+10621,2025-04-23,Suporte para notebook,Acessórios,Nordeste,Fábio,5,120,0,600.0
+10622,2025-04-23,Suporte para notebook,Acessórios,Sudeste,Fábio,3,120,0,360.0
+10623,2025-04-24,Caixa de som,Áudio,Sul,Ana,3,420,10,1134.0
+10624,2025-04-24,Teclado mecânico,Informática,Centro-Oeste,Fábio,3,310,0,930.0
+10625,2025-04-24,Teclado mecânico,Informática,Sudeste,Elisa,5,310,0,1550.0
+10626,2025-04-24,Monitor 24,Informática,Sudeste,Carla,1,890,15,756.5
+10627,2025-04-25,Cadeira ergonômica,Móveis,Sul,Hugo,1,1150,0,1150.0
+10628,2025-04-25,Mouse sem fio,Informática,Sudeste,Diego,1,85,0,85.0
+10629,2025-04-25,Suporte para notebook,Acessórios,Nordeste,Carla,2,120,5,228.0
+10630,2025-04-25,Caixa de som,Áudio,Sudeste,Diego,3,420,5,1197.0
+10631,2025-04-25,Fone bluetooth,Áudio,Sudeste,Hugo,2,260,0,520.0
+10632,2025-04-25,Caixa de som,Áudio,Nordeste,Diego,1,420,5,399.0
+10633,2025-04-25,Webcam HD,Acessórios,Sudeste,Bruno,3,190,0,570.0
+10634,2025-04-25,Mouse sem fio,Informática,Nordeste,Gabi,4,85,5,323.0
+10635,2025-04-26,Monitor 24,Informática,Sul,Fábio,1,890,0,890.0
+10636,2025-04-26,Webcam HD,Acessórios,Sudeste,Elisa,1,190,0,190.0
+10637,2025-04-26,Teclado mecânico,Informática,Sudeste,Bruno,2,310,0,620.0
+10638,2025-04-26,Teclado mecânico,Informática,Nordeste,Carla,1,310,0,310.0
+10639,2025-04-26,Caixa de som,Áudio,Sul,Ana,2,420,0,840.0
+10640,2025-04-26,Mouse sem fio,Informática,Sudeste,Diego,4,85,0,340.0
+10641,2025-04-26,Fone bluetooth,Áudio,Sudeste,Bruno,4,260,5,988.0
+10642,2025-04-26,Fone bluetooth,Áudio,Centro-Oeste,Ana,3,260,0,780.0
+10643,2025-04-26,Caixa de som,Áudio,Nordeste,Gabi,1,420,5,399.0
+10644,2025-04-27,Fone bluetooth,Áudio,Sudeste,Fábio,5,260,15,1105.0
+10645,2025-04-27,Monitor 24,Informática,Sudeste,Fábio,1,890,15,756.5
+10646,2025-04-27,Mouse sem fio,Informática,Norte,Diego,3,85,0,255.0
+10647,2025-04-27,Teclado mecânico,Informática,Sudeste,Diego,2,310,0,620.0
+10648,2025-04-27,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,0,600.0
+10649,2025-04-27,Caixa de som,Áudio,Nordeste,Ana,4,420,0,1680.0
+10650,2025-04-27,Mouse sem fio,Informática,Sudeste,Gabi,2,85,10,153.0
+10651,2025-04-27,Notebook 14,Informática,Centro-Oeste,Diego,3,3200,0,9600.0
+10652,2025-04-28,Suporte para notebook,Acessórios,Centro-Oeste,Diego,1,120,0,120.0
+10653,2025-04-28,Mouse sem fio,Informática,Sudeste,Elisa,5,85,15,361.25
+10654,2025-04-28,Monitor 24,Informática,Sudeste,Bruno,4,890,15,3026.0
+10655,2025-04-28,Teclado mecânico,Informática,Nordeste,Elisa,2,310,0,620.0
+10656,2025-04-28,Mesa de escritório,Móveis,Sul,Carla,3,740,10,1998.0
+10657,2025-04-28,Notebook 14,Informática,Sudeste,Fábio,5,3200,0,16000.0
+10658,2025-04-28,Monitor 24,Informática,Centro-Oeste,Ana,2,890,5,1691.0
+10659,2025-04-29,Mouse sem fio,Informática,Centro-Oeste,Elisa,5,85,10,382.5
+10660,2025-04-29,Mesa de escritório,Móveis,Norte,Fábio,1,740,10,666.0
+10661,2025-04-29,Caixa de som,Áudio,Norte,Gabi,5,420,0,2100.0
+10662,2025-04-30,Notebook 14,Informática,Centro-Oeste,Elisa,5,3200,0,16000.0
+10663,2025-04-30,Suporte para notebook,Acessórios,Sul,Bruno,4,120,5,456.0
+10664,2025-04-30,Caixa de som,Áudio,Sudeste,Elisa,1,420,15,357.0
+10665,2025-04-30,Fone bluetooth,Áudio,Sul,Elisa,2,260,0,520.0
+10666,2025-05-01,Mouse sem fio,Informática,Norte,Diego,1,85,5,80.75
+10667,2025-05-01,Mesa de escritório,Móveis,Sul,Elisa,3,740,0,2220.0
+10668,2025-05-01,Cadeira ergonômica,Móveis,Norte,Elisa,3,1150,5,3277.5
+10669,2025-05-01,Caixa de som,Áudio,Centro-Oeste,Gabi,4,420,10,1512.0
+10670,2025-05-02,Caixa de som,Áudio,Sudeste,Ana,5,420,15,1785.0
+10671,2025-05-02,Mesa de escritório,Móveis,Nordeste,Gabi,4,740,0,2960.0
+10672,2025-05-02,Teclado mecânico,Informática,Nordeste,Diego,5,310,0,1550.0
+10673,2025-05-02,Suporte para notebook,Acessórios,Norte,Bruno,2,120,5,228.0
+10674,2025-05-02,Caixa de som,Áudio,Sul,Diego,1,420,0,420.0
+10675,2025-05-02,Webcam HD,Acessórios,Sudeste,Elisa,3,190,15,484.5
+10676,2025-05-02,Mouse sem fio,Informática,Nordeste,Elisa,3,85,0,255.0
+10677,2025-05-02,Mouse sem fio,Informática,Sul,Bruno,5,85,5,403.75
+10678,2025-05-02,Webcam HD,Acessórios,Sudeste,Ana,1,190,10,171.0
+10679,2025-05-03,Notebook 14,Informática,Sul,Hugo,1,3200,10,2880.0
+10680,2025-05-03,Suporte para notebook,Acessórios,Sudeste,Diego,5,120,0,600.0
+10681,2025-05-04,Teclado mecânico,Informática,Centro-Oeste,Bruno,5,310,0,1550.0
+10682,2025-05-04,Suporte para notebook,Acessórios,Sudeste,Fábio,4,120,0,480.0
+10683,2025-05-04,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,0,1480.0
+10684,2025-05-04,Suporte para notebook,Acessórios,Sul,Gabi,2,120,5,228.0
+10685,2025-05-04,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,0,3700.0
+10686,2025-05-04,Cadeira ergonômica,Móveis,Sudeste,Carla,1,1150,5,1092.5
+10687,2025-05-04,Cadeira ergonômica,Móveis,Norte,Bruno,2,1150,0,2300.0
+10688,2025-05-05,Teclado mecânico,Informática,Sudeste,Fábio,1,310,0,310.0
+10689,2025-05-05,Suporte para notebook,Acessórios,Sudeste,Hugo,5,120,15,510.0
+10690,2025-05-05,Suporte para notebook,Acessórios,Sudeste,Elisa,2,120,0,240.0
+10691,2025-05-05,Webcam HD,Acessórios,Sudeste,Ana,4,190,0,760.0
+10692,2025-05-06,Notebook 14,Informática,Sul,Fábio,2,3200,5,6080.0
+10693,2025-05-06,Fone bluetooth,Áudio,Sudeste,Diego,1,260,0,260.0
+10694,2025-05-06,Teclado mecânico,Informática,Sudeste,Carla,4,310,10,1116.0
+10695,2025-05-06,Teclado mecânico,Informática,Sudeste,Carla,1,310,10,279.0
+10696,2025-05-06,Monitor 24,Informática,Centro-Oeste,Bruno,4,890,0,3560.0
+10697,2025-05-06,Cadeira ergonômica,Móveis,Nordeste,Ana,2,1150,0,2300.0
+10698,2025-05-06,Teclado mecânico,Informática,Sudeste,Ana,2,310,0,620.0
+10699,2025-05-07,Mesa de escritório,Móveis,Nordeste,Hugo,2,740,0,1480.0
+10700,2025-05-07,Monitor 24,Informática,Sul,Hugo,5,890,15,3782.5
+10701,2025-05-07,Caixa de som,Áudio,Sul,Elisa,3,420,10,1134.0
+10702,2025-05-07,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,10,3330.0
+10703,2025-05-07,Suporte para notebook,Acessórios,Norte,Fábio,1,120,15,102.0
+10704,2025-05-07,Teclado mecânico,Informática,Sudeste,Bruno,4,310,15,1054.0
+10705,2025-05-08,Fone bluetooth,Áudio,Sudeste,Carla,1,260,0,260.0
+10706,2025-05-08,Cadeira ergonômica,Móveis,Norte,Gabi,2,1150,0,2300.0
+10707,2025-05-09,Teclado mecânico,Informática,Nordeste,Gabi,4,310,10,1116.0
+10708,2025-05-09,Notebook 14,Informática,Sul,Hugo,3,3200,10,8640.0
+10709,2025-05-10,Caixa de som,Áudio,Norte,Bruno,5,420,15,1785.0
+10710,2025-05-10,Webcam HD,Acessórios,Sul,Ana,3,190,15,484.5
+10711,2025-05-11,Suporte para notebook,Acessórios,Sudeste,Fábio,4,120,0,480.0
+10712,2025-05-11,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,15,4887.5
+10713,2025-05-12,Monitor 24,Informática,Sudeste,Gabi,1,890,0,890.0
+10714,2025-05-12,Teclado mecânico,Informática,Sudeste,Fábio,5,310,0,1550.0
+10715,2025-05-12,Webcam HD,Acessórios,Sudeste,Gabi,4,190,15,646.0
+10716,2025-05-12,Mesa de escritório,Móveis,Sul,Elisa,1,740,0,740.0
+10717,2025-05-12,Fone bluetooth,Áudio,Sudeste,Ana,5,260,10,1170.0
+10718,2025-05-12,Teclado mecânico,Informática,Sudeste,Carla,5,310,0,1550.0
+10719,2025-05-13,Monitor 24,Informática,Sul,Diego,4,890,10,3204.0
+10720,2025-05-13,Cadeira ergonômica,Móveis,Nordeste,Elisa,1,1150,0,1150.0
+10721,2025-05-13,Teclado mecânico,Informática,Sudeste,Elisa,4,310,0,1240.0
+10722,2025-05-13,Teclado mecânico,Informática,Norte,Hugo,1,310,0,310.0
+10723,2025-05-13,Mesa de escritório,Móveis,Nordeste,Gabi,2,740,0,1480.0
+10724,2025-05-14,Mouse sem fio,Informática,Sul,Bruno,5,85,0,425.0
+10725,2025-05-14,Monitor 24,Informática,Sudeste,Diego,2,890,0,1780.0
+10726,2025-05-14,Mesa de escritório,Móveis,Nordeste,Gabi,2,740,5,1406.0
+10727,2025-05-14,Notebook 14,Informática,Sudeste,Ana,2,3200,5,6080.0
+10728,2025-05-14,Cadeira ergonômica,Móveis,Sudeste,Elisa,1,1150,0,1150.0
+10729,2025-05-14,Mouse sem fio,Informática,Sudeste,Elisa,5,85,0,425.0
+10730,2025-05-15,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+10731,2025-05-15,Mouse sem fio,Informática,Norte,Hugo,3,85,10,229.5
+10732,2025-05-15,Notebook 14,Informática,Sudeste,Gabi,4,3200,5,12160.0
+10733,2025-05-16,Fone bluetooth,Áudio,Sudeste,Fábio,2,260,0,520.0
+10734,2025-05-16,Mouse sem fio,Informática,Norte,Carla,5,85,15,361.25
+10735,2025-05-16,Webcam HD,Acessórios,Sudeste,Bruno,4,190,15,646.0
+10736,2025-05-16,Mesa de escritório,Móveis,Sudeste,Elisa,2,740,0,1480.0
+10737,2025-05-16,Suporte para notebook,Acessórios,Norte,Elisa,3,120,0,360.0
+10738,2025-05-16,Caixa de som,Áudio,Sul,Gabi,4,420,0,1680.0
+10739,2025-05-16,Fone bluetooth,Áudio,Sudeste,Carla,2,260,10,468.0
+10740,2025-05-16,Caixa de som,Áudio,Sudeste,Gabi,1,420,5,399.0
+10741,2025-05-16,Mesa de escritório,Móveis,Sul,Diego,2,740,0,1480.0
+10742,2025-05-17,Monitor 24,Informática,Nordeste,Carla,4,890,0,3560.0
+10743,2025-05-17,Monitor 24,Informática,Sudeste,Ana,1,890,5,845.5
+10744,2025-05-17,Webcam HD,Acessórios,Sudeste,Bruno,1,190,0,190.0
+10745,2025-05-17,Monitor 24,Informática,Sul,Bruno,3,890,5,2536.5
+10746,2025-05-17,Fone bluetooth,Áudio,Nordeste,Carla,1,260,5,247.0
+10747,2025-05-18,Suporte para notebook,Acessórios,Centro-Oeste,Elisa,1,120,5,114.0
+10748,2025-05-18,Cadeira ergonômica,Móveis,Sul,Fábio,1,1150,5,1092.5
+10749,2025-05-18,Monitor 24,Informática,Norte,Gabi,1,890,0,890.0
+10750,2025-05-18,Suporte para notebook,Acessórios,Norte,Gabi,2,120,0,240.0
+10751,2025-05-19,Teclado mecânico,Informática,Nordeste,Ana,3,310,10,837.0
+10752,2025-05-19,Mouse sem fio,Informática,Sudeste,Bruno,4,85,5,323.0
+10753,2025-05-19,Mesa de escritório,Móveis,Nordeste,Hugo,1,740,5,703.0
+10754,2025-05-19,Suporte para notebook,Acessórios,Sudeste,Hugo,2,120,0,240.0
+10755,2025-05-20,Fone bluetooth,Áudio,Nordeste,Hugo,2,260,10,468.0
+10756,2025-05-20,Teclado mecânico,Informática,Sul,Bruno,2,310,0,620.0
+10757,2025-05-20,Suporte para notebook,Acessórios,Nordeste,Hugo,4,120,10,432.0
+10758,2025-05-20,Cadeira ergonômica,Móveis,Sudeste,Ana,4,1150,15,3910.0
+10759,2025-05-21,Mesa de escritório,Móveis,Nordeste,Elisa,5,740,0,3700.0
+10760,2025-05-21,Webcam HD,Acessórios,Nordeste,Diego,2,190,0,380.0
+10761,2025-05-21,Fone bluetooth,Áudio,Centro-Oeste,Elisa,4,260,0,1040.0
+10762,2025-05-21,Teclado mecânico,Informática,Sudeste,Bruno,5,310,0,1550.0
+10763,2025-05-21,Mesa de escritório,Móveis,Norte,Diego,5,740,0,3700.0
+10764,2025-05-21,Mouse sem fio,Informática,Norte,Elisa,2,85,0,170.0
+10765,2025-05-22,Mouse sem fio,Informática,Sudeste,Bruno,2,85,5,161.5
+10766,2025-05-22,Mesa de escritório,Móveis,Sul,Fábio,3,740,10,1998.0
+10767,2025-05-22,Webcam HD,Acessórios,Nordeste,Fábio,3,190,0,570.0
+10768,2025-05-22,Caixa de som,Áudio,Sudeste,Diego,2,420,0,840.0
+10769,2025-05-23,Caixa de som,Áudio,Sudeste,Gabi,1,420,0,420.0
+10770,2025-05-23,Cadeira ergonômica,Móveis,Nordeste,Ana,2,1150,5,2185.0
+10771,2025-05-24,Suporte para notebook,Acessórios,Sudeste,Bruno,5,120,5,570.0
+10772,2025-05-24,Mesa de escritório,Móveis,Centro-Oeste,Bruno,5,740,0,3700.0
+10773,2025-05-24,Suporte para notebook,Acessórios,Sudeste,Ana,1,120,0,120.0
+10774,2025-05-24,Mouse sem fio,Informática,Nordeste,Ana,2,85,15,144.5
+10775,2025-05-24,Teclado mecânico,Informática,Norte,Hugo,5,310,10,1395.0
+10776,2025-05-24,Suporte para notebook,Acessórios,Sudeste,Bruno,5,120,0,600.0
+10777,2025-05-24,Monitor 24,Informática,Sul,Ana,4,890,0,3560.0
+10778,2025-05-25,Monitor 24,Informática,Sul,Bruno,5,890,0,4450.0
+10779,2025-05-25,Notebook 14,Informática,Sudeste,Bruno,4,3200,0,12800.0
+10780,2025-05-25,Teclado mecânico,Informática,Nordeste,Bruno,4,310,10,1116.0
+10781,2025-05-25,Cadeira ergonômica,Móveis,Sudeste,Fábio,2,1150,0,2300.0
+10782,2025-05-26,Teclado mecânico,Informática,Sudeste,Hugo,4,310,0,1240.0
+10783,2025-05-26,Notebook 14,Informática,Nordeste,Fábio,1,3200,5,3040.0
+10784,2025-05-27,Teclado mecânico,Informática,Sudeste,Gabi,5,310,5,1472.5
+10785,2025-05-27,Suporte para notebook,Acessórios,Sul,Bruno,2,120,5,228.0
+10786,2025-05-27,Caixa de som,Áudio,Nordeste,Elisa,5,420,0,2100.0
+10787,2025-05-27,Notebook 14,Informática,Sudeste,Fábio,3,3200,0,9600.0
+10788,2025-05-27,Fone bluetooth,Áudio,Nordeste,Elisa,5,260,0,1300.0
+10789,2025-05-28,Caixa de som,Áudio,Sudeste,Gabi,2,420,0,840.0
+10790,2025-05-28,Monitor 24,Informática,Sudeste,Bruno,3,890,0,2670.0
+10791,2025-05-28,Suporte para notebook,Acessórios,Sudeste,Hugo,4,120,0,480.0
+10792,2025-05-29,Webcam HD,Acessórios,Sul,Carla,5,190,15,807.5
+10793,2025-05-29,Suporte para notebook,Acessórios,Norte,Diego,3,120,5,342.0
+10794,2025-05-29,Monitor 24,Informática,Sul,Elisa,4,890,0,3560.0
+10795,2025-05-29,Teclado mecânico,Informática,Sudeste,Ana,4,310,15,1054.0
+10796,2025-05-29,Suporte para notebook,Acessórios,Sul,Carla,3,120,5,342.0
+10797,2025-05-30,Notebook 14,Informática,Sudeste,Fábio,2,3200,15,5440.0
+10798,2025-05-30,Mesa de escritório,Móveis,Sul,Gabi,1,740,0,740.0
+10799,2025-05-30,Fone bluetooth,Áudio,Nordeste,Fábio,2,260,5,494.0
+10800,2025-05-30,Suporte para notebook,Acessórios,Sudeste,Elisa,5,120,10,540.0
+10801,2025-05-30,Mesa de escritório,Móveis,Sudeste,Bruno,2,740,15,1258.0
+10802,2025-05-30,Cadeira ergonômica,Móveis,Norte,Diego,1,1150,0,1150.0
+10803,2025-05-30,Cadeira ergonômica,Móveis,Sudeste,Carla,3,1150,0,3450.0
+10804,2025-05-30,Mouse sem fio,Informática,Sudeste,Ana,5,85,5,403.75
+10805,2025-05-30,Fone bluetooth,Áudio,Norte,Hugo,3,260,0,780.0
+10806,2025-05-31,Caixa de som,Áudio,Sul,Elisa,4,420,0,1680.0
+10807,2025-05-31,Cadeira ergonômica,Móveis,Centro-Oeste,Hugo,5,1150,15,4887.5
+10808,2025-05-31,Teclado mecânico,Informática,Sul,Ana,2,310,0,620.0
+10809,2025-05-31,Fone bluetooth,Áudio,Norte,Hugo,5,260,5,1235.0
+10810,2025-05-31,Fone bluetooth,Áudio,Norte,Elisa,5,260,10,1170.0
+10811,2025-05-31,Mouse sem fio,Informática,Centro-Oeste,Hugo,5,85,0,425.0
+10812,2025-06-01,Notebook 14,Informática,Sul,Fábio,2,3200,0,6400.0
+10813,2025-06-01,Notebook 14,Informática,Sudeste,Bruno,2,3200,0,6400.0
+10814,2025-06-01,Suporte para notebook,Acessórios,Sul,Fábio,3,120,0,360.0
+10815,2025-06-01,Monitor 24,Informática,Nordeste,Ana,4,890,10,3204.0
+10816,2025-06-01,Monitor 24,Informática,Nordeste,Elisa,2,890,0,1780.0
+10817,2025-06-01,Cadeira ergonômica,Móveis,Nordeste,Diego,5,1150,0,5750.0
+10818,2025-06-01,Suporte para notebook,Acessórios,Sul,Bruno,1,120,0,120.0
+10819,2025-06-01,Mouse sem fio,Informática,Nordeste,Diego,3,85,15,216.75
+10820,2025-06-02,Teclado mecânico,Informática,Sul,Ana,4,310,0,1240.0
+10821,2025-06-02,Mesa de escritório,Móveis,Sul,Ana,5,740,0,3700.0
+10822,2025-06-02,Caixa de som,Áudio,Sul,Fábio,2,420,15,714.0
+10823,2025-06-02,Monitor 24,Informática,Centro-Oeste,Ana,1,890,0,890.0
+10824,2025-06-02,Suporte para notebook,Acessórios,Norte,Gabi,2,120,0,240.0
+10825,2025-06-02,Mesa de escritório,Móveis,Sudeste,Ana,5,740,0,3700.0
+10826,2025-06-02,Notebook 14,Informática,Nordeste,Carla,5,3200,0,16000.0
+10827,2025-06-02,Fone bluetooth,Áudio,Sudeste,Ana,4,260,5,988.0
+10828,2025-06-02,Mouse sem fio,Informática,Centro-Oeste,Ana,2,85,0,170.0
+10829,2025-06-02,Suporte para notebook,Acessórios,Centro-Oeste,Carla,3,120,10,324.0
+10830,2025-06-02,Mouse sem fio,Informática,Sudeste,Fábio,2,85,0,170.0
+10831,2025-06-03,Mesa de escritório,Móveis,Sudeste,Carla,1,740,10,666.0
+10832,2025-06-03,Fone bluetooth,Áudio,Sudeste,Hugo,2,260,0,520.0
+10833,2025-06-03,Caixa de som,Áudio,Sul,Ana,3,420,15,1071.0
+10834,2025-06-04,Mesa de escritório,Móveis,Nordeste,Gabi,3,740,0,2220.0
+10835,2025-06-04,Monitor 24,Informática,Sudeste,Hugo,5,890,5,4227.5
+10836,2025-06-05,Teclado mecânico,Informática,Sudeste,Ana,1,310,0,310.0
+10837,2025-06-05,Teclado mecânico,Informática,Sudeste,Fábio,5,310,0,1550.0
+10838,2025-06-05,Suporte para notebook,Acessórios,Sul,Gabi,5,120,5,570.0
+10839,2025-06-05,Webcam HD,Acessórios,Nordeste,Hugo,3,190,10,513.0
+10840,2025-06-06,Caixa de som,Áudio,Norte,Fábio,5,420,0,2100.0
+10841,2025-06-06,Mouse sem fio,Informática,Sudeste,Fábio,4,85,0,340.0
+10842,2025-06-06,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,2,1150,5,2185.0
+10843,2025-06-07,Webcam HD,Acessórios,Sul,Diego,5,190,0,950.0
+10844,2025-06-07,Mouse sem fio,Informática,Sudeste,Carla,1,85,15,72.25
+10845,2025-06-07,Notebook 14,Informática,Centro-Oeste,Diego,2,3200,5,6080.0
+10846,2025-06-07,Teclado mecânico,Informática,Sudeste,Carla,1,310,5,294.5
+10847,2025-06-07,Cadeira ergonômica,Móveis,Nordeste,Diego,4,1150,15,3910.0
+10848,2025-06-07,Teclado mecânico,Informática,Sudeste,Carla,4,310,0,1240.0
+10849,2025-06-07,Mesa de escritório,Móveis,Nordeste,Elisa,5,740,5,3515.0
+10850,2025-06-08,Suporte para notebook,Acessórios,Centro-Oeste,Diego,3,120,10,324.0
+10851,2025-06-08,Caixa de som,Áudio,Sudeste,Hugo,2,420,0,840.0
+10852,2025-06-08,Webcam HD,Acessórios,Centro-Oeste,Ana,2,190,10,342.0
+10853,2025-06-08,Cadeira ergonômica,Móveis,Norte,Bruno,1,1150,5,1092.5
+10854,2025-06-08,Cadeira ergonômica,Móveis,Nordeste,Carla,4,1150,5,4370.0
+10855,2025-06-08,Caixa de som,Áudio,Sul,Diego,3,420,0,1260.0
+10856,2025-06-08,Teclado mecânico,Informática,Sudeste,Carla,3,310,0,930.0
+10857,2025-06-08,Teclado mecânico,Informática,Sudeste,Elisa,1,310,0,310.0
+10858,2025-06-08,Webcam HD,Acessórios,Sudeste,Elisa,1,190,0,190.0
+10859,2025-06-08,Monitor 24,Informática,Sul,Ana,2,890,15,1513.0
+10860,2025-06-08,Cadeira ergonômica,Móveis,Sul,Elisa,1,1150,0,1150.0
+10861,2025-06-09,Notebook 14,Informática,Sudeste,Diego,2,3200,0,6400.0
+10862,2025-06-09,Caixa de som,Áudio,Sul,Bruno,2,420,15,714.0
+10863,2025-06-09,Webcam HD,Acessórios,Nordeste,Bruno,4,190,0,760.0
+10864,2025-06-09,Cadeira ergonômica,Móveis,Centro-Oeste,Bruno,3,1150,0,3450.0
+10865,2025-06-09,Teclado mecânico,Informática,Sudeste,Hugo,4,310,10,1116.0
+10866,2025-06-10,Webcam HD,Acessórios,Nordeste,Bruno,1,190,10,171.0
+10867,2025-06-10,Cadeira ergonômica,Móveis,Sudeste,Hugo,4,1150,0,4600.0
+10868,2025-06-10,Caixa de som,Áudio,Sudeste,Diego,3,420,0,1260.0
+10869,2025-06-10,Cadeira ergonômica,Móveis,Sudeste,Diego,5,1150,5,5462.5
+10870,2025-06-10,Cadeira ergonômica,Móveis,Nordeste,Carla,4,1150,0,4600.0
+10871,2025-06-11,Webcam HD,Acessórios,Nordeste,Carla,3,190,5,541.5
+10872,2025-06-11,Fone bluetooth,Áudio,Sudeste,Gabi,3,260,10,702.0
+10873,2025-06-11,Monitor 24,Informática,Nordeste,Gabi,1,890,0,890.0
+10874,2025-06-11,Monitor 24,Informática,Sul,Elisa,1,890,0,890.0
+10875,2025-06-11,Teclado mecânico,Informática,Sul,Fábio,4,310,10,1116.0
+10876,2025-06-12,Monitor 24,Informática,Nordeste,Gabi,5,890,5,4227.5
+10877,2025-06-12,Caixa de som,Áudio,Sudeste,Bruno,4,420,0,1680.0
+10878,2025-06-12,Fone bluetooth,Áudio,Sudeste,Elisa,5,260,5,1235.0
+10879,2025-06-12,Cadeira ergonômica,Móveis,Sul,Diego,3,1150,0,3450.0
+10880,2025-06-12,Webcam HD,Acessórios,Norte,Fábio,2,190,5,361.0
+10881,2025-06-12,Teclado mecânico,Informática,Sudeste,Gabi,2,310,5,589.0
+10882,2025-06-12,Mouse sem fio,Informática,Sudeste,Fábio,4,85,0,340.0
+10883,2025-06-13,Mesa de escritório,Móveis,Sul,Carla,2,740,0,1480.0
+10884,2025-06-13,Notebook 14,Informática,Sudeste,Diego,4,3200,0,12800.0
+10885,2025-06-13,Suporte para notebook,Acessórios,Nordeste,Diego,2,120,0,240.0
+10886,2025-06-13,Caixa de som,Áudio,Sul,Gabi,5,420,0,2100.0
+10887,2025-06-13,Teclado mecânico,Informática,Norte,Diego,4,310,0,1240.0
+10888,2025-06-13,Teclado mecânico,Informática,Sudeste,Diego,4,310,0,1240.0
+10889,2025-06-13,Fone bluetooth,Áudio,Nordeste,Bruno,2,260,0,520.0
+10890,2025-06-13,Monitor 24,Informática,Centro-Oeste,Carla,2,890,5,1691.0
+10891,2025-06-14,Webcam HD,Acessórios,Sul,Gabi,1,190,10,171.0
+10892,2025-06-14,Webcam HD,Acessórios,Sudeste,Elisa,1,190,5,180.5
+10893,2025-06-14,Notebook 14,Informática,Nordeste,Fábio,2,3200,15,5440.0
+10894,2025-06-14,Mouse sem fio,Informática,Sul,Fábio,1,85,5,80.75
+10895,2025-06-14,Monitor 24,Informática,Centro-Oeste,Ana,4,890,0,3560.0
+10896,2025-06-14,Cadeira ergonômica,Móveis,Sudeste,Elisa,3,1150,15,2932.5
+10897,2025-06-14,Fone bluetooth,Áudio,Norte,Ana,5,260,0,1300.0
+10898,2025-06-14,Mesa de escritório,Móveis,Sudeste,Carla,1,740,0,740.0
+10899,2025-06-15,Teclado mecânico,Informática,Nordeste,Fábio,3,310,10,837.0
+10900,2025-06-15,Mouse sem fio,Informática,Sudeste,Diego,3,85,0,255.0
+10901,2025-06-15,Webcam HD,Acessórios,Sudeste,Fábio,3,190,0,570.0
+10902,2025-06-15,Mouse sem fio,Informática,Sudeste,Bruno,2,85,0,170.0
+10903,2025-06-15,Teclado mecânico,Informática,Nordeste,Hugo,3,310,10,837.0
+10904,2025-06-15,Mouse sem fio,Informática,Sudeste,Gabi,3,85,5,242.25
+10905,2025-06-15,Monitor 24,Informática,Sul,Hugo,2,890,0,1780.0
+10906,2025-06-16,Suporte para notebook,Acessórios,Centro-Oeste,Elisa,3,120,10,324.0
+10907,2025-06-16,Teclado mecânico,Informática,Nordeste,Ana,2,310,5,589.0
+10908,2025-06-16,Monitor 24,Informática,Nordeste,Elisa,1,890,0,890.0
+10909,2025-06-16,Cadeira ergonômica,Móveis,Sudeste,Diego,4,1150,0,4600.0
+10910,2025-06-16,Notebook 14,Informática,Centro-Oeste,Elisa,5,3200,10,14400.0
+10911,2025-06-16,Mouse sem fio,Informática,Sul,Carla,1,85,0,85.0
+10912,2025-06-17,Mesa de escritório,Móveis,Sul,Hugo,2,740,5,1406.0
+10913,2025-06-17,Mesa de escritório,Móveis,Sudeste,Bruno,4,740,0,2960.0
+10914,2025-06-17,Cadeira ergonômica,Móveis,Sudeste,Diego,4,1150,5,4370.0
+10915,2025-06-17,Cadeira ergonômica,Móveis,Sudeste,Elisa,4,1150,10,4140.0
+10916,2025-06-17,Suporte para notebook,Acessórios,Sul,Carla,3,120,15,306.0
+10917,2025-06-17,Fone bluetooth,Áudio,Sudeste,Elisa,3,260,0,780.0
+10918,2025-06-18,Monitor 24,Informática,Nordeste,Bruno,1,890,15,756.5
+10919,2025-06-18,Caixa de som,Áudio,Sul,Elisa,3,420,15,1071.0
+10920,2025-06-18,Mesa de escritório,Móveis,Nordeste,Fábio,2,740,0,1480.0
+10921,2025-06-18,Suporte para notebook,Acessórios,Nordeste,Hugo,1,120,0,120.0
+10922,2025-06-18,Suporte para notebook,Acessórios,Sudeste,Hugo,4,120,0,480.0
+10923,2025-06-18,Suporte para notebook,Acessórios,Nordeste,Bruno,4,120,0,480.0
+10924,2025-06-18,Monitor 24,Informática,Nordeste,Hugo,1,890,5,845.5
+10925,2025-06-18,Cadeira ergonômica,Móveis,Sudeste,Fábio,2,1150,0,2300.0
+10926,2025-06-19,Cadeira ergonômica,Móveis,Nordeste,Diego,4,1150,0,4600.0
+10927,2025-06-19,Notebook 14,Informática,Nordeste,Hugo,4,3200,0,12800.0
+10928,2025-06-19,Fone bluetooth,Áudio,Sudeste,Carla,1,260,15,221.0
+10929,2025-06-20,Suporte para notebook,Acessórios,Centro-Oeste,Fábio,3,120,0,360.0
+10930,2025-06-20,Mesa de escritório,Móveis,Sudeste,Diego,5,740,10,3330.0
+10931,2025-06-20,Teclado mecânico,Informática,Sul,Gabi,5,310,0,1550.0
+10932,2025-06-20,Webcam HD,Acessórios,Nordeste,Hugo,5,190,0,950.0
+10933,2025-06-20,Caixa de som,Áudio,Sudeste,Carla,5,420,0,2100.0
+10934,2025-06-20,Teclado mecânico,Informática,Sul,Diego,1,310,5,294.5
+10935,2025-06-20,Mesa de escritório,Móveis,Centro-Oeste,Diego,2,740,10,1332.0
+10936,2025-06-20,Mouse sem fio,Informática,Sudeste,Hugo,1,85,5,80.75
+10937,2025-06-21,Monitor 24,Informática,Sudeste,Diego,4,890,0,3560.0
+10938,2025-06-21,Suporte para notebook,Acessórios,Nordeste,Hugo,5,120,10,540.0
+10939,2025-06-21,Cadeira ergonômica,Móveis,Sul,Ana,4,1150,0,4600.0
+10940,2025-06-21,Teclado mecânico,Informática,Sul,Ana,3,310,10,837.0
+10941,2025-06-21,Monitor 24,Informática,Sudeste,Carla,2,890,0,1780.0
+10942,2025-06-21,Mouse sem fio,Informática,Sudeste,Ana,2,85,0,170.0
+10943,2025-06-21,Teclado mecânico,Informática,Sudeste,Bruno,2,310,10,558.0
+10944,2025-06-21,Fone bluetooth,Áudio,Sudeste,Fábio,1,260,0,260.0
+10945,2025-06-22,Cadeira ergonômica,Móveis,Sudeste,Diego,2,1150,10,2070.0
+10946,2025-06-22,Suporte para notebook,Acessórios,Sudeste,Fábio,3,120,0,360.0
+10947,2025-06-22,Teclado mecânico,Informática,Sudeste,Fábio,3,310,0,930.0
+10948,2025-06-23,Mouse sem fio,Informática,Sudeste,Carla,1,85,5,80.75
+10949,2025-06-23,Suporte para notebook,Acessórios,Norte,Gabi,5,120,15,510.0
+10950,2025-06-23,Teclado mecânico,Informática,Centro-Oeste,Carla,4,310,0,1240.0
+10951,2025-06-23,Mouse sem fio,Informática,Sul,Hugo,3,85,0,255.0
+10952,2025-06-23,Cadeira ergonômica,Móveis,Sul,Gabi,1,1150,0,1150.0
+10953,2025-06-23,Caixa de som,Áudio,Centro-Oeste,Ana,5,420,15,1785.0
+10954,2025-06-23,Caixa de som,Áudio,Sudeste,Diego,4,420,5,1596.0
+10955,2025-06-24,Mesa de escritório,Móveis,Sudeste,Carla,4,740,0,2960.0
+10956,2025-06-24,Webcam HD,Acessórios,Sul,Hugo,1,190,5,180.5
+10957,2025-06-24,Notebook 14,Informática,Sudeste,Fábio,5,3200,0,16000.0
+10958,2025-06-24,Monitor 24,Informática,Norte,Elisa,3,890,0,2670.0
+10959,2025-06-24,Suporte para notebook,Acessórios,Norte,Elisa,3,120,0,360.0
+10960,2025-06-24,Suporte para notebook,Acessórios,Nordeste,Diego,1,120,0,120.0
+10961,2025-06-24,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,5,570.0
+10962,2025-06-25,Webcam HD,Acessórios,Nordeste,Diego,4,190,10,684.0
+10963,2025-06-25,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,4,1150,0,4600.0
+10964,2025-06-25,Notebook 14,Informática,Sul,Ana,2,3200,5,6080.0
+10965,2025-06-25,Mouse sem fio,Informática,Nordeste,Hugo,4,85,0,340.0
+10966,2025-06-25,Monitor 24,Informática,Norte,Bruno,5,890,0,4450.0
+10967,2025-06-26,Mouse sem fio,Informática,Sul,Diego,3,85,10,229.5
+10968,2025-06-26,Mesa de escritório,Móveis,Nordeste,Bruno,3,740,5,2109.0
+10969,2025-06-26,Cadeira ergonômica,Móveis,Sudeste,Gabi,1,1150,5,1092.5
+10970,2025-06-27,Caixa de som,Áudio,Nordeste,Bruno,2,420,0,840.0
+10971,2025-06-27,Monitor 24,Informática,Sudeste,Diego,4,890,0,3560.0
+10972,2025-06-28,Teclado mecânico,Informática,Sul,Ana,3,310,10,837.0
+10973,2025-06-28,Mesa de escritório,Móveis,Sudeste,Hugo,3,740,10,1998.0
+10974,2025-06-28,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,10,1332.0
+10975,2025-06-28,Fone bluetooth,Áudio,Sudeste,Ana,1,260,15,221.0
+10976,2025-06-28,Cadeira ergonômica,Móveis,Nordeste,Fábio,2,1150,10,2070.0
+10977,2025-06-28,Webcam HD,Acessórios,Norte,Hugo,3,190,5,541.5
+10978,2025-06-29,Webcam HD,Acessórios,Sul,Carla,4,190,0,760.0
+10979,2025-06-29,Fone bluetooth,Áudio,Norte,Diego,2,260,10,468.0
+10980,2025-06-29,Mesa de escritório,Móveis,Nordeste,Carla,5,740,0,3700.0
+10981,2025-06-29,Mesa de escritório,Móveis,Centro-Oeste,Carla,1,740,0,740.0
+10982,2025-06-29,Fone bluetooth,Áudio,Nordeste,Hugo,2,260,0,520.0
+10983,2025-06-29,Caixa de som,Áudio,Nordeste,Elisa,3,420,0,1260.0
+10984,2025-06-30,Teclado mecânico,Informática,Sudeste,Gabi,4,310,0,1240.0
+10985,2025-06-30,Cadeira ergonômica,Móveis,Sudeste,Hugo,4,1150,0,4600.0
+10986,2025-06-30,Mesa de escritório,Móveis,Nordeste,Bruno,1,740,0,740.0
+10987,2025-06-30,Fone bluetooth,Áudio,Sul,Hugo,1,260,0,260.0
+10988,2025-06-30,Fone bluetooth,Áudio,Sul,Elisa,5,260,0,1300.0
+10989,2025-06-30,Webcam HD,Acessórios,Sudeste,Fábio,1,190,5,180.5
+10990,2025-06-30,Mouse sem fio,Informática,Sudeste,Ana,3,85,15,216.75
+10991,2025-06-30,Monitor 24,Informática,Sudeste,Hugo,2,890,0,1780.0
+10992,2025-06-30,Notebook 14,Informática,Centro-Oeste,Elisa,5,3200,5,15200.0
+10993,2025-07-01,Fone bluetooth,Áudio,Centro-Oeste,Fábio,1,260,10,234.0
+10994,2025-07-01,Caixa de som,Áudio,Sudeste,Fábio,3,420,0,1260.0
+10995,2025-07-01,Cadeira ergonômica,Móveis,Sudeste,Bruno,3,1150,0,3450.0
+10996,2025-07-02,Cadeira ergonômica,Móveis,Norte,Bruno,2,1150,0,2300.0
+10997,2025-07-02,Webcam HD,Acessórios,Sudeste,Ana,1,190,5,180.5
+10998,2025-07-02,Monitor 24,Informática,Nordeste,Gabi,5,890,0,4450.0
+10999,2025-07-02,Webcam HD,Acessórios,Norte,Fábio,4,190,0,760.0
+11000,2025-07-02,Notebook 14,Informática,Nordeste,Fábio,5,3200,0,16000.0
+11001,2025-07-02,Monitor 24,Informática,Nordeste,Carla,2,890,15,1513.0
+11002,2025-07-03,Teclado mecânico,Informática,Centro-Oeste,Hugo,3,310,10,837.0
+11003,2025-07-03,Caixa de som,Áudio,Nordeste,Ana,5,420,0,2100.0
+11004,2025-07-03,Webcam HD,Acessórios,Sul,Gabi,1,190,0,190.0
+11005,2025-07-03,Monitor 24,Informática,Sudeste,Bruno,1,890,5,845.5
+11006,2025-07-03,Cadeira ergonômica,Móveis,Sudeste,Diego,4,1150,0,4600.0
+11007,2025-07-03,Monitor 24,Informática,Centro-Oeste,Elisa,3,890,0,2670.0
+11008,2025-07-04,Cadeira ergonômica,Móveis,Norte,Bruno,1,1150,5,1092.5
+11009,2025-07-04,Mesa de escritório,Móveis,Sudeste,Bruno,2,740,0,1480.0
+11010,2025-07-04,Mouse sem fio,Informática,Nordeste,Gabi,4,85,0,340.0
+11011,2025-07-04,Teclado mecânico,Informática,Sul,Bruno,1,310,5,294.5
+11012,2025-07-04,Fone bluetooth,Áudio,Sul,Carla,4,260,5,988.0
+11013,2025-07-04,Webcam HD,Acessórios,Sudeste,Hugo,5,190,0,950.0
+11014,2025-07-04,Caixa de som,Áudio,Sudeste,Carla,4,420,0,1680.0
+11015,2025-07-04,Fone bluetooth,Áudio,Sudeste,Carla,4,260,0,1040.0
+11016,2025-07-05,Notebook 14,Informática,Sudeste,Fábio,3,3200,5,9120.0
+11017,2025-07-05,Mouse sem fio,Informática,Sudeste,Bruno,1,85,0,85.0
+11018,2025-07-05,Caixa de som,Áudio,Sul,Ana,4,420,0,1680.0
+11019,2025-07-05,Cadeira ergonômica,Móveis,Sudeste,Diego,1,1150,5,1092.5
+11020,2025-07-05,Mesa de escritório,Móveis,Sul,Fábio,5,740,0,3700.0
+11021,2025-07-05,Webcam HD,Acessórios,Centro-Oeste,Ana,5,190,15,807.5
+11022,2025-07-05,Teclado mecânico,Informática,Centro-Oeste,Carla,4,310,5,1178.0
+11023,2025-07-05,Fone bluetooth,Áudio,Norte,Carla,4,260,15,884.0
+11024,2025-07-07,Caixa de som,Áudio,Sudeste,Fábio,4,420,0,1680.0
+11025,2025-07-07,Fone bluetooth,Áudio,Sudeste,Gabi,2,260,5,494.0
+11026,2025-07-07,Caixa de som,Áudio,Norte,Bruno,1,420,15,357.0
+11027,2025-07-07,Caixa de som,Áudio,Sudeste,Bruno,1,420,15,357.0
+11028,2025-07-07,Cadeira ergonômica,Móveis,Sudeste,Diego,5,1150,0,5750.0
+11029,2025-07-07,Notebook 14,Informática,Sudeste,Diego,4,3200,10,11520.0
+11030,2025-07-07,Teclado mecânico,Informática,Sudeste,Carla,2,310,0,620.0
+11031,2025-07-08,Suporte para notebook,Acessórios,Sudeste,Carla,3,120,0,360.0
+11032,2025-07-08,Cadeira ergonômica,Móveis,Sul,Fábio,4,1150,5,4370.0
+11033,2025-07-08,Cadeira ergonômica,Móveis,Sudeste,Ana,3,1150,5,3277.5
+11034,2025-07-08,Monitor 24,Informática,Nordeste,Diego,2,890,5,1691.0
+11035,2025-07-08,Teclado mecânico,Informática,Sul,Carla,2,310,0,620.0
+11036,2025-07-08,Notebook 14,Informática,Sudeste,Bruno,1,3200,15,2720.0
+11037,2025-07-08,Suporte para notebook,Acessórios,Sudeste,Gabi,2,120,0,240.0
+11038,2025-07-08,Mouse sem fio,Informática,Sul,Hugo,3,85,15,216.75
+11039,2025-07-08,Teclado mecânico,Informática,Sudeste,Gabi,1,310,0,310.0
+11040,2025-07-09,Webcam HD,Acessórios,Nordeste,Elisa,3,190,0,570.0
+11041,2025-07-09,Mouse sem fio,Informática,Sudeste,Carla,2,85,10,153.0
+11042,2025-07-09,Cadeira ergonômica,Móveis,Sudeste,Gabi,3,1150,0,3450.0
+11043,2025-07-09,Webcam HD,Acessórios,Nordeste,Bruno,5,190,0,950.0
+11044,2025-07-09,Notebook 14,Informática,Nordeste,Fábio,1,3200,0,3200.0
+11045,2025-07-10,Caixa de som,Áudio,Sul,Gabi,3,420,5,1197.0
+11046,2025-07-10,Webcam HD,Acessórios,Sudeste,Fábio,3,190,10,513.0
+11047,2025-07-10,Monitor 24,Informática,Sul,Fábio,2,890,0,1780.0
+11048,2025-07-10,Mesa de escritório,Móveis,Nordeste,Elisa,2,740,0,1480.0
+11049,2025-07-10,Notebook 14,Informática,Sudeste,Fábio,5,3200,10,14400.0
+11050,2025-07-10,Caixa de som,Áudio,Sudeste,Fábio,2,420,0,840.0
+11051,2025-07-10,Notebook 14,Informática,Sudeste,Gabi,1,3200,0,3200.0
+11052,2025-07-11,Caixa de som,Áudio,Nordeste,Fábio,2,420,0,840.0
+11053,2025-07-11,Mesa de escritório,Móveis,Norte,Gabi,5,740,0,3700.0
+11054,2025-07-11,Cadeira ergonômica,Móveis,Centro-Oeste,Hugo,2,1150,10,2070.0
+11055,2025-07-11,Caixa de som,Áudio,Nordeste,Bruno,1,420,10,378.0
+11056,2025-07-11,Monitor 24,Informática,Nordeste,Carla,2,890,10,1602.0
+11057,2025-07-11,Mesa de escritório,Móveis,Sudeste,Ana,5,740,0,3700.0
+11058,2025-07-12,Cadeira ergonômica,Móveis,Sudeste,Elisa,4,1150,10,4140.0
+11059,2025-07-12,Mesa de escritório,Móveis,Norte,Gabi,5,740,0,3700.0
+11060,2025-07-12,Monitor 24,Informática,Nordeste,Bruno,2,890,5,1691.0
+11061,2025-07-13,Suporte para notebook,Acessórios,Nordeste,Bruno,2,120,5,228.0
+11062,2025-07-13,Monitor 24,Informática,Nordeste,Gabi,2,890,10,1602.0
+11063,2025-07-13,Caixa de som,Áudio,Sul,Ana,2,420,10,756.0
+11064,2025-07-13,Mesa de escritório,Móveis,Sul,Gabi,2,740,15,1258.0
+11065,2025-07-13,Caixa de som,Áudio,Norte,Carla,1,420,5,399.0
+11066,2025-07-13,Notebook 14,Informática,Nordeste,Elisa,2,3200,5,6080.0
+11067,2025-07-13,Mesa de escritório,Móveis,Nordeste,Fábio,2,740,0,1480.0
+11068,2025-07-13,Fone bluetooth,Áudio,Nordeste,Fábio,2,260,0,520.0
+11069,2025-07-13,Notebook 14,Informática,Sudeste,Hugo,2,3200,0,6400.0
+11070,2025-07-13,Cadeira ergonômica,Móveis,Norte,Diego,1,1150,15,977.5
+11071,2025-07-13,Fone bluetooth,Áudio,Sul,Fábio,2,260,0,520.0
+11072,2025-07-14,Caixa de som,Áudio,Norte,Gabi,1,420,0,420.0
+11073,2025-07-14,Teclado mecânico,Informática,Sudeste,Ana,3,310,5,883.5
+11074,2025-07-14,Mesa de escritório,Móveis,Norte,Fábio,5,740,0,3700.0
+11075,2025-07-14,Notebook 14,Informática,Nordeste,Carla,2,3200,10,5760.0
+11076,2025-07-14,Cadeira ergonômica,Móveis,Sudeste,Bruno,4,1150,5,4370.0
+11077,2025-07-14,Suporte para notebook,Acessórios,Sudeste,Diego,4,120,0,480.0
+11078,2025-07-14,Mesa de escritório,Móveis,Sudeste,Fábio,5,740,0,3700.0
+11079,2025-07-14,Notebook 14,Informática,Sudeste,Hugo,3,3200,0,9600.0
+11080,2025-07-14,Mesa de escritório,Móveis,Sudeste,Bruno,5,740,10,3330.0
+11081,2025-07-15,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,0,3700.0
+11082,2025-07-15,Cadeira ergonômica,Móveis,Sudeste,Elisa,2,1150,0,2300.0
+11083,2025-07-15,Fone bluetooth,Áudio,Centro-Oeste,Bruno,1,260,0,260.0
+11084,2025-07-15,Mesa de escritório,Móveis,Sul,Hugo,4,740,0,2960.0
+11085,2025-07-15,Caixa de som,Áudio,Sudeste,Hugo,4,420,0,1680.0
+11086,2025-07-15,Caixa de som,Áudio,Nordeste,Ana,1,420,0,420.0
+11087,2025-07-16,Mouse sem fio,Informática,Sul,Gabi,2,85,0,170.0
+11088,2025-07-16,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,0,5750.0
+11089,2025-07-17,Monitor 24,Informática,Nordeste,Hugo,2,890,0,1780.0
+11090,2025-07-17,Mesa de escritório,Móveis,Sudeste,Ana,1,740,0,740.0
+11091,2025-07-17,Mesa de escritório,Móveis,Sul,Bruno,4,740,5,2812.0
+11092,2025-07-17,Fone bluetooth,Áudio,Sudeste,Carla,1,260,0,260.0
+11093,2025-07-17,Fone bluetooth,Áudio,Nordeste,Bruno,4,260,0,1040.0
+11094,2025-07-17,Monitor 24,Informática,Norte,Fábio,5,890,0,4450.0
+11095,2025-07-17,Suporte para notebook,Acessórios,Sudeste,Elisa,2,120,0,240.0
+11096,2025-07-18,Suporte para notebook,Acessórios,Sul,Carla,5,120,5,570.0
+11097,2025-07-18,Teclado mecânico,Informática,Sudeste,Elisa,4,310,0,1240.0
+11098,2025-07-18,Caixa de som,Áudio,Sudeste,Ana,4,420,0,1680.0
+11099,2025-07-18,Fone bluetooth,Áudio,Sudeste,Carla,3,260,0,780.0
+11100,2025-07-18,Notebook 14,Informática,Norte,Ana,1,3200,10,2880.0
+11101,2025-07-19,Webcam HD,Acessórios,Sudeste,Gabi,5,190,0,950.0
+11102,2025-07-19,Mesa de escritório,Móveis,Sul,Diego,4,740,15,2516.0
+11103,2025-07-19,Teclado mecânico,Informática,Sudeste,Carla,1,310,0,310.0
+11104,2025-07-19,Notebook 14,Informática,Sul,Ana,2,3200,0,6400.0
+11105,2025-07-19,Caixa de som,Áudio,Norte,Elisa,4,420,0,1680.0
+11106,2025-07-20,Webcam HD,Acessórios,Sul,Carla,4,190,5,722.0
+11107,2025-07-20,Fone bluetooth,Áudio,Centro-Oeste,Carla,4,260,15,884.0
+11108,2025-07-20,Fone bluetooth,Áudio,Centro-Oeste,Carla,2,260,0,520.0
+11109,2025-07-20,Caixa de som,Áudio,Nordeste,Gabi,3,420,0,1260.0
+11110,2025-07-21,Webcam HD,Acessórios,Nordeste,Gabi,4,190,0,760.0
+11111,2025-07-21,Notebook 14,Informática,Sudeste,Hugo,1,3200,0,3200.0
+11112,2025-07-21,Teclado mecânico,Informática,Nordeste,Gabi,1,310,0,310.0
+11113,2025-07-21,Webcam HD,Acessórios,Sul,Ana,2,190,0,380.0
+11114,2025-07-21,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,2,1150,5,2185.0
+11115,2025-07-21,Suporte para notebook,Acessórios,Sudeste,Diego,2,120,0,240.0
+11116,2025-07-21,Mouse sem fio,Informática,Nordeste,Diego,3,85,0,255.0
+11117,2025-07-22,Suporte para notebook,Acessórios,Nordeste,Carla,2,120,15,204.0
+11118,2025-07-22,Fone bluetooth,Áudio,Sul,Carla,3,260,0,780.0
+11119,2025-07-22,Mouse sem fio,Informática,Sudeste,Carla,5,85,0,425.0
+11120,2025-07-22,Teclado mecânico,Informática,Nordeste,Ana,3,310,0,930.0
+11121,2025-07-22,Mouse sem fio,Informática,Sul,Fábio,4,85,0,340.0
+11122,2025-07-22,Cadeira ergonômica,Móveis,Sul,Bruno,1,1150,5,1092.5
+11123,2025-07-22,Mouse sem fio,Informática,Sudeste,Bruno,1,85,15,72.25
+11124,2025-07-22,Suporte para notebook,Acessórios,Nordeste,Gabi,3,120,5,342.0
+11125,2025-07-22,Suporte para notebook,Acessórios,Centro-Oeste,Fábio,4,120,0,480.0
+11126,2025-07-22,Suporte para notebook,Acessórios,Sudeste,Bruno,1,120,0,120.0
+11127,2025-07-22,Mouse sem fio,Informática,Sul,Diego,2,85,10,153.0
+11128,2025-07-22,Cadeira ergonômica,Móveis,Nordeste,Ana,4,1150,0,4600.0
+11129,2025-07-23,Mesa de escritório,Móveis,Nordeste,Ana,5,740,10,3330.0
+11130,2025-07-23,Caixa de som,Áudio,Norte,Hugo,1,420,0,420.0
+11131,2025-07-23,Suporte para notebook,Acessórios,Sudeste,Fábio,4,120,5,456.0
+11132,2025-07-23,Fone bluetooth,Áudio,Sudeste,Bruno,2,260,0,520.0
+11133,2025-07-24,Suporte para notebook,Acessórios,Sudeste,Carla,3,120,5,342.0
+11134,2025-07-24,Caixa de som,Áudio,Sul,Gabi,3,420,0,1260.0
+11135,2025-07-24,Monitor 24,Informática,Norte,Carla,4,890,0,3560.0
+11136,2025-07-24,Notebook 14,Informática,Sudeste,Elisa,3,3200,10,8640.0
+11137,2025-07-25,Monitor 24,Informática,Sudeste,Carla,5,890,0,4450.0
+11138,2025-07-26,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,4,1150,5,4370.0
+11139,2025-07-26,Notebook 14,Informática,Sul,Gabi,1,3200,0,3200.0
+11140,2025-07-26,Teclado mecânico,Informática,Sudeste,Bruno,2,310,0,620.0
+11141,2025-07-26,Teclado mecânico,Informática,Sul,Elisa,2,310,5,589.0
+11142,2025-07-26,Notebook 14,Informática,Sudeste,Diego,5,3200,0,16000.0
+11143,2025-07-26,Teclado mecânico,Informática,Sul,Fábio,4,310,0,1240.0
+11144,2025-07-26,Teclado mecânico,Informática,Sudeste,Ana,5,310,0,1550.0
+11145,2025-07-26,Caixa de som,Áudio,Sudeste,Bruno,2,420,0,840.0
+11146,2025-07-27,Caixa de som,Áudio,Sudeste,Diego,5,420,15,1785.0
+11147,2025-07-27,Teclado mecânico,Informática,Norte,Hugo,3,310,10,837.0
+11148,2025-07-27,Fone bluetooth,Áudio,Sul,Bruno,2,260,0,520.0
+11149,2025-07-28,Monitor 24,Informática,Sudeste,Ana,4,890,0,3560.0
+11150,2025-07-28,Suporte para notebook,Acessórios,Norte,Hugo,1,120,10,108.0
+11151,2025-07-28,Notebook 14,Informática,Norte,Hugo,5,3200,0,16000.0
+11152,2025-07-28,Mesa de escritório,Móveis,Sudeste,Gabi,4,740,0,2960.0
+11153,2025-07-28,Webcam HD,Acessórios,Nordeste,Carla,3,190,0,570.0
+11154,2025-07-28,Webcam HD,Acessórios,Norte,Carla,5,190,15,807.5
+11155,2025-07-28,Caixa de som,Áudio,Sudeste,Diego,4,420,10,1512.0
+11156,2025-07-28,Webcam HD,Acessórios,Nordeste,Diego,5,190,15,807.5
+11157,2025-07-29,Mesa de escritório,Móveis,Sudeste,Gabi,3,740,5,2109.0
+11158,2025-07-29,Fone bluetooth,Áudio,Sudeste,Carla,5,260,0,1300.0
+11159,2025-07-29,Cadeira ergonômica,Móveis,Sudeste,Ana,4,1150,0,4600.0
+11160,2025-07-29,Notebook 14,Informática,Sudeste,Bruno,2,3200,0,6400.0
+11161,2025-07-30,Caixa de som,Áudio,Centro-Oeste,Diego,3,420,15,1071.0
+11162,2025-07-30,Cadeira ergonômica,Móveis,Sudeste,Gabi,3,1150,5,3277.5
+11163,2025-07-30,Fone bluetooth,Áudio,Nordeste,Bruno,1,260,15,221.0
+11164,2025-07-30,Webcam HD,Acessórios,Norte,Diego,5,190,0,950.0
+11165,2025-07-31,Suporte para notebook,Acessórios,Sudeste,Elisa,5,120,0,600.0
+11166,2025-07-31,Suporte para notebook,Acessórios,Sul,Gabi,2,120,0,240.0
+11167,2025-07-31,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,0,1480.0
+11168,2025-08-01,Notebook 14,Informática,Sudeste,Diego,2,3200,10,5760.0
+11169,2025-08-01,Mouse sem fio,Informática,Norte,Fábio,3,85,5,242.25
+11170,2025-08-01,Mesa de escritório,Móveis,Sudeste,Carla,2,740,5,1406.0
+11171,2025-08-01,Webcam HD,Acessórios,Sudeste,Carla,2,190,10,342.0
+11172,2025-08-02,Notebook 14,Informática,Sul,Fábio,5,3200,0,16000.0
+11173,2025-08-02,Mouse sem fio,Informática,Sudeste,Bruno,4,85,5,323.0
+11174,2025-08-02,Teclado mecânico,Informática,Nordeste,Hugo,4,310,15,1054.0
+11175,2025-08-02,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+11176,2025-08-02,Mesa de escritório,Móveis,Sudeste,Elisa,3,740,5,2109.0
+11177,2025-08-03,Mouse sem fio,Informática,Nordeste,Elisa,5,85,0,425.0
+11178,2025-08-03,Fone bluetooth,Áudio,Nordeste,Diego,5,260,0,1300.0
+11179,2025-08-03,Fone bluetooth,Áudio,Nordeste,Ana,4,260,5,988.0
+11180,2025-08-03,Suporte para notebook,Acessórios,Sul,Hugo,5,120,0,600.0
+11181,2025-08-03,Caixa de som,Áudio,Sudeste,Bruno,5,420,0,2100.0
+11182,2025-08-03,Webcam HD,Acessórios,Sudeste,Ana,4,190,5,722.0
+11183,2025-08-03,Mesa de escritório,Móveis,Sul,Gabi,2,740,5,1406.0
+11184,2025-08-03,Webcam HD,Acessórios,Sudeste,Carla,4,190,0,760.0
+11185,2025-08-04,Monitor 24,Informática,Sudeste,Elisa,1,890,15,756.5
+11186,2025-08-04,Mesa de escritório,Móveis,Sudeste,Gabi,5,740,5,3515.0
+11187,2025-08-04,Caixa de som,Áudio,Sul,Hugo,3,420,15,1071.0
+11188,2025-08-04,Cadeira ergonômica,Móveis,Sudeste,Elisa,4,1150,0,4600.0
+11189,2025-08-04,Caixa de som,Áudio,Norte,Diego,5,420,10,1890.0
+11190,2025-08-04,Fone bluetooth,Áudio,Sul,Ana,2,260,0,520.0
+11191,2025-08-04,Suporte para notebook,Acessórios,Centro-Oeste,Elisa,5,120,0,600.0
+11192,2025-08-05,Cadeira ergonômica,Móveis,Sul,Fábio,1,1150,5,1092.5
+11193,2025-08-05,Mesa de escritório,Móveis,Nordeste,Bruno,3,740,10,1998.0
+11194,2025-08-05,Suporte para notebook,Acessórios,Sudeste,Carla,1,120,0,120.0
+11195,2025-08-05,Fone bluetooth,Áudio,Sudeste,Diego,3,260,0,780.0
+11196,2025-08-06,Mesa de escritório,Móveis,Sudeste,Bruno,4,740,0,2960.0
+11197,2025-08-06,Caixa de som,Áudio,Sudeste,Fábio,3,420,0,1260.0
+11198,2025-08-06,Webcam HD,Acessórios,Nordeste,Hugo,1,190,5,180.5
+11199,2025-08-06,Fone bluetooth,Áudio,Sul,Gabi,3,260,5,741.0
+11200,2025-08-06,Cadeira ergonômica,Móveis,Sudeste,Carla,5,1150,5,5462.5
+11201,2025-08-07,Mouse sem fio,Informática,Sul,Fábio,5,85,0,425.0
+11202,2025-08-07,Teclado mecânico,Informática,Sudeste,Ana,3,310,0,930.0
+11203,2025-08-07,Cadeira ergonômica,Móveis,Centro-Oeste,Bruno,1,1150,0,1150.0
+11204,2025-08-07,Teclado mecânico,Informática,Sul,Carla,2,310,0,620.0
+11205,2025-08-07,Notebook 14,Informática,Nordeste,Ana,2,3200,0,6400.0
+11206,2025-08-07,Suporte para notebook,Acessórios,Nordeste,Fábio,2,120,0,240.0
+11207,2025-08-08,Teclado mecânico,Informática,Sudeste,Fábio,5,310,0,1550.0
+11208,2025-08-08,Fone bluetooth,Áudio,Sudeste,Elisa,2,260,0,520.0
+11209,2025-08-08,Notebook 14,Informática,Sudeste,Fábio,3,3200,0,9600.0
+11210,2025-08-08,Caixa de som,Áudio,Nordeste,Gabi,4,420,0,1680.0
+11211,2025-08-09,Fone bluetooth,Áudio,Norte,Gabi,3,260,0,780.0
+11212,2025-08-09,Mesa de escritório,Móveis,Sudeste,Gabi,2,740,15,1258.0
+11213,2025-08-09,Webcam HD,Acessórios,Sudeste,Gabi,1,190,0,190.0
+11214,2025-08-09,Suporte para notebook,Acessórios,Sul,Bruno,5,120,0,600.0
+11215,2025-08-09,Teclado mecânico,Informática,Sul,Diego,2,310,0,620.0
+11216,2025-08-09,Mouse sem fio,Informática,Sul,Elisa,5,85,5,403.75
+11217,2025-08-10,Monitor 24,Informática,Sudeste,Elisa,5,890,15,3782.5
+11218,2025-08-10,Teclado mecânico,Informática,Nordeste,Bruno,1,310,0,310.0
+11219,2025-08-10,Teclado mecânico,Informática,Norte,Diego,2,310,5,589.0
+11220,2025-08-10,Teclado mecânico,Informática,Norte,Gabi,3,310,0,930.0
+11221,2025-08-10,Monitor 24,Informática,Sul,Fábio,3,890,15,2269.5
+11222,2025-08-11,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,4,1150,15,3910.0
+11223,2025-08-11,Mouse sem fio,Informática,Nordeste,Diego,4,85,0,340.0
+11224,2025-08-11,Mesa de escritório,Móveis,Sudeste,Diego,4,740,0,2960.0
+11225,2025-08-12,Mesa de escritório,Móveis,Sudeste,Diego,2,740,0,1480.0
+11226,2025-08-12,Mouse sem fio,Informática,Nordeste,Bruno,2,85,0,170.0
+11227,2025-08-12,Suporte para notebook,Acessórios,Sudeste,Bruno,3,120,0,360.0
+11228,2025-08-12,Monitor 24,Informática,Sul,Bruno,5,890,10,4005.0
+11229,2025-08-13,Fone bluetooth,Áudio,Norte,Gabi,4,260,10,936.0
+11230,2025-08-13,Teclado mecânico,Informática,Sul,Ana,3,310,15,790.5
+11231,2025-08-13,Monitor 24,Informática,Sudeste,Fábio,3,890,10,2403.0
+11232,2025-08-13,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,0,600.0
+11233,2025-08-13,Caixa de som,Áudio,Sul,Bruno,5,420,5,1995.0
+11234,2025-08-13,Caixa de som,Áudio,Nordeste,Bruno,5,420,0,2100.0
+11235,2025-08-13,Webcam HD,Acessórios,Sul,Ana,4,190,0,760.0
+11236,2025-08-13,Webcam HD,Acessórios,Sudeste,Gabi,4,190,0,760.0
+11237,2025-08-14,Caixa de som,Áudio,Sul,Diego,4,420,0,1680.0
+11238,2025-08-14,Cadeira ergonômica,Móveis,Sul,Carla,4,1150,0,4600.0
+11239,2025-08-14,Mouse sem fio,Informática,Norte,Bruno,4,85,0,340.0
+11240,2025-08-14,Caixa de som,Áudio,Sudeste,Fábio,5,420,5,1995.0
+11241,2025-08-15,Teclado mecânico,Informática,Norte,Diego,3,310,5,883.5
+11242,2025-08-15,Cadeira ergonômica,Móveis,Sudeste,Bruno,4,1150,0,4600.0
+11243,2025-08-15,Suporte para notebook,Acessórios,Sul,Hugo,4,120,5,456.0
+11244,2025-08-15,Mouse sem fio,Informática,Sul,Carla,4,85,0,340.0
+11245,2025-08-15,Cadeira ergonômica,Móveis,Sudeste,Elisa,2,1150,15,1955.0
+11246,2025-08-15,Mesa de escritório,Móveis,Nordeste,Bruno,5,740,10,3330.0
+11247,2025-08-15,Mesa de escritório,Móveis,Sudeste,Bruno,2,740,0,1480.0
+11248,2025-08-15,Webcam HD,Acessórios,Sudeste,Fábio,4,190,0,760.0
+11249,2025-08-16,Notebook 14,Informática,Sul,Ana,1,3200,10,2880.0
+11250,2025-08-16,Suporte para notebook,Acessórios,Sudeste,Fábio,3,120,0,360.0
+11251,2025-08-16,Fone bluetooth,Áudio,Norte,Fábio,4,260,5,988.0
+11252,2025-08-17,Webcam HD,Acessórios,Sul,Diego,3,190,5,541.5
+11253,2025-08-17,Fone bluetooth,Áudio,Sul,Diego,2,260,10,468.0
+11254,2025-08-17,Notebook 14,Informática,Sul,Elisa,3,3200,0,9600.0
+11255,2025-08-18,Suporte para notebook,Acessórios,Sudeste,Carla,1,120,0,120.0
+11256,2025-08-18,Suporte para notebook,Acessórios,Sul,Gabi,3,120,15,306.0
+11257,2025-08-18,Mouse sem fio,Informática,Nordeste,Fábio,1,85,0,85.0
+11258,2025-08-18,Suporte para notebook,Acessórios,Norte,Carla,5,120,0,600.0
+11259,2025-08-18,Fone bluetooth,Áudio,Norte,Elisa,3,260,0,780.0
+11260,2025-08-18,Caixa de som,Áudio,Sudeste,Elisa,1,420,0,420.0
+11261,2025-08-19,Mesa de escritório,Móveis,Sudeste,Bruno,2,740,15,1258.0
+11262,2025-08-19,Suporte para notebook,Acessórios,Nordeste,Gabi,5,120,0,600.0
+11263,2025-08-19,Cadeira ergonômica,Móveis,Sul,Carla,3,1150,0,3450.0
+11264,2025-08-19,Cadeira ergonômica,Móveis,Nordeste,Fábio,3,1150,0,3450.0
+11265,2025-08-20,Suporte para notebook,Acessórios,Sudeste,Elisa,1,120,5,114.0
+11266,2025-08-20,Mesa de escritório,Móveis,Sul,Fábio,4,740,0,2960.0
+11267,2025-08-20,Mouse sem fio,Informática,Sul,Hugo,3,85,15,216.75
+11268,2025-08-20,Monitor 24,Informática,Sudeste,Ana,5,890,0,4450.0
+11269,2025-08-20,Mouse sem fio,Informática,Sudeste,Gabi,2,85,0,170.0
+11270,2025-08-20,Cadeira ergonômica,Móveis,Sudeste,Hugo,4,1150,10,4140.0
+11271,2025-08-20,Cadeira ergonômica,Móveis,Sudeste,Gabi,3,1150,5,3277.5
+11272,2025-08-20,Mesa de escritório,Móveis,Sudeste,Hugo,3,740,0,2220.0
+11273,2025-08-20,Fone bluetooth,Áudio,Nordeste,Diego,4,260,0,1040.0
+11274,2025-08-20,Mouse sem fio,Informática,Sudeste,Bruno,3,85,15,216.75
+11275,2025-08-20,Teclado mecânico,Informática,Sul,Gabi,3,310,15,790.5
+11276,2025-08-21,Suporte para notebook,Acessórios,Sudeste,Bruno,3,120,0,360.0
+11277,2025-08-21,Webcam HD,Acessórios,Sudeste,Carla,2,190,0,380.0
+11278,2025-08-21,Mesa de escritório,Móveis,Sul,Diego,2,740,5,1406.0
+11279,2025-08-21,Suporte para notebook,Acessórios,Sudeste,Gabi,1,120,0,120.0
+11280,2025-08-21,Webcam HD,Acessórios,Sudeste,Carla,4,190,10,684.0
+11281,2025-08-21,Mesa de escritório,Móveis,Sudeste,Diego,1,740,5,703.0
+11282,2025-08-21,Monitor 24,Informática,Nordeste,Gabi,1,890,5,845.5
+11283,2025-08-21,Caixa de som,Áudio,Sudeste,Ana,4,420,5,1596.0
+11284,2025-08-21,Caixa de som,Áudio,Centro-Oeste,Gabi,2,420,5,798.0
+11285,2025-08-22,Teclado mecânico,Informática,Sudeste,Bruno,3,310,10,837.0
+11286,2025-08-22,Caixa de som,Áudio,Sudeste,Diego,2,420,15,714.0
+11287,2025-08-22,Fone bluetooth,Áudio,Sul,Carla,2,260,0,520.0
+11288,2025-08-23,Monitor 24,Informática,Norte,Fábio,1,890,0,890.0
+11289,2025-08-23,Monitor 24,Informática,Nordeste,Ana,5,890,5,4227.5
+11290,2025-08-24,Cadeira ergonômica,Móveis,Sudeste,Hugo,2,1150,10,2070.0
+11291,2025-08-24,Monitor 24,Informática,Nordeste,Elisa,3,890,0,2670.0
+11292,2025-08-24,Caixa de som,Áudio,Centro-Oeste,Fábio,4,420,0,1680.0
+11293,2025-08-25,Caixa de som,Áudio,Norte,Bruno,5,420,0,2100.0
+11294,2025-08-25,Cadeira ergonômica,Móveis,Centro-Oeste,Bruno,4,1150,5,4370.0
+11295,2025-08-25,Webcam HD,Acessórios,Sul,Gabi,4,190,10,684.0
+11296,2025-08-26,Fone bluetooth,Áudio,Sudeste,Bruno,4,260,0,1040.0
+11297,2025-08-26,Teclado mecânico,Informática,Sul,Bruno,1,310,0,310.0
+11298,2025-08-26,Teclado mecânico,Informática,Norte,Fábio,2,310,5,589.0
+11299,2025-08-26,Notebook 14,Informática,Norte,Fábio,2,3200,0,6400.0
+11300,2025-08-26,Fone bluetooth,Áudio,Sudeste,Elisa,1,260,0,260.0
+11301,2025-08-26,Mouse sem fio,Informática,Sudeste,Gabi,2,85,10,153.0
+11302,2025-08-26,Suporte para notebook,Acessórios,Norte,Ana,4,120,0,480.0
+11303,2025-08-26,Teclado mecânico,Informática,Sudeste,Gabi,4,310,0,1240.0
+11304,2025-08-26,Notebook 14,Informática,Nordeste,Carla,3,3200,0,9600.0
+11305,2025-08-27,Suporte para notebook,Acessórios,Sudeste,Elisa,5,120,0,600.0
+11306,2025-08-27,Caixa de som,Áudio,Centro-Oeste,Ana,3,420,0,1260.0
+11307,2025-08-27,Cadeira ergonômica,Móveis,Sudeste,Elisa,5,1150,5,5462.5
+11308,2025-08-27,Mesa de escritório,Móveis,Sudeste,Fábio,4,740,5,2812.0
+11309,2025-08-27,Caixa de som,Áudio,Nordeste,Carla,4,420,0,1680.0
+11310,2025-08-27,Monitor 24,Informática,Norte,Carla,3,890,5,2536.5
+11311,2025-08-27,Fone bluetooth,Áudio,Sudeste,Elisa,1,260,0,260.0
+11312,2025-08-27,Webcam HD,Acessórios,Sul,Elisa,1,190,15,161.5
+11313,2025-08-27,Fone bluetooth,Áudio,Sudeste,Hugo,2,260,5,494.0
+11314,2025-08-28,Mouse sem fio,Informática,Sudeste,Elisa,4,85,0,340.0
+11315,2025-08-28,Caixa de som,Áudio,Sul,Carla,2,420,15,714.0
+11316,2025-08-28,Notebook 14,Informática,Sul,Bruno,3,3200,0,9600.0
+11317,2025-08-29,Cadeira ergonômica,Móveis,Centro-Oeste,Fábio,5,1150,5,5462.5
+11318,2025-08-29,Monitor 24,Informática,Centro-Oeste,Fábio,3,890,0,2670.0
+11319,2025-08-29,Cadeira ergonômica,Móveis,Sudeste,Diego,4,1150,0,4600.0
+11320,2025-08-29,Notebook 14,Informática,Sudeste,Ana,3,3200,0,9600.0
+11321,2025-08-30,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,1,1150,0,1150.0
+11322,2025-08-30,Teclado mecânico,Informática,Norte,Gabi,1,310,15,263.5
+11323,2025-08-30,Webcam HD,Acessórios,Sudeste,Gabi,5,190,0,950.0
+11324,2025-08-30,Webcam HD,Acessórios,Sul,Carla,1,190,0,190.0
+11325,2025-08-30,Notebook 14,Informática,Sudeste,Carla,1,3200,0,3200.0
+11326,2025-08-31,Teclado mecânico,Informática,Sudeste,Carla,1,310,5,294.5
+11327,2025-08-31,Notebook 14,Informática,Sudeste,Fábio,4,3200,0,12800.0
+11328,2025-08-31,Mouse sem fio,Informática,Sul,Gabi,3,85,0,255.0
+11329,2025-08-31,Mouse sem fio,Informática,Norte,Diego,1,85,0,85.0
+11330,2025-08-31,Teclado mecânico,Informática,Sudeste,Hugo,5,310,0,1550.0
+11331,2025-08-31,Fone bluetooth,Áudio,Sudeste,Fábio,1,260,0,260.0
+11332,2025-08-31,Webcam HD,Acessórios,Nordeste,Carla,2,190,15,323.0
+11333,2025-09-01,Teclado mecânico,Informática,Norte,Ana,2,310,0,620.0
+11334,2025-09-01,Suporte para notebook,Acessórios,Sudeste,Hugo,1,120,0,120.0
+11335,2025-09-01,Mouse sem fio,Informática,Centro-Oeste,Diego,1,85,0,85.0
+11336,2025-09-02,Caixa de som,Áudio,Nordeste,Carla,1,420,0,420.0
+11337,2025-09-02,Monitor 24,Informática,Sudeste,Ana,1,890,0,890.0
+11338,2025-09-02,Teclado mecânico,Informática,Nordeste,Elisa,3,310,0,930.0
+11339,2025-09-02,Fone bluetooth,Áudio,Sul,Ana,5,260,5,1235.0
+11340,2025-09-02,Mouse sem fio,Informática,Sudeste,Gabi,4,85,10,306.0
+11341,2025-09-02,Mouse sem fio,Informática,Sul,Elisa,4,85,15,289.0
+11342,2025-09-02,Cadeira ergonômica,Móveis,Centro-Oeste,Fábio,2,1150,5,2185.0
+11343,2025-09-03,Notebook 14,Informática,Sudeste,Ana,1,3200,10,2880.0
+11344,2025-09-03,Teclado mecânico,Informática,Sudeste,Bruno,3,310,0,930.0
+11345,2025-09-03,Cadeira ergonômica,Móveis,Sudeste,Diego,5,1150,15,4887.5
+11346,2025-09-03,Fone bluetooth,Áudio,Sul,Carla,3,260,5,741.0
+11347,2025-09-04,Cadeira ergonômica,Móveis,Nordeste,Carla,2,1150,0,2300.0
+11348,2025-09-04,Cadeira ergonômica,Móveis,Sudeste,Ana,2,1150,5,2185.0
+11349,2025-09-04,Monitor 24,Informática,Sul,Diego,1,890,0,890.0
+11350,2025-09-04,Monitor 24,Informática,Sudeste,Bruno,3,890,0,2670.0
+11351,2025-09-05,Suporte para notebook,Acessórios,Sul,Carla,3,120,0,360.0
+11352,2025-09-05,Mouse sem fio,Informática,Sudeste,Fábio,4,85,0,340.0
+11353,2025-09-05,Caixa de som,Áudio,Sudeste,Fábio,2,420,0,840.0
+11354,2025-09-05,Caixa de som,Áudio,Centro-Oeste,Elisa,4,420,5,1596.0
+11355,2025-09-05,Notebook 14,Informática,Norte,Bruno,2,3200,0,6400.0
+11356,2025-09-05,Mouse sem fio,Informática,Sudeste,Bruno,1,85,15,72.25
+11357,2025-09-05,Cadeira ergonômica,Móveis,Sudeste,Ana,5,1150,0,5750.0
+11358,2025-09-06,Mouse sem fio,Informática,Sudeste,Bruno,2,85,0,170.0
+11359,2025-09-06,Teclado mecânico,Informática,Sul,Carla,5,310,5,1472.5
+11360,2025-09-06,Mouse sem fio,Informática,Sul,Elisa,3,85,0,255.0
+11361,2025-09-06,Monitor 24,Informática,Sul,Bruno,3,890,0,2670.0
+11362,2025-09-07,Webcam HD,Acessórios,Sul,Carla,1,190,0,190.0
+11363,2025-09-07,Mouse sem fio,Informática,Nordeste,Elisa,3,85,0,255.0
+11364,2025-09-07,Fone bluetooth,Áudio,Sul,Fábio,2,260,5,494.0
+11365,2025-09-07,Cadeira ergonômica,Móveis,Sudeste,Hugo,1,1150,10,1035.0
+11366,2025-09-07,Monitor 24,Informática,Sudeste,Hugo,1,890,5,845.5
+11367,2025-09-07,Cadeira ergonômica,Móveis,Norte,Hugo,1,1150,5,1092.5
+11368,2025-09-07,Monitor 24,Informática,Sudeste,Bruno,1,890,10,801.0
+11369,2025-09-08,Cadeira ergonômica,Móveis,Sul,Ana,5,1150,0,5750.0
+11370,2025-09-08,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,10,936.0
+11371,2025-09-08,Notebook 14,Informática,Sul,Fábio,3,3200,5,9120.0
+11372,2025-09-08,Notebook 14,Informática,Sul,Gabi,5,3200,0,16000.0
+11373,2025-09-08,Mouse sem fio,Informática,Sudeste,Bruno,3,85,15,216.75
+11374,2025-09-08,Monitor 24,Informática,Sul,Gabi,2,890,0,1780.0
+11375,2025-09-09,Monitor 24,Informática,Sudeste,Gabi,2,890,0,1780.0
+11376,2025-09-09,Suporte para notebook,Acessórios,Centro-Oeste,Diego,5,120,5,570.0
+11377,2025-09-10,Caixa de som,Áudio,Norte,Ana,2,420,5,798.0
+11378,2025-09-10,Notebook 14,Informática,Centro-Oeste,Diego,4,3200,0,12800.0
+11379,2025-09-10,Caixa de som,Áudio,Sul,Gabi,4,420,5,1596.0
+11380,2025-09-11,Mesa de escritório,Móveis,Nordeste,Ana,2,740,5,1406.0
+11381,2025-09-11,Caixa de som,Áudio,Sudeste,Fábio,3,420,0,1260.0
+11382,2025-09-12,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,5,988.0
+11383,2025-09-12,Notebook 14,Informática,Sudeste,Gabi,4,3200,0,12800.0
+11384,2025-09-12,Teclado mecânico,Informática,Sudeste,Ana,5,310,0,1550.0
+11385,2025-09-12,Mouse sem fio,Informática,Sudeste,Bruno,1,85,10,76.5
+11386,2025-09-12,Monitor 24,Informática,Sudeste,Diego,3,890,0,2670.0
+11387,2025-09-12,Caixa de som,Áudio,Sul,Fábio,5,420,10,1890.0
+11388,2025-09-13,Fone bluetooth,Áudio,Sudeste,Bruno,2,260,10,468.0
+11389,2025-09-13,Cadeira ergonômica,Móveis,Sul,Elisa,2,1150,0,2300.0
+11390,2025-09-13,Monitor 24,Informática,Sudeste,Fábio,2,890,0,1780.0
+11391,2025-09-13,Caixa de som,Áudio,Nordeste,Hugo,2,420,10,756.0
+11392,2025-09-13,Fone bluetooth,Áudio,Sudeste,Elisa,1,260,10,234.0
+11393,2025-09-13,Fone bluetooth,Áudio,Sudeste,Bruno,5,260,5,1235.0
+11394,2025-09-13,Mouse sem fio,Informática,Sul,Carla,3,85,0,255.0
+11395,2025-09-14,Mouse sem fio,Informática,Nordeste,Diego,5,85,0,425.0
+11396,2025-09-14,Notebook 14,Informática,Sudeste,Elisa,2,3200,15,5440.0
+11397,2025-09-14,Teclado mecânico,Informática,Sudeste,Diego,4,310,5,1178.0
+11398,2025-09-14,Notebook 14,Informática,Sudeste,Elisa,3,3200,5,9120.0
+11399,2025-09-15,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,0,3700.0
+11400,2025-09-15,Teclado mecânico,Informática,Sudeste,Gabi,5,310,5,1472.5
+11401,2025-09-15,Mouse sem fio,Informática,Centro-Oeste,Carla,5,85,0,425.0
+11402,2025-09-15,Monitor 24,Informática,Sudeste,Fábio,4,890,5,3382.0
+11403,2025-09-16,Teclado mecânico,Informática,Sul,Elisa,3,310,10,837.0
+11404,2025-09-16,Webcam HD,Acessórios,Nordeste,Fábio,4,190,10,684.0
+11405,2025-09-16,Mouse sem fio,Informática,Nordeste,Hugo,2,85,15,144.5
+11406,2025-09-16,Fone bluetooth,Áudio,Sul,Gabi,2,260,5,494.0
+11407,2025-09-17,Fone bluetooth,Áudio,Nordeste,Hugo,1,260,10,234.0
+11408,2025-09-17,Teclado mecânico,Informática,Sul,Elisa,1,310,0,310.0
+11409,2025-09-17,Monitor 24,Informática,Centro-Oeste,Elisa,1,890,0,890.0
+11410,2025-09-17,Mesa de escritório,Móveis,Norte,Diego,2,740,0,1480.0
+11411,2025-09-17,Mouse sem fio,Informática,Sudeste,Fábio,3,85,0,255.0
+11412,2025-09-18,Teclado mecânico,Informática,Sul,Hugo,1,310,0,310.0
+11413,2025-09-18,Suporte para notebook,Acessórios,Nordeste,Fábio,4,120,10,432.0
+11414,2025-09-19,Caixa de som,Áudio,Sul,Ana,3,420,5,1197.0
+11415,2025-09-19,Webcam HD,Acessórios,Sudeste,Diego,4,190,10,684.0
+11416,2025-09-19,Caixa de som,Áudio,Sudeste,Carla,1,420,15,357.0
+11417,2025-09-19,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,0,1040.0
+11418,2025-09-19,Teclado mecânico,Informática,Nordeste,Elisa,3,310,0,930.0
+11419,2025-09-19,Fone bluetooth,Áudio,Nordeste,Diego,5,260,0,1300.0
+11420,2025-09-19,Mouse sem fio,Informática,Sudeste,Bruno,4,85,5,323.0
+11421,2025-09-20,Caixa de som,Áudio,Centro-Oeste,Gabi,4,420,0,1680.0
+11422,2025-09-20,Suporte para notebook,Acessórios,Sudeste,Elisa,1,120,10,108.0
+11423,2025-09-20,Cadeira ergonômica,Móveis,Sul,Ana,2,1150,5,2185.0
+11424,2025-09-20,Mesa de escritório,Móveis,Nordeste,Carla,2,740,15,1258.0
+11425,2025-09-21,Caixa de som,Áudio,Sudeste,Carla,3,420,0,1260.0
+11426,2025-09-21,Caixa de som,Áudio,Nordeste,Elisa,2,420,5,798.0
+11427,2025-09-21,Cadeira ergonômica,Móveis,Centro-Oeste,Hugo,4,1150,0,4600.0
+11428,2025-09-21,Notebook 14,Informática,Sudeste,Carla,2,3200,0,6400.0
+11429,2025-09-21,Caixa de som,Áudio,Sudeste,Elisa,4,420,0,1680.0
+11430,2025-09-21,Mouse sem fio,Informática,Nordeste,Fábio,1,85,0,85.0
+11431,2025-09-21,Mouse sem fio,Informática,Nordeste,Hugo,4,85,0,340.0
+11432,2025-09-21,Webcam HD,Acessórios,Sudeste,Fábio,5,190,0,950.0
+11433,2025-09-22,Mesa de escritório,Móveis,Centro-Oeste,Gabi,4,740,5,2812.0
+11434,2025-09-22,Mesa de escritório,Móveis,Centro-Oeste,Fábio,4,740,0,2960.0
+11435,2025-09-22,Teclado mecânico,Informática,Sul,Carla,3,310,0,930.0
+11436,2025-09-22,Monitor 24,Informática,Centro-Oeste,Fábio,5,890,0,4450.0
+11437,2025-09-22,Mouse sem fio,Informática,Nordeste,Hugo,5,85,5,403.75
+11438,2025-09-22,Mesa de escritório,Móveis,Sul,Ana,4,740,0,2960.0
+11439,2025-09-23,Suporte para notebook,Acessórios,Sul,Diego,2,120,0,240.0
+11440,2025-09-23,Cadeira ergonômica,Móveis,Nordeste,Diego,3,1150,5,3277.5
+11441,2025-09-23,Suporte para notebook,Acessórios,Sudeste,Gabi,4,120,0,480.0
+11442,2025-09-23,Mouse sem fio,Informática,Sudeste,Elisa,5,85,15,361.25
+11443,2025-09-24,Suporte para notebook,Acessórios,Sudeste,Elisa,3,120,10,324.0
+11444,2025-09-24,Suporte para notebook,Acessórios,Sul,Hugo,1,120,0,120.0
+11445,2025-09-24,Mesa de escritório,Móveis,Sudeste,Diego,1,740,0,740.0
+11446,2025-09-24,Cadeira ergonômica,Móveis,Sul,Ana,5,1150,0,5750.0
+11447,2025-09-24,Mesa de escritório,Móveis,Sudeste,Fábio,4,740,0,2960.0
+11448,2025-09-24,Notebook 14,Informática,Sudeste,Fábio,2,3200,0,6400.0
+11449,2025-09-25,Teclado mecânico,Informática,Sudeste,Carla,2,310,0,620.0
+11450,2025-09-25,Cadeira ergonômica,Móveis,Sudeste,Ana,3,1150,5,3277.5
+11451,2025-09-25,Fone bluetooth,Áudio,Sudeste,Ana,2,260,0,520.0
+11452,2025-09-25,Teclado mecânico,Informática,Nordeste,Diego,3,310,0,930.0
+11453,2025-09-25,Fone bluetooth,Áudio,Sudeste,Bruno,5,260,0,1300.0
+11454,2025-09-26,Suporte para notebook,Acessórios,Sudeste,Diego,1,120,5,114.0
+11455,2025-09-26,Cadeira ergonômica,Móveis,Sudeste,Carla,1,1150,5,1092.5
+11456,2025-09-26,Mouse sem fio,Informática,Nordeste,Bruno,1,85,0,85.0
+11457,2025-09-26,Caixa de som,Áudio,Sudeste,Ana,4,420,10,1512.0
+11458,2025-09-26,Mouse sem fio,Informática,Norte,Ana,5,85,0,425.0
+11459,2025-09-26,Mouse sem fio,Informática,Sudeste,Ana,4,85,0,340.0
+11460,2025-09-26,Mouse sem fio,Informática,Nordeste,Ana,2,85,0,170.0
+11461,2025-09-26,Fone bluetooth,Áudio,Sul,Ana,1,260,15,221.0
+11462,2025-09-26,Webcam HD,Acessórios,Centro-Oeste,Bruno,3,190,0,570.0
+11463,2025-09-26,Caixa de som,Áudio,Sudeste,Hugo,4,420,10,1512.0
+11464,2025-09-26,Mouse sem fio,Informática,Sudeste,Hugo,5,85,15,361.25
+11465,2025-09-27,Webcam HD,Acessórios,Sul,Elisa,3,190,0,570.0
+11466,2025-09-27,Mesa de escritório,Móveis,Nordeste,Bruno,3,740,0,2220.0
+11467,2025-09-27,Webcam HD,Acessórios,Centro-Oeste,Fábio,1,190,10,171.0
+11468,2025-09-27,Fone bluetooth,Áudio,Sudeste,Gabi,5,260,0,1300.0
+11469,2025-09-27,Mouse sem fio,Informática,Sudeste,Elisa,4,85,10,306.0
+11470,2025-09-27,Caixa de som,Áudio,Sudeste,Bruno,2,420,0,840.0
+11471,2025-09-27,Caixa de som,Áudio,Sul,Carla,1,420,0,420.0
+11472,2025-09-27,Cadeira ergonômica,Móveis,Nordeste,Fábio,1,1150,10,1035.0
+11473,2025-09-27,Fone bluetooth,Áudio,Sudeste,Diego,3,260,15,663.0
+11474,2025-09-28,Mesa de escritório,Móveis,Sul,Elisa,1,740,5,703.0
+11475,2025-09-28,Mesa de escritório,Móveis,Sul,Elisa,4,740,10,2664.0
+11476,2025-09-28,Webcam HD,Acessórios,Sudeste,Carla,5,190,10,855.0
+11477,2025-09-28,Mouse sem fio,Informática,Sudeste,Diego,1,85,5,80.75
+11478,2025-09-28,Notebook 14,Informática,Nordeste,Elisa,1,3200,5,3040.0
+11479,2025-09-29,Suporte para notebook,Acessórios,Norte,Fábio,1,120,0,120.0
+11480,2025-09-29,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,0,600.0
+11481,2025-09-29,Mouse sem fio,Informática,Norte,Diego,2,85,0,170.0
+11482,2025-09-29,Mesa de escritório,Móveis,Sudeste,Elisa,1,740,0,740.0
+11483,2025-09-29,Cadeira ergonômica,Móveis,Nordeste,Hugo,3,1150,5,3277.5
+11484,2025-09-29,Monitor 24,Informática,Sudeste,Diego,4,890,0,3560.0
+11485,2025-09-29,Suporte para notebook,Acessórios,Nordeste,Carla,1,120,5,114.0
+11486,2025-09-29,Monitor 24,Informática,Sudeste,Fábio,3,890,10,2403.0
+11487,2025-09-30,Monitor 24,Informática,Sudeste,Fábio,4,890,15,3026.0
+11488,2025-09-30,Cadeira ergonômica,Móveis,Sul,Hugo,1,1150,0,1150.0
+11489,2025-09-30,Mouse sem fio,Informática,Sul,Ana,5,85,10,382.5
+11490,2025-09-30,Webcam HD,Acessórios,Sudeste,Ana,5,190,0,950.0
+11491,2025-10-01,Cadeira ergonômica,Móveis,Sudeste,Fábio,1,1150,5,1092.5
+11492,2025-10-01,Notebook 14,Informática,Sudeste,Bruno,3,3200,0,9600.0
+11493,2025-10-01,Teclado mecânico,Informática,Sudeste,Hugo,3,310,0,930.0
+11494,2025-10-01,Teclado mecânico,Informática,Norte,Diego,3,310,0,930.0
+11495,2025-10-02,Mesa de escritório,Móveis,Centro-Oeste,Gabi,4,740,15,2516.0
+11496,2025-10-02,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,15,884.0
+11497,2025-10-02,Caixa de som,Áudio,Sudeste,Elisa,5,420,0,2100.0
+11498,2025-10-02,Mesa de escritório,Móveis,Sudeste,Elisa,2,740,10,1332.0
+11499,2025-10-02,Suporte para notebook,Acessórios,Sudeste,Diego,1,120,10,108.0
+11500,2025-10-03,Monitor 24,Informática,Nordeste,Fábio,1,890,0,890.0
+11501,2025-10-03,Mesa de escritório,Móveis,Sudeste,Hugo,5,740,0,3700.0
+11502,2025-10-03,Monitor 24,Informática,Sudeste,Fábio,4,890,0,3560.0
+11503,2025-10-04,Webcam HD,Acessórios,Nordeste,Bruno,5,190,0,950.0
+11504,2025-10-04,Mesa de escritório,Móveis,Sudeste,Diego,2,740,15,1258.0
+11505,2025-10-04,Notebook 14,Informática,Sudeste,Ana,5,3200,0,16000.0
+11506,2025-10-04,Teclado mecânico,Informática,Nordeste,Ana,3,310,0,930.0
+11507,2025-10-04,Mouse sem fio,Informática,Norte,Elisa,4,85,0,340.0
+11508,2025-10-05,Webcam HD,Acessórios,Sudeste,Carla,2,190,0,380.0
+11509,2025-10-05,Mouse sem fio,Informática,Norte,Carla,2,85,0,170.0
+11510,2025-10-05,Fone bluetooth,Áudio,Norte,Bruno,5,260,0,1300.0
+11511,2025-10-05,Suporte para notebook,Acessórios,Sul,Diego,4,120,5,456.0
+11512,2025-10-05,Mouse sem fio,Informática,Nordeste,Hugo,1,85,15,72.25
+11513,2025-10-06,Teclado mecânico,Informática,Nordeste,Ana,1,310,5,294.5
+11514,2025-10-06,Notebook 14,Informática,Sudeste,Gabi,4,3200,0,12800.0
+11515,2025-10-06,Mesa de escritório,Móveis,Sudeste,Hugo,3,740,5,2109.0
+11516,2025-10-06,Mouse sem fio,Informática,Nordeste,Diego,5,85,0,425.0
+11517,2025-10-06,Notebook 14,Informática,Centro-Oeste,Carla,1,3200,0,3200.0
+11518,2025-10-06,Mouse sem fio,Informática,Sudeste,Fábio,2,85,15,144.5
+11519,2025-10-07,Mouse sem fio,Informática,Nordeste,Bruno,5,85,5,403.75
+11520,2025-10-07,Mesa de escritório,Móveis,Sudeste,Elisa,5,740,0,3700.0
+11521,2025-10-07,Fone bluetooth,Áudio,Sudeste,Elisa,1,260,0,260.0
+11522,2025-10-07,Notebook 14,Informática,Nordeste,Ana,5,3200,5,15200.0
+11523,2025-10-07,Notebook 14,Informática,Sudeste,Diego,4,3200,5,12160.0
+11524,2025-10-08,Caixa de som,Áudio,Centro-Oeste,Bruno,2,420,5,798.0
+11525,2025-10-08,Webcam HD,Acessórios,Nordeste,Carla,5,190,10,855.0
+11526,2025-10-08,Monitor 24,Informática,Nordeste,Gabi,3,890,0,2670.0
+11527,2025-10-08,Cadeira ergonômica,Móveis,Nordeste,Ana,3,1150,5,3277.5
+11528,2025-10-09,Caixa de som,Áudio,Sul,Fábio,2,420,5,798.0
+11529,2025-10-09,Mouse sem fio,Informática,Sudeste,Bruno,5,85,0,425.0
+11530,2025-10-09,Fone bluetooth,Áudio,Sudeste,Hugo,3,260,0,780.0
+11531,2025-10-09,Mouse sem fio,Informática,Nordeste,Bruno,4,85,5,323.0
+11532,2025-10-09,Mouse sem fio,Informática,Sul,Hugo,1,85,5,80.75
+11533,2025-10-09,Suporte para notebook,Acessórios,Sul,Carla,3,120,0,360.0
+11534,2025-10-09,Teclado mecânico,Informática,Sul,Fábio,4,310,0,1240.0
+11535,2025-10-09,Cadeira ergonômica,Móveis,Sudeste,Ana,1,1150,0,1150.0
+11536,2025-10-09,Cadeira ergonômica,Móveis,Sudeste,Ana,5,1150,5,5462.5
+11537,2025-10-10,Teclado mecânico,Informática,Sul,Bruno,1,310,5,294.5
+11538,2025-10-10,Notebook 14,Informática,Sul,Fábio,2,3200,0,6400.0
+11539,2025-10-10,Monitor 24,Informática,Norte,Carla,4,890,0,3560.0
+11540,2025-10-10,Mesa de escritório,Móveis,Nordeste,Ana,3,740,15,1887.0
+11541,2025-10-10,Webcam HD,Acessórios,Sudeste,Fábio,4,190,0,760.0
+11542,2025-10-10,Teclado mecânico,Informática,Sudeste,Diego,3,310,10,837.0
+11543,2025-10-11,Teclado mecânico,Informática,Sul,Bruno,3,310,0,930.0
+11544,2025-10-11,Mesa de escritório,Móveis,Sudeste,Hugo,4,740,10,2664.0
+11545,2025-10-11,Mesa de escritório,Móveis,Nordeste,Ana,5,740,0,3700.0
+11546,2025-10-11,Mesa de escritório,Móveis,Nordeste,Bruno,2,740,0,1480.0
+11547,2025-10-11,Mesa de escritório,Móveis,Sudeste,Gabi,3,740,10,1998.0
+11548,2025-10-11,Mesa de escritório,Móveis,Nordeste,Hugo,2,740,10,1332.0
+11549,2025-10-11,Mouse sem fio,Informática,Sudeste,Diego,1,85,0,85.0
+11550,2025-10-12,Caixa de som,Áudio,Nordeste,Diego,4,420,15,1428.0
+11551,2025-10-12,Caixa de som,Áudio,Norte,Hugo,3,420,5,1197.0
+11552,2025-10-12,Teclado mecânico,Informática,Nordeste,Diego,3,310,0,930.0
+11553,2025-10-12,Fone bluetooth,Áudio,Sudeste,Gabi,4,260,0,1040.0
+11554,2025-10-12,Suporte para notebook,Acessórios,Sudeste,Diego,4,120,10,432.0
+11555,2025-10-12,Mesa de escritório,Móveis,Norte,Bruno,4,740,5,2812.0
+11556,2025-10-12,Cadeira ergonômica,Móveis,Nordeste,Gabi,5,1150,0,5750.0
+11557,2025-10-12,Suporte para notebook,Acessórios,Sul,Diego,4,120,0,480.0
+11558,2025-10-12,Fone bluetooth,Áudio,Sul,Gabi,2,260,0,520.0
+11559,2025-10-12,Caixa de som,Áudio,Sudeste,Elisa,2,420,0,840.0
+11560,2025-10-12,Mouse sem fio,Informática,Sudeste,Hugo,5,85,10,382.5
+11561,2025-10-13,Notebook 14,Informática,Sul,Bruno,1,3200,10,2880.0
+11562,2025-10-13,Suporte para notebook,Acessórios,Sudeste,Ana,2,120,10,216.0
+11563,2025-10-13,Suporte para notebook,Acessórios,Sul,Fábio,2,120,0,240.0
+11564,2025-10-13,Teclado mecânico,Informática,Nordeste,Carla,3,310,10,837.0
+11565,2025-10-13,Notebook 14,Informática,Sudeste,Fábio,2,3200,5,6080.0
+11566,2025-10-13,Suporte para notebook,Acessórios,Nordeste,Carla,4,120,0,480.0
+11567,2025-10-14,Teclado mecânico,Informática,Sul,Hugo,1,310,5,294.5
+11568,2025-10-14,Cadeira ergonômica,Móveis,Sudeste,Gabi,1,1150,0,1150.0
+11569,2025-10-14,Cadeira ergonômica,Móveis,Sudeste,Diego,5,1150,10,5175.0
+11570,2025-10-14,Monitor 24,Informática,Sul,Bruno,4,890,0,3560.0
+11571,2025-10-14,Mouse sem fio,Informática,Sul,Diego,1,85,0,85.0
+11572,2025-10-14,Caixa de som,Áudio,Sudeste,Hugo,5,420,0,2100.0
+11573,2025-10-14,Monitor 24,Informática,Sudeste,Diego,4,890,15,3026.0
+11574,2025-10-14,Suporte para notebook,Acessórios,Centro-Oeste,Ana,1,120,5,114.0
+11575,2025-10-15,Cadeira ergonômica,Móveis,Sul,Carla,5,1150,0,5750.0
+11576,2025-10-15,Mouse sem fio,Informática,Sudeste,Diego,4,85,5,323.0
+11577,2025-10-15,Fone bluetooth,Áudio,Centro-Oeste,Hugo,5,260,0,1300.0
+11578,2025-10-15,Teclado mecânico,Informática,Nordeste,Elisa,3,310,15,790.5
+11579,2025-10-15,Monitor 24,Informática,Centro-Oeste,Elisa,1,890,15,756.5
+11580,2025-10-16,Cadeira ergonômica,Móveis,Sul,Bruno,1,1150,0,1150.0
+11581,2025-10-17,Notebook 14,Informática,Sul,Elisa,3,3200,10,8640.0
+11582,2025-10-17,Notebook 14,Informática,Sudeste,Diego,2,3200,0,6400.0
+11583,2025-10-17,Notebook 14,Informática,Sudeste,Ana,5,3200,5,15200.0
+11584,2025-10-17,Monitor 24,Informática,Sudeste,Fábio,5,890,0,4450.0
+11585,2025-10-17,Monitor 24,Informática,Sul,Gabi,4,890,5,3382.0
+11586,2025-10-17,Mouse sem fio,Informática,Centro-Oeste,Gabi,4,85,10,306.0
+11587,2025-10-17,Mouse sem fio,Informática,Nordeste,Ana,3,85,0,255.0
+11588,2025-10-17,Caixa de som,Áudio,Sudeste,Hugo,4,420,0,1680.0
+11589,2025-10-17,Notebook 14,Informática,Nordeste,Fábio,1,3200,10,2880.0
+11590,2025-10-18,Mouse sem fio,Informática,Sudeste,Diego,5,85,0,425.0
+11591,2025-10-18,Mesa de escritório,Móveis,Sul,Diego,2,740,10,1332.0
+11592,2025-10-18,Monitor 24,Informática,Sudeste,Gabi,2,890,5,1691.0
+11593,2025-10-18,Cadeira ergonômica,Móveis,Sul,Fábio,1,1150,0,1150.0
+11594,2025-10-18,Fone bluetooth,Áudio,Sudeste,Hugo,1,260,0,260.0
+11595,2025-10-18,Webcam HD,Acessórios,Sul,Bruno,3,190,0,570.0
+11596,2025-10-18,Mouse sem fio,Informática,Centro-Oeste,Ana,2,85,15,144.5
+11597,2025-10-19,Teclado mecânico,Informática,Norte,Bruno,4,310,0,1240.0
+11598,2025-10-19,Cadeira ergonômica,Móveis,Sudeste,Carla,3,1150,10,3105.0
+11599,2025-10-19,Mesa de escritório,Móveis,Centro-Oeste,Diego,2,740,15,1258.0
+11600,2025-10-19,Webcam HD,Acessórios,Sudeste,Bruno,5,190,0,950.0
+11601,2025-10-20,Mouse sem fio,Informática,Sudeste,Fábio,3,85,5,242.25
+11602,2025-10-20,Cadeira ergonômica,Móveis,Nordeste,Elisa,5,1150,0,5750.0
+11603,2025-10-20,Monitor 24,Informática,Sul,Diego,4,890,0,3560.0
+11604,2025-10-20,Cadeira ergonômica,Móveis,Sul,Ana,4,1150,0,4600.0
+11605,2025-10-20,Mouse sem fio,Informática,Centro-Oeste,Elisa,2,85,0,170.0
+11606,2025-10-20,Notebook 14,Informática,Nordeste,Diego,5,3200,0,16000.0
+11607,2025-10-20,Notebook 14,Informática,Sudeste,Ana,4,3200,0,12800.0
+11608,2025-10-20,Cadeira ergonômica,Móveis,Sudeste,Carla,2,1150,0,2300.0
+11609,2025-10-21,Monitor 24,Informática,Nordeste,Ana,4,890,0,3560.0
+11610,2025-10-21,Monitor 24,Informática,Centro-Oeste,Carla,5,890,0,4450.0
+11611,2025-10-21,Monitor 24,Informática,Nordeste,Ana,5,890,0,4450.0
+11612,2025-10-21,Notebook 14,Informática,Centro-Oeste,Bruno,4,3200,5,12160.0
+11613,2025-10-21,Fone bluetooth,Áudio,Sul,Hugo,5,260,10,1170.0
+11614,2025-10-21,Suporte para notebook,Acessórios,Sudeste,Ana,3,120,5,342.0
+11615,2025-10-21,Mouse sem fio,Informática,Nordeste,Bruno,5,85,10,382.5
+11616,2025-10-21,Suporte para notebook,Acessórios,Sudeste,Fábio,1,120,0,120.0
+11617,2025-10-22,Monitor 24,Informática,Norte,Diego,2,890,5,1691.0
+11618,2025-10-22,Webcam HD,Acessórios,Sudeste,Gabi,2,190,5,361.0
+11619,2025-10-23,Suporte para notebook,Acessórios,Sudeste,Ana,2,120,0,240.0
+11620,2025-10-23,Mesa de escritório,Móveis,Nordeste,Diego,4,740,0,2960.0
+11621,2025-10-23,Suporte para notebook,Acessórios,Nordeste,Carla,3,120,0,360.0
+11622,2025-10-23,Caixa de som,Áudio,Centro-Oeste,Diego,5,420,5,1995.0
+11623,2025-10-23,Webcam HD,Acessórios,Nordeste,Elisa,2,190,0,380.0
+11624,2025-10-24,Monitor 24,Informática,Sul,Bruno,1,890,15,756.5
+11625,2025-10-24,Monitor 24,Informática,Sul,Carla,5,890,0,4450.0
+11626,2025-10-25,Suporte para notebook,Acessórios,Sul,Elisa,5,120,0,600.0
+11627,2025-10-25,Suporte para notebook,Acessórios,Sudeste,Fábio,3,120,5,342.0
+11628,2025-10-26,Mouse sem fio,Informática,Sudeste,Fábio,2,85,0,170.0
+11629,2025-10-26,Notebook 14,Informática,Nordeste,Ana,5,3200,0,16000.0
+11630,2025-10-26,Caixa de som,Áudio,Sudeste,Ana,4,420,10,1512.0
+11631,2025-10-26,Mouse sem fio,Informática,Sudeste,Ana,3,85,5,242.25
+11632,2025-10-26,Monitor 24,Informática,Sudeste,Bruno,3,890,5,2536.5
+11633,2025-10-26,Mesa de escritório,Móveis,Nordeste,Fábio,4,740,0,2960.0
+11634,2025-10-27,Teclado mecânico,Informática,Nordeste,Carla,5,310,0,1550.0
+11635,2025-10-27,Monitor 24,Informática,Sudeste,Ana,2,890,0,1780.0
+11636,2025-10-27,Webcam HD,Acessórios,Nordeste,Ana,3,190,15,484.5
+11637,2025-10-27,Webcam HD,Acessórios,Sul,Elisa,5,190,0,950.0
+11638,2025-10-27,Monitor 24,Informática,Sudeste,Gabi,1,890,0,890.0
+11639,2025-10-28,Webcam HD,Acessórios,Sul,Diego,1,190,0,190.0
+11640,2025-10-28,Suporte para notebook,Acessórios,Sudeste,Ana,4,120,0,480.0
+11641,2025-10-28,Cadeira ergonômica,Móveis,Sudeste,Hugo,1,1150,0,1150.0
+11642,2025-10-29,Cadeira ergonômica,Móveis,Sudeste,Fábio,1,1150,10,1035.0
+11643,2025-10-29,Mouse sem fio,Informática,Sul,Ana,2,85,0,170.0
+11644,2025-10-29,Monitor 24,Informática,Sudeste,Diego,3,890,15,2269.5
+11645,2025-10-29,Mouse sem fio,Informática,Nordeste,Bruno,4,85,0,340.0
+11646,2025-10-29,Caixa de som,Áudio,Sudeste,Bruno,4,420,5,1596.0
+11647,2025-10-29,Mesa de escritório,Móveis,Norte,Bruno,2,740,5,1406.0
+11648,2025-10-29,Mouse sem fio,Informática,Sul,Bruno,4,85,0,340.0
+11649,2025-10-29,Cadeira ergonômica,Móveis,Nordeste,Hugo,3,1150,0,3450.0
+11650,2025-10-29,Mouse sem fio,Informática,Nordeste,Bruno,3,85,15,216.75
+11651,2025-10-30,Notebook 14,Informática,Sudeste,Ana,4,3200,0,12800.0
+11652,2025-10-30,Webcam HD,Acessórios,Sudeste,Gabi,1,190,0,190.0
+11653,2025-10-30,Webcam HD,Acessórios,Sudeste,Ana,2,190,0,380.0
+11654,2025-10-30,Cadeira ergonômica,Móveis,Norte,Bruno,4,1150,5,4370.0
+11655,2025-10-30,Teclado mecânico,Informática,Nordeste,Elisa,5,310,10,1395.0
+11656,2025-10-31,Suporte para notebook,Acessórios,Sudeste,Gabi,4,120,0,480.0
+11657,2025-10-31,Suporte para notebook,Acessórios,Nordeste,Diego,5,120,5,570.0
+11658,2025-10-31,Webcam HD,Acessórios,Sul,Bruno,3,190,0,570.0
+11659,2025-10-31,Notebook 14,Informática,Sul,Diego,2,3200,5,6080.0
+11660,2025-10-31,Fone bluetooth,Áudio,Sudeste,Gabi,1,260,0,260.0
+11661,2025-11-01,Mouse sem fio,Informática,Sudeste,Bruno,4,85,0,340.0
+11662,2025-11-01,Fone bluetooth,Áudio,Norte,Fábio,5,260,5,1235.0
+11663,2025-11-01,Caixa de som,Áudio,Sul,Ana,1,420,0,420.0
+11664,2025-11-01,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,2,1150,5,2185.0
+11665,2025-11-01,Suporte para notebook,Acessórios,Centro-Oeste,Bruno,2,120,5,228.0
+11666,2025-11-02,Cadeira ergonômica,Móveis,Nordeste,Bruno,3,1150,15,2932.5
+11667,2025-11-02,Notebook 14,Informática,Sul,Diego,1,3200,0,3200.0
+11668,2025-11-02,Suporte para notebook,Acessórios,Sul,Elisa,5,120,10,540.0
+11669,2025-11-02,Caixa de som,Áudio,Centro-Oeste,Diego,2,420,5,798.0
+11670,2025-11-02,Cadeira ergonômica,Móveis,Sudeste,Carla,1,1150,15,977.5
+11671,2025-11-02,Mouse sem fio,Informática,Sul,Carla,3,85,0,255.0
+11672,2025-11-03,Mesa de escritório,Móveis,Sul,Bruno,4,740,0,2960.0
+11673,2025-11-03,Suporte para notebook,Acessórios,Sudeste,Gabi,5,120,0,600.0
+11674,2025-11-03,Caixa de som,Áudio,Sul,Bruno,5,420,5,1995.0
+11675,2025-11-03,Suporte para notebook,Acessórios,Sudeste,Ana,5,120,0,600.0
+11676,2025-11-03,Cadeira ergonômica,Móveis,Sudeste,Diego,1,1150,0,1150.0
+11677,2025-11-03,Suporte para notebook,Acessórios,Sudeste,Hugo,1,120,5,114.0
+11678,2025-11-03,Cadeira ergonômica,Móveis,Sudeste,Ana,4,1150,0,4600.0
+11679,2025-11-03,Monitor 24,Informática,Centro-Oeste,Gabi,3,890,0,2670.0
+11680,2025-11-03,Monitor 24,Informática,Sudeste,Hugo,3,890,10,2403.0
+11681,2025-11-04,Caixa de som,Áudio,Centro-Oeste,Fábio,1,420,10,378.0
+11682,2025-11-04,Webcam HD,Acessórios,Sul,Fábio,3,190,5,541.5
+11683,2025-11-04,Monitor 24,Informática,Sudeste,Gabi,4,890,0,3560.0
+11684,2025-11-04,Webcam HD,Acessórios,Sudeste,Carla,1,190,15,161.5
+11685,2025-11-04,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,5,1150,0,5750.0
+11686,2025-11-04,Mouse sem fio,Informática,Sul,Elisa,3,85,0,255.0
+11687,2025-11-05,Teclado mecânico,Informática,Norte,Elisa,3,310,0,930.0
+11688,2025-11-05,Monitor 24,Informática,Sul,Bruno,1,890,5,845.5
+11689,2025-11-05,Notebook 14,Informática,Sudeste,Gabi,5,3200,0,16000.0
+11690,2025-11-05,Mouse sem fio,Informática,Sudeste,Gabi,1,85,0,85.0
+11691,2025-11-05,Cadeira ergonômica,Móveis,Sul,Ana,3,1150,5,3277.5
+11692,2025-11-05,Mesa de escritório,Móveis,Nordeste,Elisa,1,740,0,740.0
+11693,2025-11-05,Mesa de escritório,Móveis,Sudeste,Hugo,1,740,0,740.0
+11694,2025-11-05,Fone bluetooth,Áudio,Centro-Oeste,Bruno,3,260,0,780.0
+11695,2025-11-06,Teclado mecânico,Informática,Nordeste,Gabi,4,310,0,1240.0
+11696,2025-11-06,Mouse sem fio,Informática,Sudeste,Fábio,3,85,5,242.25
+11697,2025-11-06,Monitor 24,Informática,Centro-Oeste,Bruno,1,890,0,890.0
+11698,2025-11-06,Mesa de escritório,Móveis,Sudeste,Gabi,2,740,10,1332.0
+11699,2025-11-06,Mesa de escritório,Móveis,Sudeste,Diego,4,740,10,2664.0
+11700,2025-11-07,Mouse sem fio,Informática,Sudeste,Gabi,2,85,5,161.5
+11701,2025-11-07,Caixa de som,Áudio,Sudeste,Diego,5,420,10,1890.0
+11702,2025-11-07,Mesa de escritório,Móveis,Sudeste,Fábio,4,740,0,2960.0
+11703,2025-11-07,Suporte para notebook,Acessórios,Sudeste,Diego,5,120,15,510.0
+11704,2025-11-07,Teclado mecânico,Informática,Sudeste,Ana,1,310,5,294.5
+11705,2025-11-07,Webcam HD,Acessórios,Norte,Diego,3,190,0,570.0
+11706,2025-11-07,Mouse sem fio,Informática,Nordeste,Gabi,3,85,10,229.5
+11707,2025-11-07,Mesa de escritório,Móveis,Sul,Gabi,3,740,10,1998.0
+11708,2025-11-07,Suporte para notebook,Acessórios,Nordeste,Gabi,4,120,5,456.0
+11709,2025-11-07,Monitor 24,Informática,Nordeste,Ana,1,890,15,756.5
+11710,2025-11-07,Notebook 14,Informática,Sudeste,Elisa,5,3200,5,15200.0
+11711,2025-11-07,Notebook 14,Informática,Norte,Bruno,5,3200,0,16000.0
+11712,2025-11-08,Mesa de escritório,Móveis,Sul,Ana,1,740,5,703.0
+11713,2025-11-08,Webcam HD,Acessórios,Sul,Hugo,2,190,0,380.0
+11714,2025-11-08,Teclado mecânico,Informática,Sul,Hugo,5,310,5,1472.5
+11715,2025-11-08,Teclado mecânico,Informática,Sul,Hugo,4,310,0,1240.0
+11716,2025-11-08,Monitor 24,Informática,Nordeste,Hugo,1,890,0,890.0
+11717,2025-11-08,Webcam HD,Acessórios,Sudeste,Diego,2,190,0,380.0
+11718,2025-11-08,Suporte para notebook,Acessórios,Sudeste,Diego,2,120,0,240.0
+11719,2025-11-08,Cadeira ergonômica,Móveis,Norte,Diego,3,1150,5,3277.5
+11720,2025-11-09,Caixa de som,Áudio,Sudeste,Gabi,5,420,0,2100.0
+11721,2025-11-09,Fone bluetooth,Áudio,Nordeste,Gabi,4,260,0,1040.0
+11722,2025-11-09,Cadeira ergonômica,Móveis,Sul,Fábio,1,1150,10,1035.0
+11723,2025-11-09,Monitor 24,Informática,Nordeste,Gabi,4,890,10,3204.0
+11724,2025-11-09,Teclado mecânico,Informática,Norte,Ana,3,310,0,930.0
+11725,2025-11-09,Notebook 14,Informática,Nordeste,Carla,5,3200,0,16000.0
+11726,2025-11-10,Cadeira ergonômica,Móveis,Nordeste,Hugo,2,1150,0,2300.0
+11727,2025-11-10,Mouse sem fio,Informática,Centro-Oeste,Gabi,4,85,0,340.0
+11728,2025-11-10,Webcam HD,Acessórios,Sudeste,Ana,1,190,0,190.0
+11729,2025-11-10,Mesa de escritório,Móveis,Sudeste,Gabi,1,740,0,740.0
+11730,2025-11-10,Caixa de som,Áudio,Sudeste,Hugo,1,420,10,378.0
+11731,2025-11-10,Mesa de escritório,Móveis,Norte,Hugo,3,740,15,1887.0
+11732,2025-11-11,Monitor 24,Informática,Sudeste,Diego,3,890,10,2403.0
+11733,2025-11-11,Notebook 14,Informática,Nordeste,Gabi,4,3200,10,11520.0
+11734,2025-11-11,Notebook 14,Informática,Sudeste,Ana,4,3200,0,12800.0
+11735,2025-11-11,Suporte para notebook,Acessórios,Sudeste,Diego,1,120,0,120.0
+11736,2025-11-11,Fone bluetooth,Áudio,Nordeste,Elisa,5,260,5,1235.0
+11737,2025-11-12,Fone bluetooth,Áudio,Nordeste,Fábio,4,260,5,988.0
+11738,2025-11-12,Notebook 14,Informática,Nordeste,Gabi,1,3200,5,3040.0
+11739,2025-11-12,Webcam HD,Acessórios,Sul,Carla,4,190,0,760.0
+11740,2025-11-12,Mouse sem fio,Informática,Sudeste,Carla,4,85,0,340.0
+11741,2025-11-12,Caixa de som,Áudio,Sudeste,Bruno,3,420,5,1197.0
+11742,2025-11-12,Suporte para notebook,Acessórios,Sul,Carla,5,120,0,600.0
+11743,2025-11-13,Mouse sem fio,Informática,Centro-Oeste,Bruno,1,85,10,76.5
+11744,2025-11-13,Cadeira ergonômica,Móveis,Sul,Diego,2,1150,5,2185.0
+11745,2025-11-13,Teclado mecânico,Informática,Sudeste,Carla,4,310,5,1178.0
+11746,2025-11-13,Suporte para notebook,Acessórios,Sul,Gabi,1,120,5,114.0
+11747,2025-11-14,Monitor 24,Informática,Sul,Gabi,4,890,0,3560.0
+11748,2025-11-15,Monitor 24,Informática,Norte,Fábio,4,890,10,3204.0
+11749,2025-11-15,Suporte para notebook,Acessórios,Sudeste,Gabi,3,120,10,324.0
+11750,2025-11-16,Notebook 14,Informática,Sudeste,Fábio,2,3200,0,6400.0
+11751,2025-11-16,Fone bluetooth,Áudio,Norte,Hugo,2,260,10,468.0
+11752,2025-11-16,Caixa de som,Áudio,Sudeste,Gabi,3,420,0,1260.0
+11753,2025-11-16,Fone bluetooth,Áudio,Sudeste,Carla,4,260,5,988.0
+11754,2025-11-16,Webcam HD,Acessórios,Sudeste,Carla,1,190,0,190.0
+11755,2025-11-16,Mouse sem fio,Informática,Sudeste,Diego,1,85,0,85.0
+11756,2025-11-16,Suporte para notebook,Acessórios,Sudeste,Gabi,2,120,5,228.0
+11757,2025-11-17,Teclado mecânico,Informática,Centro-Oeste,Elisa,4,310,0,1240.0
+11758,2025-11-17,Cadeira ergonômica,Móveis,Sul,Ana,1,1150,0,1150.0
+11759,2025-11-17,Suporte para notebook,Acessórios,Nordeste,Diego,5,120,0,600.0
+11760,2025-11-17,Teclado mecânico,Informática,Centro-Oeste,Fábio,3,310,0,930.0
+11761,2025-11-17,Monitor 24,Informática,Sudeste,Elisa,2,890,0,1780.0
+11762,2025-11-18,Webcam HD,Acessórios,Norte,Elisa,5,190,0,950.0
+11763,2025-11-18,Mouse sem fio,Informática,Sudeste,Diego,4,85,0,340.0
+11764,2025-11-18,Fone bluetooth,Áudio,Sudeste,Elisa,5,260,5,1235.0
+11765,2025-11-18,Cadeira ergonômica,Móveis,Sudeste,Elisa,1,1150,0,1150.0
+11766,2025-11-18,Caixa de som,Áudio,Sudeste,Bruno,2,420,5,798.0
+11767,2025-11-18,Suporte para notebook,Acessórios,Centro-Oeste,Carla,5,120,0,600.0
+11768,2025-11-19,Monitor 24,Informática,Sul,Elisa,1,890,5,845.5
+11769,2025-11-19,Fone bluetooth,Áudio,Norte,Hugo,3,260,0,780.0
+11770,2025-11-20,Fone bluetooth,Áudio,Nordeste,Hugo,1,260,15,221.0
+11771,2025-11-20,Fone bluetooth,Áudio,Sudeste,Hugo,4,260,0,1040.0
+11772,2025-11-20,Suporte para notebook,Acessórios,Nordeste,Diego,3,120,0,360.0
+11773,2025-11-20,Fone bluetooth,Áudio,Sul,Carla,4,260,0,1040.0
+11774,2025-11-20,Caixa de som,Áudio,Sul,Elisa,3,420,0,1260.0
+11775,2025-11-21,Cadeira ergonômica,Móveis,Sul,Bruno,5,1150,0,5750.0
+11776,2025-11-21,Suporte para notebook,Acessórios,Sudeste,Gabi,4,120,15,408.0
+11777,2025-11-21,Mouse sem fio,Informática,Sudeste,Ana,4,85,15,289.0
+11778,2025-11-21,Suporte para notebook,Acessórios,Sul,Bruno,4,120,0,480.0
+11779,2025-11-21,Fone bluetooth,Áudio,Sul,Carla,5,260,0,1300.0
+11780,2025-11-22,Teclado mecânico,Informática,Sul,Fábio,3,310,15,790.5
+11781,2025-11-22,Caixa de som,Áudio,Sudeste,Fábio,4,420,5,1596.0
+11782,2025-11-22,Teclado mecânico,Informática,Sul,Diego,1,310,0,310.0
+11783,2025-11-22,Suporte para notebook,Acessórios,Nordeste,Hugo,1,120,15,102.0
+11784,2025-11-22,Mesa de escritório,Móveis,Sul,Hugo,4,740,0,2960.0
+11785,2025-11-23,Mouse sem fio,Informática,Centro-Oeste,Bruno,2,85,0,170.0
+11786,2025-11-23,Teclado mecânico,Informática,Norte,Gabi,3,310,0,930.0
+11787,2025-11-23,Suporte para notebook,Acessórios,Sudeste,Hugo,3,120,15,306.0
+11788,2025-11-24,Mesa de escritório,Móveis,Norte,Ana,4,740,5,2812.0
+11789,2025-11-24,Mouse sem fio,Informática,Centro-Oeste,Carla,5,85,15,361.25
+11790,2025-11-24,Teclado mecânico,Informática,Sul,Diego,3,310,0,930.0
+11791,2025-11-24,Caixa de som,Áudio,Sul,Gabi,2,420,0,840.0
+11792,2025-11-24,Teclado mecânico,Informática,Norte,Fábio,4,310,10,1116.0
+11793,2025-11-24,Suporte para notebook,Acessórios,Sudeste,Bruno,1,120,10,108.0
+11794,2025-11-24,Monitor 24,Informática,Sul,Diego,2,890,0,1780.0
+11795,2025-11-24,Suporte para notebook,Acessórios,Sul,Bruno,1,120,0,120.0
+11796,2025-11-24,Webcam HD,Acessórios,Sul,Elisa,1,190,0,190.0
+11797,2025-11-25,Fone bluetooth,Áudio,Sudeste,Fábio,5,260,0,1300.0
+11798,2025-11-26,Suporte para notebook,Acessórios,Sul,Diego,3,120,0,360.0
+11799,2025-11-26,Webcam HD,Acessórios,Sul,Elisa,3,190,0,570.0
+11800,2025-11-26,Mouse sem fio,Informática,Sudeste,Elisa,5,85,0,425.0
+11801,2025-11-26,Monitor 24,Informática,Centro-Oeste,Diego,3,890,5,2536.5
+11802,2025-11-26,Webcam HD,Acessórios,Centro-Oeste,Ana,2,190,0,380.0
+11803,2025-11-26,Fone bluetooth,Áudio,Sudeste,Hugo,5,260,0,1300.0
+11804,2025-11-26,Webcam HD,Acessórios,Centro-Oeste,Hugo,4,190,0,760.0
+11805,2025-11-26,Cadeira ergonômica,Móveis,Sudeste,Ana,4,1150,0,4600.0
+11806,2025-11-27,Mesa de escritório,Móveis,Nordeste,Carla,4,740,0,2960.0
+11807,2025-11-27,Caixa de som,Áudio,Sul,Bruno,4,420,0,1680.0
+11808,2025-11-28,Mouse sem fio,Informática,Nordeste,Diego,1,85,10,76.5
+11809,2025-11-28,Caixa de som,Áudio,Centro-Oeste,Diego,3,420,15,1071.0
+11810,2025-11-28,Caixa de som,Áudio,Sul,Fábio,5,420,5,1995.0
+11811,2025-11-28,Fone bluetooth,Áudio,Sudeste,Diego,4,260,0,1040.0
+11812,2025-11-28,Caixa de som,Áudio,Sudeste,Gabi,5,420,5,1995.0
+11813,2025-11-28,Notebook 14,Informática,Norte,Carla,3,3200,0,9600.0
+11814,2025-11-28,Monitor 24,Informática,Nordeste,Fábio,1,890,5,845.5
+11815,2025-11-29,Suporte para notebook,Acessórios,Sudeste,Elisa,2,120,10,216.0
+11816,2025-11-30,Webcam HD,Acessórios,Sul,Bruno,2,190,15,323.0
+11817,2025-11-30,Caixa de som,Áudio,Nordeste,Hugo,4,420,0,1680.0
+11818,2025-11-30,Caixa de som,Áudio,Nordeste,Bruno,2,420,0,840.0
+11819,2025-12-01,Cadeira ergonômica,Móveis,Nordeste,Gabi,1,1150,10,1035.0
+11820,2025-12-01,Notebook 14,Informática,Centro-Oeste,Hugo,5,3200,0,16000.0
+11821,2025-12-01,Webcam HD,Acessórios,Nordeste,Diego,2,190,0,380.0
+11822,2025-12-01,Monitor 24,Informática,Sudeste,Gabi,5,890,0,4450.0
+11823,2025-12-01,Fone bluetooth,Áudio,Sudeste,Carla,5,260,0,1300.0
+11824,2025-12-01,Fone bluetooth,Áudio,Sul,Fábio,4,260,0,1040.0
+11825,2025-12-01,Monitor 24,Informática,Sul,Diego,4,890,5,3382.0
+11826,2025-12-01,Caixa de som,Áudio,Sudeste,Ana,1,420,5,399.0
+11827,2025-12-02,Caixa de som,Áudio,Sudeste,Hugo,5,420,0,2100.0
+11828,2025-12-02,Notebook 14,Informática,Sul,Ana,3,3200,0,9600.0
+11829,2025-12-02,Notebook 14,Informática,Sul,Fábio,2,3200,0,6400.0
+11830,2025-12-02,Cadeira ergonômica,Móveis,Sudeste,Hugo,1,1150,10,1035.0
+11831,2025-12-02,Notebook 14,Informática,Norte,Diego,5,3200,5,15200.0
+11832,2025-12-02,Caixa de som,Áudio,Sul,Diego,1,420,5,399.0
+11833,2025-12-02,Mouse sem fio,Informática,Sul,Diego,3,85,0,255.0
+11834,2025-12-02,Mesa de escritório,Móveis,Centro-Oeste,Elisa,2,740,5,1406.0
+11835,2025-12-02,Suporte para notebook,Acessórios,Sudeste,Ana,1,120,0,120.0
+11836,2025-12-03,Suporte para notebook,Acessórios,Sudeste,Carla,2,120,0,240.0
+11837,2025-12-03,Webcam HD,Acessórios,Norte,Diego,1,190,5,180.5
+11838,2025-12-03,Suporte para notebook,Acessórios,Sul,Diego,2,120,10,216.0
+11839,2025-12-03,Monitor 24,Informática,Nordeste,Elisa,1,890,0,890.0
+11840,2025-12-03,Mesa de escritório,Móveis,Nordeste,Fábio,2,740,0,1480.0
+11841,2025-12-04,Cadeira ergonômica,Móveis,Norte,Elisa,3,1150,10,3105.0
+11842,2025-12-04,Monitor 24,Informática,Sul,Bruno,4,890,0,3560.0
+11843,2025-12-04,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,5,1150,0,5750.0
+11844,2025-12-04,Webcam HD,Acessórios,Nordeste,Gabi,3,190,0,570.0
+11845,2025-12-04,Webcam HD,Acessórios,Sudeste,Gabi,5,190,5,902.5
+11846,2025-12-04,Teclado mecânico,Informática,Nordeste,Elisa,5,310,0,1550.0
+11847,2025-12-04,Mesa de escritório,Móveis,Sudeste,Fábio,1,740,5,703.0
+11848,2025-12-04,Mesa de escritório,Móveis,Sul,Ana,5,740,0,3700.0
+11849,2025-12-04,Cadeira ergonômica,Móveis,Nordeste,Carla,3,1150,10,3105.0
+11850,2025-12-04,Mesa de escritório,Móveis,Sudeste,Gabi,1,740,15,629.0
+11851,2025-12-05,Teclado mecânico,Informática,Sudeste,Gabi,5,310,0,1550.0
+11852,2025-12-05,Mesa de escritório,Móveis,Sudeste,Bruno,3,740,10,1998.0
+11853,2025-12-05,Mouse sem fio,Informática,Sudeste,Bruno,3,85,0,255.0
+11854,2025-12-05,Suporte para notebook,Acessórios,Sul,Carla,2,120,15,204.0
+11855,2025-12-05,Fone bluetooth,Áudio,Nordeste,Hugo,2,260,0,520.0
+11856,2025-12-05,Notebook 14,Informática,Nordeste,Elisa,4,3200,0,12800.0
+11857,2025-12-06,Mesa de escritório,Móveis,Sudeste,Carla,1,740,10,666.0
+11858,2025-12-06,Suporte para notebook,Acessórios,Nordeste,Hugo,3,120,0,360.0
+11859,2025-12-06,Suporte para notebook,Acessórios,Centro-Oeste,Hugo,4,120,10,432.0
+11860,2025-12-06,Fone bluetooth,Áudio,Nordeste,Bruno,4,260,0,1040.0
+11861,2025-12-06,Cadeira ergonômica,Móveis,Norte,Ana,5,1150,10,5175.0
+11862,2025-12-07,Monitor 24,Informática,Norte,Diego,5,890,0,4450.0
+11863,2025-12-07,Fone bluetooth,Áudio,Nordeste,Gabi,3,260,0,780.0
+11864,2025-12-07,Fone bluetooth,Áudio,Sudeste,Bruno,3,260,10,702.0
+11865,2025-12-07,Teclado mecânico,Informática,Sudeste,Ana,4,310,10,1116.0
+11866,2025-12-07,Notebook 14,Informática,Sul,Elisa,5,3200,0,16000.0
+11867,2025-12-08,Monitor 24,Informática,Sudeste,Gabi,2,890,0,1780.0
+11868,2025-12-08,Fone bluetooth,Áudio,Sudeste,Fábio,2,260,15,442.0
+11869,2025-12-08,Cadeira ergonômica,Móveis,Sudeste,Ana,4,1150,10,4140.0
+11870,2025-12-08,Caixa de som,Áudio,Centro-Oeste,Carla,1,420,5,399.0
+11871,2025-12-08,Cadeira ergonômica,Móveis,Sudeste,Bruno,2,1150,5,2185.0
+11872,2025-12-08,Notebook 14,Informática,Sudeste,Carla,4,3200,5,12160.0
+11873,2025-12-08,Cadeira ergonômica,Móveis,Nordeste,Elisa,4,1150,0,4600.0
+11874,2025-12-08,Cadeira ergonômica,Móveis,Sudeste,Ana,2,1150,5,2185.0
+11875,2025-12-09,Fone bluetooth,Áudio,Nordeste,Diego,5,260,0,1300.0
+11876,2025-12-09,Monitor 24,Informática,Nordeste,Hugo,4,890,5,3382.0
+11877,2025-12-09,Webcam HD,Acessórios,Sudeste,Ana,2,190,5,361.0
+11878,2025-12-09,Suporte para notebook,Acessórios,Sul,Carla,1,120,0,120.0
+11879,2025-12-09,Webcam HD,Acessórios,Sul,Bruno,1,190,0,190.0
+11880,2025-12-10,Cadeira ergonômica,Móveis,Sudeste,Carla,2,1150,0,2300.0
+11881,2025-12-10,Webcam HD,Acessórios,Sudeste,Hugo,1,190,0,190.0
+11882,2025-12-10,Suporte para notebook,Acessórios,Nordeste,Bruno,3,120,0,360.0
+11883,2025-12-10,Teclado mecânico,Informática,Sul,Fábio,1,310,5,294.5
+11884,2025-12-10,Mouse sem fio,Informática,Nordeste,Elisa,4,85,0,340.0
+11885,2025-12-10,Suporte para notebook,Acessórios,Sudeste,Carla,2,120,0,240.0
+11886,2025-12-11,Caixa de som,Áudio,Nordeste,Ana,2,420,15,714.0
+11887,2025-12-12,Suporte para notebook,Acessórios,Sudeste,Diego,2,120,5,228.0
+11888,2025-12-12,Mouse sem fio,Informática,Sul,Carla,1,85,0,85.0
+11889,2025-12-12,Cadeira ergonômica,Móveis,Norte,Gabi,4,1150,10,4140.0
+11890,2025-12-12,Mesa de escritório,Móveis,Norte,Hugo,5,740,5,3515.0
+11891,2025-12-13,Mesa de escritório,Móveis,Centro-Oeste,Diego,3,740,0,2220.0
+11892,2025-12-13,Mouse sem fio,Informática,Norte,Hugo,4,85,0,340.0
+11893,2025-12-13,Webcam HD,Acessórios,Sudeste,Diego,2,190,0,380.0
+11894,2025-12-13,Caixa de som,Áudio,Sudeste,Gabi,2,420,0,840.0
+11895,2025-12-13,Webcam HD,Acessórios,Sudeste,Hugo,4,190,5,722.0
+11896,2025-12-13,Monitor 24,Informática,Sudeste,Gabi,5,890,15,3782.5
+11897,2025-12-14,Mouse sem fio,Informática,Norte,Fábio,5,85,15,361.25
+11898,2025-12-14,Caixa de som,Áudio,Sul,Fábio,2,420,0,840.0
+11899,2025-12-14,Caixa de som,Áudio,Sudeste,Carla,4,420,0,1680.0
+11900,2025-12-14,Teclado mecânico,Informática,Nordeste,Gabi,3,310,5,883.5
+11901,2025-12-14,Notebook 14,Informática,Sudeste,Diego,2,3200,5,6080.0
+11902,2025-12-14,Caixa de som,Áudio,Centro-Oeste,Bruno,4,420,5,1596.0
+11903,2025-12-14,Monitor 24,Informática,Sudeste,Bruno,1,890,0,890.0
+11904,2025-12-14,Mouse sem fio,Informática,Sul,Bruno,5,85,5,403.75
+11905,2025-12-15,Teclado mecânico,Informática,Sul,Ana,1,310,15,263.5
+11906,2025-12-15,Fone bluetooth,Áudio,Sudeste,Bruno,1,260,0,260.0
+11907,2025-12-15,Webcam HD,Acessórios,Sul,Bruno,1,190,15,161.5
+11908,2025-12-15,Caixa de som,Áudio,Sudeste,Carla,3,420,0,1260.0
+11909,2025-12-16,Cadeira ergonômica,Móveis,Centro-Oeste,Elisa,1,1150,0,1150.0
+11910,2025-12-16,Monitor 24,Informática,Nordeste,Fábio,2,890,0,1780.0
+11911,2025-12-16,Webcam HD,Acessórios,Sul,Ana,1,190,10,171.0
+11912,2025-12-16,Teclado mecânico,Informática,Nordeste,Bruno,4,310,10,1116.0
+11913,2025-12-17,Teclado mecânico,Informática,Sudeste,Bruno,3,310,0,930.0
+11914,2025-12-17,Caixa de som,Áudio,Sul,Elisa,4,420,0,1680.0
+11915,2025-12-17,Webcam HD,Acessórios,Nordeste,Elisa,4,190,0,760.0
+11916,2025-12-17,Mesa de escritório,Móveis,Sul,Diego,1,740,0,740.0
+11917,2025-12-17,Suporte para notebook,Acessórios,Nordeste,Gabi,2,120,15,204.0
+11918,2025-12-17,Fone bluetooth,Áudio,Sul,Bruno,5,260,0,1300.0
+11919,2025-12-17,Caixa de som,Áudio,Sul,Gabi,4,420,5,1596.0
+11920,2025-12-17,Caixa de som,Áudio,Nordeste,Diego,3,420,0,1260.0
+11921,2025-12-17,Monitor 24,Informática,Sudeste,Ana,4,890,5,3382.0
+11922,2025-12-17,Mouse sem fio,Informática,Sudeste,Elisa,2,85,0,170.0
+11923,2025-12-17,Fone bluetooth,Áudio,Nordeste,Fábio,3,260,0,780.0
+11924,2025-12-17,Mesa de escritório,Móveis,Nordeste,Elisa,5,740,0,3700.0
+11925,2025-12-18,Teclado mecânico,Informática,Sudeste,Fábio,3,310,5,883.5
+11926,2025-12-18,Webcam HD,Acessórios,Centro-Oeste,Fábio,2,190,5,361.0
+11927,2025-12-18,Cadeira ergonômica,Móveis,Norte,Ana,3,1150,10,3105.0
+11928,2025-12-18,Cadeira ergonômica,Móveis,Sudeste,Gabi,5,1150,15,4887.5
+11929,2025-12-18,Caixa de som,Áudio,Norte,Carla,4,420,5,1596.0
+11930,2025-12-18,Cadeira ergonômica,Móveis,Centro-Oeste,Diego,2,1150,0,2300.0
+11931,2025-12-18,Mesa de escritório,Móveis,Sudeste,Diego,5,740,0,3700.0
+11932,2025-12-18,Mouse sem fio,Informática,Nordeste,Elisa,5,85,5,403.75
+11933,2025-12-18,Mouse sem fio,Informática,Nordeste,Hugo,5,85,15,361.25
+11934,2025-12-19,Mouse sem fio,Informática,Nordeste,Fábio,3,85,10,229.5
+11935,2025-12-19,Mesa de escritório,Móveis,Nordeste,Fábio,1,740,0,740.0
+11936,2025-12-20,Fone bluetooth,Áudio,Sudeste,Elisa,1,260,0,260.0
+11937,2025-12-20,Mouse sem fio,Informática,Sudeste,Hugo,1,85,0,85.0
+11938,2025-12-20,Caixa de som,Áudio,Nordeste,Fábio,2,420,0,840.0
+11939,2025-12-20,Webcam HD,Acessórios,Sul,Carla,4,190,0,760.0
+11940,2025-12-20,Cadeira ergonômica,Móveis,Centro-Oeste,Bruno,1,1150,0,1150.0
+11941,2025-12-20,Webcam HD,Acessórios,Nordeste,Carla,2,190,10,342.0
+11942,2025-12-20,Caixa de som,Áudio,Sudeste,Carla,5,420,0,2100.0
+11943,2025-12-20,Monitor 24,Informática,Sul,Elisa,4,890,0,3560.0
+11944,2025-12-21,Mesa de escritório,Móveis,Centro-Oeste,Gabi,1,740,0,740.0
+11945,2025-12-21,Suporte para notebook,Acessórios,Sudeste,Carla,5,120,0,600.0
+11946,2025-12-21,Fone bluetooth,Áudio,Sul,Elisa,1,260,0,260.0
+11947,2025-12-21,Mesa de escritório,Móveis,Sudeste,Elisa,2,740,10,1332.0
+11948,2025-12-21,Mesa de escritório,Móveis,Sudeste,Diego,4,740,0,2960.0
+11949,2025-12-22,Mesa de escritório,Móveis,Sudeste,Ana,4,740,5,2812.0
+11950,2025-12-22,Caixa de som,Áudio,Sudeste,Elisa,3,420,5,1197.0
+11951,2025-12-22,Monitor 24,Informática,Norte,Diego,3,890,0,2670.0
+11952,2025-12-23,Suporte para notebook,Acessórios,Sudeste,Hugo,3,120,0,360.0
+11953,2025-12-23,Monitor 24,Informática,Sul,Ana,1,890,5,845.5
+11954,2025-12-23,Fone bluetooth,Áudio,Nordeste,Elisa,3,260,0,780.0
+11955,2025-12-23,Teclado mecânico,Informática,Sul,Bruno,5,310,0,1550.0
+11956,2025-12-23,Monitor 24,Informática,Sudeste,Bruno,3,890,5,2536.5
+11957,2025-12-24,Teclado mecânico,Informática,Nordeste,Bruno,1,310,5,294.5
+11958,2025-12-24,Suporte para notebook,Acessórios,Nordeste,Fábio,1,120,5,114.0
+11959,2025-12-24,Notebook 14,Informática,Sudeste,Diego,5,3200,10,14400.0
+11960,2025-12-24,Suporte para notebook,Acessórios,Sul,Diego,5,120,0,600.0
+11961,2025-12-24,Webcam HD,Acessórios,Sudeste,Ana,2,190,0,380.0
+11962,2025-12-24,Mouse sem fio,Informática,Sudeste,Carla,1,85,15,72.25
+11963,2025-12-25,Webcam HD,Acessórios,Sudeste,Carla,3,190,10,513.0
+11964,2025-12-25,Cadeira ergonômica,Móveis,Centro-Oeste,Ana,3,1150,0,3450.0
+11965,2025-12-25,Mouse sem fio,Informática,Nordeste,Carla,2,85,0,170.0
+11966,2025-12-25,Caixa de som,Áudio,Centro-Oeste,Gabi,2,420,0,840.0
+11967,2025-12-25,Mouse sem fio,Informática,Sudeste,Carla,5,85,0,425.0
+11968,2025-12-26,Webcam HD,Acessórios,Sul,Fábio,4,190,15,646.0
+11969,2025-12-26,Suporte para notebook,Acessórios,Sudeste,Hugo,5,120,0,600.0
+11970,2025-12-26,Caixa de som,Áudio,Centro-Oeste,Carla,3,420,0,1260.0
+11971,2025-12-26,Caixa de som,Áudio,Norte,Diego,1,420,0,420.0
+11972,2025-12-26,Teclado mecânico,Informática,Sudeste,Hugo,2,310,15,527.0
+11973,2025-12-26,Mesa de escritório,Móveis,Sudeste,Hugo,2,740,0,1480.0
+11974,2025-12-26,Caixa de som,Áudio,Norte,Ana,3,420,5,1197.0
+11975,2025-12-26,Monitor 24,Informática,Sudeste,Diego,4,890,0,3560.0
+11976,2025-12-27,Cadeira ergonômica,Móveis,Sudeste,Bruno,3,1150,0,3450.0
+11977,2025-12-27,Notebook 14,Informática,Nordeste,Hugo,4,3200,5,12160.0
+11978,2025-12-27,Webcam HD,Acessórios,Sudeste,Hugo,3,190,0,570.0
+11979,2025-12-28,Mouse sem fio,Informática,Sul,Diego,3,85,0,255.0
+11980,2025-12-28,Mouse sem fio,Informática,Sul,Ana,4,85,0,340.0
+11981,2025-12-28,Monitor 24,Informática,Centro-Oeste,Carla,5,890,15,3782.5
+11982,2025-12-28,Notebook 14,Informática,Norte,Elisa,4,3200,10,11520.0
+11983,2025-12-28,Webcam HD,Acessórios,Sudeste,Ana,5,190,10,855.0
+11984,2025-12-29,Webcam HD,Acessórios,Sul,Carla,5,190,0,950.0
+11985,2025-12-29,Monitor 24,Informática,Nordeste,Hugo,1,890,0,890.0
+11986,2025-12-29,Monitor 24,Informática,Sudeste,Elisa,2,890,5,1691.0
+11987,2025-12-29,Caixa de som,Áudio,Sul,Elisa,4,420,0,1680.0
+11988,2025-12-30,Cadeira ergonômica,Móveis,Sul,Fábio,1,1150,0,1150.0
+11989,2025-12-30,Fone bluetooth,Áudio,Sudeste,Diego,2,260,0,520.0
+11990,2025-12-30,Caixa de som,Áudio,Norte,Carla,2,420,0,840.0
+11991,2025-12-30,Mouse sem fio,Informática,Sul,Fábio,3,85,10,229.5
+11992,2025-12-30,Caixa de som,Áudio,Sudeste,Gabi,4,420,0,1680.0
+11993,2025-12-30,Mouse sem fio,Informática,Sudeste,Diego,3,85,10,229.5
+11994,2025-12-30,Mouse sem fio,Informática,Nordeste,Gabi,5,85,10,382.5
+11995,2025-12-30,Webcam HD,Acessórios,Sul,Bruno,5,190,5,902.5
+11996,2025-12-31,Notebook 14,Informática,Sul,Fábio,5,3200,0,16000.0
+11997,2025-12-31,Caixa de som,Áudio,Nordeste,Ana,2,420,0,840.0
+11998,2025-12-31,Caixa de som,Áudio,Norte,Bruno,5,420,15,1785.0
+11999,2025-12-31,Webcam HD,Acessórios,Sudeste,Fábio,4,190,0,760.0
+12000,2025-12-31,Teclado mecânico,Informática,Sudeste,Carla,5,310,15,1317.5
